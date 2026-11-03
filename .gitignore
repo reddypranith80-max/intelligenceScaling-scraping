@@ -1,0 +1,11 @@
+# Raw data is too large for GitHub; it is committed as split .gz parts instead
+data/*.jsonl
+r_*.jsonl
+*.jsonl
+!data/*.jsonl.gz.part*
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db
