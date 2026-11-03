@@ -80,7 +80,7 @@ CHARACTERS = [
     ("Guo Jia", "Romance of the Three Kingdoms", "Classic novel", ["Guo Jia"]),
     ("Sima Yi", "Romance of the Three Kingdoms", "Classic novel", ["Sima Yi"]),
     # Other novels
-    ("Vincent Lalo", "Vincent Lalo (web novel)", "Web novel", ["Vincent Lalo", "!Lalo"]),
+    ("Vincent Lalo", "Usogui", "Manga", ["Vincent Lalo", "Vincent Laur", "!Lalo"]),
     ("Klein Moretti", "Lord of the Mysteries", "Web novel", ["Klein Moretti", "!Klein"]),
     ("Paul Atreides", "Dune", "Novel", ["Paul Atreides", "Leto II"]),
     ("Medea Solon", "Your Throne", "Webtoon/novel", ["Medea Solon"]),

@@ -1,26 +1,18 @@
-﻿medium,works,characters,character_mentions
-Manga,28,45,129283
-Light novel,8,25,62817
-Manga/Anime,2,9,47370
-Web novel,9,11,24167
-Game,8,16,19267
-TV,14,16,14470
-Novel/TV,2,4,11259
-Novel,9,10,8567
-Comic,4,7,7063
-TV/Novel,2,2,5360
-Visual novel,2,3,5182
-Anime,1,1,4244
-Film,3,4,2498
-Classic novel,1,4,2088
-Real life,1,5,1640
-Webtoon,3,3,945
-Manga/TV,1,2,833
-TV/Comic,2,2,785
-Game/Novel,1,1,362
-Comic/Film,1,2,341
-Novel/Film/TV,1,1,251
-Webtoon/novel,1,1,94
-Novel/Film,2,2,92
-Online fiction,1,1,90
-Film/Memoir,1,1,33
+﻿medium,works,characters,character_mentions,title_mentions
+Manga,50,170,225414,29750
+Light novel,16,57,71249,8786
+TV,34,63,28526,5579
+Game,25,60,24441,3541
+Web novel,23,33,22929,6551
+Novel,35,49,19237,3744
+Comic,5,24,9206,870
+Visual novel,6,14,7457,2146
+Anime,2,7,5144,742
+Film,13,15,5066,1890
+Classic novel,2,13,3266,131
+Webtoon,4,4,2536,264
+Online fiction,1,1,89,647
+Classic,1,1,56,6
+Manhua,1,0,0,767
+Comic/TV,1,0,0,297
+Online,1,0,0,84

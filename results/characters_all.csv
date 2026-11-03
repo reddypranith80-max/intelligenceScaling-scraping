@@ -1,0 +1,567 @@
+﻿rank,character,work,medium,tier,total_mentions,posts,comments,post_titles,avg_score,comments_on_threads_titled_with_them,first_mentioned,last_mentioned,2023,2024,2025,2026,aliases_matched
+1,Light Yagami,Death Note,Manga/Anime,A (curated),28715,3051,25664,1605,3.07,26044,2023-11-13,2026-11-03,7,2459,15950,10299,light yagami; yagami light; light; kira; fent yagami; yagami; kiras
+2,Ayanokoji Kiyotaka,Classroom of the Elite,Light novel,A (curated),28703,2899,25804,1521,3.46,27325,2023-11-10,2026-11-03,8,2803,15958,9934,ayanokoji; ayanokouji; ayanakoji; ayanokji; kiyotaka; koji; ayano; ayanaokoji
+3,Baku Madarame,Usogui,Manga,A (curated),23516,2324,21192,1106,3.18,17596,2023-11-10,2026-11-03,13,1971,12129,9403,baku madarame; madarame; baku; bakus
+4,Akiyama Shinichi,Liar Game,Manga,A (curated),23178,2302,20876,1070,3.23,18474,2023-11-11,2026-11-03,5,1682,14264,7227,akiyama; shinchi akiyama; akiyama shinchi; aki; akiyamas
+5,Katagiri Yuuichi,Tomodachi Game,Manga,A (curated),16305,1474,14831,692,3.09,11790,2023-11-10,2026-11-03,5,1857,9584,4859,yuuichi; yuiichi; yuichi; katagiri; yuuchi; yuuichis
+6,Johan Liebert,Monster,Manga,A (curated),11530,916,10614,414,2.97,6604,2023-12-04,2026-11-03,3,1039,6790,3698,johan; liebert; libert; johans; kid johan
+7,Hal (Prime Minister),Usogui,Manga,A (reviewed),10329,968,9361,415,3.03,6003,2023-12-04,2026-11-03,1,1153,6105,3070,hal; pm hal; prime minister hal; hal prime minister
+8,Fang Yuan,Reverend Insanity,Web novel,A (curated),9140,1187,7953,591,3.49,10125,2023-11-10,2026-11-03,8,1070,5089,2973,fang yuan; yuan; yuan fang
+9,Yokoya Norihiko,Liar Game,Manga,A (curated),8799,900,7899,359,3.13,5672,2023-11-24,2026-11-03,2,723,4835,3239,yokoya; norihiko; yokoyas
+10,Hannibal Lecter,Hannibal / Thomas Harris novels,Novel/TV,A (curated),7775,1101,6674,459,2.82,5228,2023-12-10,2026-11-03,2,765,3927,3081,hannibal; lecter; hannibals; lector; chesapeake ripper; hannibal lecter
+11,L Lawliet,Death Note,Manga/Anime,A (curated),7569,1475,6094,854,3.2,11764,2023-11-14,2026-11-03,2,920,4502,2145,l lawliet; lawliet; ctw l; canon l; cannon l; animanga l; vs l; l vs
+12,Tokuchi Toua,One Outs,Manga,A (reviewed),7508,746,6762,340,2.76,5325,2023-11-13,2026-11-03,2,486,4137,2883,toua; tokuchi; tokuichi; tokuchi toua
+13,Yumeko Jabami,Kakegurui,Manga,A (curated),6588,592,5996,265,3.05,5213,2024-01-17,2026-11-03,0,1631,3798,1159,yumeko; jabami
+14,Akagi Shigeru,Akagi,Manga,A (curated),6239,690,5549,260,3.12,3024,2024-01-19,2026-11-03,0,552,3756,1931,akagi shigeru; shigeru akagi; akagi; shigeru
+15,Patrick Jane,The Mentalist,TV,A (curated),5991,1086,4905,518,3.5,8152,2023-12-10,2026-11-03,2,442,3016,2531,patrick jane; jane; janes
+16,Chen Ran,18 Levels of Hell,Web novel,A (curated),5369,750,4619,363,4.22,6241,2025-11-07,2026-11-03,0,0,684,4685,chen ran
+17,Kanade Otonokoji,Super Danganronpa 2 (fan),Game,A (curated),4778,438,4340,196,2.7,3036,2024-04-21,2026-11-03,0,176,2690,1912,kanade; otonokoji
+18,Vincent Lalo,Usogui,Manga,A (curated),4537,555,3982,222,2.97,2936,2023-11-13,2026-11-02,3,386,2398,1750,vincent lalo; vincent laur; lalo
+19,Yagami Takuya,Classroom of the Elite,Light novel,A (curated),4503,583,3920,249,3.26,3730,2023-11-20,2026-11-02,1,695,2476,1331,takuya yagami; yagami takuya; takuya
+20,Near (Nate River),Death Note,Manga/Anime,A (curated),4439,481,3958,167,2.86,2060,2023-12-05,2026-11-03,1,483,2251,1704,nate river; mt near; near; nears
+21,Lelouch vi Britannia,Code Geass,Anime,A (curated),4340,492,3848,190,2.95,2780,2023-12-04,2026-11-02,3,559,2547,1231,lelouch; lulu; lelouch lamperouge; vi britannia
+22,Sherlock Holmes,Sherlock Holmes (Conan Doyle novels),Novel,A (curated),4320,500,3820,143,2.83,1424,2024-01-18,2026-11-03,0,343,2216,1761,sherlock; holmes; sherlocks; sigerson
+23,Junko Enoshima,Danganronpa,Game,A (curated),3860,318,3542,126,2.97,2246,2024-02-12,2026-11-02,0,519,2328,1013,junko; enoshima
+24,Nagumo Miyabi,Classroom of the Elite,Light novel,A (curated),3664,352,3312,106,2.88,1687,2024-03-29,2026-11-03,0,472,1912,1280,nagumo
+25,Kiruma Souichi,Usogui,Manga,A (curated),3637,645,2992,274,3.7,3540,2023-11-10,2026-11-03,4,417,1801,1415,kiruma souichi; souichi kiruma; kiruma; souichi; souchi; soichi
+26,Horikita Suzune,Classroom of the Elite,Light novel,A (curated),3471,272,3199,120,2.87,2051,2023-11-20,2026-11-03,2,277,1379,1813,suzune; horikita; suzune horikita
+27,Ryuen Kakeru,Classroom of the Elite,Light novel,A (curated),3425,290,3135,61,2.94,708,2024-02-23,2026-11-02,0,322,1516,1587,ryuen; ryuuen; ryueen; kakeru
+28,Red John,The Mentalist,TV,A (curated),3360,643,2717,289,3.5,4063,2024-01-11,2026-11-03,0,267,1777,1316,red john
+29,Sora (NGNL),No Game No Life,Light novel,A (curated),3320,452,2868,155,3.22,1760,2023-11-20,2026-11-03,2,314,2252,752,sora
+30,Batman,DC Comics,Comic,A (curated),3259,464,2795,211,3.09,1776,2023-11-13,2026-11-03,3,334,1545,1377,batman; bruce wayne; dark knight; arkham batman
+31,Mello,Death Note,Manga/Anime,A (curated),3127,390,2737,132,2.78,1533,2023-12-05,2026-11-03,1,336,1455,1335,mello
+32,Conan Edogawa / Shinichi Kudo,Detective Conan,Manga,A (curated),3068,374,2694,126,2.97,1269,2024-01-10,2026-11-02,0,208,1656,1204,conan; kudo shinichi; shinichi kudo; edogawa; kudo; edogawa conan
+33,Dexter Morgan,Dexter,TV/Novel,A (curated),3010,452,2558,236,2.84,2244,2024-07-08,2026-11-03,0,81,1674,1255,dexter; dexter morgan
+34,Beatrice,Umineko,Visual novel,A (curated),2911,247,2664,114,3.09,2133,2024-04-23,2026-11-02,0,109,2086,716,beatrice; beato; bernkastel
+35,Dazai Osamu,Bungo Stray Dogs,Manga/Anime,A (curated),2733,369,2364,137,2.89,1720,2023-11-10,2026-11-03,5,343,1884,501,dazai; beast dazai; osamu dazai; osamu
+36,Gregory House,House M.D.,TV,A (curated),2600,446,2154,102,3.37,925,2024-01-18,2026-11-03,0,77,1522,1001,gregory house; dr house; house
+37,Nagito Komaeda,Danganronpa,Game,A (curated),2502,251,2251,109,2.62,1536,2024-05-27,2026-10-29,0,243,1794,465,nagito; komaeda
+38,Kokichi Ouma,Danganronpa,Game,A (curated),2480,247,2233,98,2.84,1290,2024-04-27,2026-11-02,0,176,1728,576,kokichi; kokichi oma; ouma
+39,Senku Ishigami,Dr. Stone,Manga,A (curated),2460,218,2242,79,3.09,812,2024-01-30,2026-11-03,0,220,1214,1026,senku; ishigami; senku ishigami
+40,Joe Goldberg,You,TV/Novel,A (curated),2305,343,1962,206,2.51,2134,2024-03-29,2026-10-28,0,77,1392,836,joe goldberg; joe
+41,John Kramer (Jigsaw),Saw,Film,A (curated),2293,291,2002,152,3.25,1745,2023-11-11,2026-11-03,2,39,911,1341,jigsaw; john kramer; kramer
+42,Arisu (ambiguous: Sakayanagi / Ryohei),Classroom of the Elite,Light novel,A (reviewed),2161,232,1929,74,3.03,780,2023-12-05,2026-11-01,1,203,1196,761,arisu; arisu ambiguous sakayanagi ryohei
+43,Seonghyun Moon (Dr. Frost),Dr. Frost,Webtoon,A (curated),2137,301,1836,110,2.86,1005,2024-05-28,2026-11-02,0,501,1170,466,seonghyun moon; dr frost; moon; moon seonghyun; seonghyun
+44,Aqua Hoshino,Oshi no Ko,Manga,A (curated),2108,242,1866,139,3.08,1732,2023-11-13,2026-10-31,2,262,1632,212,aqua hoshino; aqua
+45,Amasawa Ichika,Classroom of the Elite,Light novel,A (curated),2093,165,1928,73,2.9,1093,2024-03-22,2026-11-02,0,291,1223,579,ichika; amasawa
+46,Kirari Momobami,Kakegurui,Manga,A (curated),2036,195,1841,81,2.88,1638,2024-06-17,2026-11-02,0,427,1409,200,kirari; momobami
+47,Ichinose Honami,Classroom of the Elite,Light novel,A (curated),2017,160,1857,39,2.96,426,2024-05-27,2026-11-01,0,117,1049,851,ichinose; honami
+48,Fyodor Dostoevsky,Bungo Stray Dogs,Manga/Anime,A (curated),1971,305,1666,118,2.79,1301,2023-11-11,2026-11-03,3,234,1171,563,fyodor; dostoevsky; fydor; fyodor dostoevsky
+49,Eren Yeager,Attack on Titan,Manga,A (curated),1933,74,1859,24,2.49,936,2024-07-05,2026-10-24,0,77,1816,40,eren; yeager
+50,Aizen Sosuke,Bleach,Manga,A (curated),1892,182,1710,100,2.82,1338,2023-12-04,2026-11-01,1,142,1166,583,aizen; kyoka suigetsu; sosuke aizen
+51,Moriarty (BBC/other),Sherlock Holmes,Novel/TV,A (curated),1883,267,1616,99,2.84,833,2024-01-06,2026-11-03,0,241,1032,610,jim moriarty; moriarty
+52,Akane Kurashiki,Zero Escape,Visual novel,A (curated),1710,213,1497,114,3.36,1950,2024-05-15,2026-11-03,0,41,1014,655,akane kurashiki; akane; kurashiki
+53,Subaru Natsuki,Re:Zero,Light novel,A (curated),1705,242,1463,124,3.23,1168,2024-07-22,2026-11-02,0,125,1133,447,subaru; natsuki subaru
+54,Misa Amane,Death Note,Manga/Anime,A (reviewed),1686,141,1545,19,2.92,307,2024-01-11,2026-11-02,0,157,839,690,misa; amane; misa amane
+55,Kuze Masachika,Roshidere,Light novel,A (curated),1646,189,1457,82,3.07,1184,2024-08-25,2026-10-29,0,295,1183,168,kuze; masachika; masachika kuze
+56,Kyoko Kirigiri / Danganronpa cast,Danganronpa,Game/Novel,A (curated),1616,201,1415,74,3.14,1062,2024-02-02,2026-10-31,0,176,1077,363,kirigiri; kyoko kirigiri; kyoko
+57,Walter White,Breaking Bad,TV,A (curated),1610,273,1337,126,3.68,1635,2024-01-04,2026-10-31,0,102,786,722,walter white; heisenberg; walt; waltuh
+58,Kushida Kikyou,Classroom of the Elite,Light novel,A (curated),1584,145,1439,37,2.98,477,2024-04-30,2026-10-31,0,186,758,640,kushida
+59,Nao (ambiguous),Liar Game,Manga,A (reviewed),1529,218,1311,35,3.9,484,2023-12-05,2026-11-03,1,129,887,512,nao; nao ambiguous
+60,Mary Saotome,Kakegurui,Manga,A (curated),1447,135,1312,54,2.93,1296,2024-03-29,2026-11-03,0,217,1015,215,mary saotome; mary; saotome
+61,Michael Scofield,Prison Break,TV,A (curated),1413,155,1258,49,2.7,605,2024-10-08,2026-11-02,0,190,778,445,scofield; schofield; micheal scofield; michael schofield
+62,The Joker,DC Comics,Comic,A (curated),1385,246,1139,117,3.31,835,2024-02-05,2026-11-02,0,134,673,578,joker
+63,Kaiji Itou,Kaiji,Manga,A (curated),1318,255,1063,94,3.61,688,2023-12-05,2026-11-03,1,175,817,325,kaiji
+64,Koenji Rokusuke,Classroom of the Elite,Light novel,A (curated),1288,127,1161,43,2.98,500,2024-06-11,2026-11-03,0,85,443,760,koenji
+65,Muzan Kibutsuji,Demon Slayer,Manga,A (curated),1261,89,1172,50,2.93,1288,2024-05-30,2026-10-25,0,17,1134,110,muzan
+66,William James Moriarty,Moriarty the Patriot,Manga,A (curated),1238,224,1014,91,2.73,749,2024-01-05,2026-10-31,0,177,685,376,william james moriarty; wjm
+67,Gustavo Fring,Breaking Bad,TV,A (curated),1217,114,1103,41,3.01,573,2024-01-17,2026-11-02,0,46,499,672,gus fring; gustavo fring; fring; gus
+68,Horikita Manabu,Classroom of the Elite,Light novel,A (curated),1215,103,1112,32,2.57,384,2023-12-05,2026-11-02,1,48,486,680,manabu
+69,Battler Ushiromiya,Umineko,Visual novel,A (curated),1197,110,1087,50,3.08,926,2024-01-27,2026-10-31,0,98,816,283,battler; ushiromiya
+70,Shiro (NGNL),No Game No Life,Light novel,A (curated),1193,187,1006,54,3.21,734,2023-12-04,2026-10-30,2,128,767,296,shiro
+71,Oreki Houtarou,Hyouka,Light novel,A (curated),1148,133,1015,52,2.81,570,2024-04-21,2026-11-03,0,189,750,209,oreki
+72,William Afton,Five Nights at Freddy's,Game,A (curated),1132,115,1017,41,2.46,277,2023-11-30,2026-11-03,1,54,635,442,afton
+73,Klein Moretti,Lord of the Mysteries,Web novel,A (curated),1125,143,982,73,2.78,754,2023-11-10,2026-11-02,7,148,549,421,klein moretti; klein
+74,Midori / Shin,Your Turn to Die,Game,A (curated),1086,117,969,51,2.79,511,2024-05-26,2026-10-31,0,53,680,353,midori; shin; hiyori; sou hiyori
+75,Izuru Kamukura,Danganronpa,Game,A (curated),1083,83,1000,32,2.84,374,2023-11-16,2026-11-02,1,178,732,172,izuru; kamukura
+76,Kaji Takaomi,Usogui,Manga,A (curated),1071,185,886,53,3.35,467,2023-12-05,2026-11-02,1,135,601,334,kaji takaomi; kaji; takaomi
+77,Ang Xiao,Struggling to Survive in the Demonic Sect,Web novel,A (curated),1054,146,908,53,4.05,729,2025-10-18,2026-11-03,0,0,276,778,ang xiao
+78,Goku,Dragon Ball,Manga,A (curated),1028,97,931,51,3.23,600,2024-01-13,2026-10-31,0,97,579,352,goku
+79,Kenzo Tenma,Monster,Manga,A (reviewed),982,82,900,19,3.52,423,2024-06-28,2026-11-03,0,44,672,266,tenma; dr tenma; kenzo tenma
+80,Zhuge Liang,Romance of the Three Kingdoms,Classic novel,A (curated),950,101,849,36,3.25,509,2024-05-06,2026-11-02,0,18,484,448,zhuge liang; zhuge; kongming
+81,Makima,Chainsaw Man,Manga,A (curated),947,127,820,71,3.07,1197,2023-12-05,2026-11-03,1,121,572,253,makima
+82,Guo Jia,Romance of the Three Kingdoms,Classic novel,A (curated),921,116,805,33,3.42,382,2024-05-22,2026-11-02,0,31,566,324,guo jia
+83,Lind L. Tailor,Death Note,Manga/Anime,A (reviewed),903,73,830,12,3.08,213,2023-12-17,2026-11-02,1,57,459,386,lind; lind l tailor
+84,Kenjaku,Jujutsu Kaisen,Manga,A (curated),851,132,719,90,2.98,712,2023-12-01,2026-11-03,3,97,271,480,kenjaku
+85,Riku Dola,No Game No Life,Light novel,A (curated),827,69,758,20,2.59,220,2024-06-17,2026-11-03,0,42,706,79,riku
+86,Li Gang,Vile Dominion,Web novel,A (curated),815,112,703,34,3.04,636,2025-09-19,2026-11-01,0,0,396,419,li gang
+87,Emperor Palpatine,Star Wars,Film,A (curated),794,95,699,39,3.23,302,2024-05-31,2026-11-02,0,33,433,328,palpatine
+88,Suteguma Satoru,Usogui,Manga,A (curated),788,71,717,25,3.13,249,2024-06-14,2026-11-01,0,72,401,315,suteguma; sutegama
+89,Ozymandias,Watchmen,Comic,A (curated),783,125,658,63,3.09,563,2024-04-11,2026-10-29,0,21,344,418,ozymandias; veidt
+90,Shinigami (Death Note),Death Note,Manga/Anime,A (reviewed),781,91,690,19,3.11,111,2024-06-06,2026-11-02,0,46,417,318,shinigami; shinigamis; shinigami death note
+91,Grand Admiral Thrawn,Star Wars (Thrawn novels),Novel,A (curated),773,93,680,34,2.87,234,2024-08-23,2026-10-15,0,15,404,354,thrawn; admiral thrawn
+92,Fukunaga Yuji,Liar Game,Manga,A (curated),770,142,628,32,4.02,291,2023-11-24,2026-11-03,1,56,410,303,fukunaga
+93,Teru Mikami,Death Note,Manga/Anime,A (reviewed),761,68,693,8,2.58,77,2024-01-11,2026-11-03,0,55,348,358,mikami; teru mikami
+94,Chishiya Shuntaro,Alice in Borderland,Manga/TV,A (curated),739,130,609,67,2.81,616,2024-06-14,2026-11-03,0,14,511,214,chishiya; shuntaro chishiya
+95,Sakayanagi Arisu,Classroom of the Elite,Light novel,A (curated),721,133,588,47,3.34,921,2024-05-27,2026-11-02,0,63,321,337,sakayanagi; arisu sakayanagi
+96,Niu Youdao,Heavenly Genius,Web novel,A (curated),699,121,578,54,4.1,736,2026-02-03,2026-11-01,0,0,0,699,niu youdao; youdao
+97,Edogawa Ranpo,Bungo Stray Dogs,Manga/Anime,A (reviewed),687,92,595,22,2.65,191,2024-06-22,2026-11-02,0,96,415,176,ranpo; edogawa ranpo
+98,Inspector Lunge,Monster,Manga,A (reviewed),647,51,596,16,2.59,191,2024-02-23,2026-11-02,0,45,317,285,lunge; inspector lunge
+99,Ryuk,Death Note,Manga/Anime,A (reviewed),627,79,548,4,3.58,78,2024-01-13,2026-10-24,0,25,354,248,ryuk
+100,Raye Penber,Death Note,Manga/Anime,A (reviewed),617,57,560,10,3.03,161,2024-01-11,2026-10-28,0,29,361,227,raye; penber; raye penber; ray penber
+101,The Riddler,DC Comics,Comic,A (curated),615,101,514,44,2.86,413,2024-06-14,2026-11-03,0,67,297,251,riddler
+102,Hercule Poirot,Agatha Christie novels,Novel,A (reviewed),611,79,532,18,2.99,116,2024-01-27,2026-10-31,0,53,281,277,poirot; hercule poirot
+103,Kimura Kei,Liar Game,Manga,A (curated),605,116,489,37,3.5,459,2024-06-11,2026-10-30,0,64,267,274,kimura kei; kei kimura; kimura
+104,Napoleon Bonaparte,(real person),Real life,A (curated),597,69,528,23,2.94,456,2024-01-18,2026-11-03,0,45,336,216,napoleon; bonaparte; bonaparta
+105,Will Graham,Hannibal / Thomas Harris novels,Novel/TV,A (curated),588,155,433,53,3.49,623,2024-04-23,2026-10-26,0,50,292,246,will graham
+106,Lucifer Morningstar,Lucifer,TV/Comic,A (curated),580,73,507,29,2.5,182,2024-01-09,2026-10-27,0,10,307,263,lucifer
+107,Washizu Iwao,Akagi,Manga,A (curated),578,84,494,44,3.13,376,2024-04-23,2026-11-03,0,21,276,281,washizu; iwao; washizu iwao
+108,Siesta (The Detective Is Already Dead),The Detective Is Already Dead,Light novel,A (reviewed),564,70,494,33,3.37,390,2023-11-20,2026-10-31,2,101,313,148,siesta; siesta the detective is already dead
+109,Reverse Flash,DC Comics,Comic,A (reviewed),550,74,476,38,4.21,770,2024-05-24,2026-10-30,0,38,472,40,reverse flash; reverseflash
+110,Tsukishiro,Classroom of the Elite,Light novel,A (curated),529,61,468,17,3.22,96,2024-06-14,2026-11-02,0,35,246,248,tsukishiro
+111,Satoru Gojo,Jujutsu Kaisen,Manga,A (reviewed),523,65,458,35,2.76,320,2024-08-17,2026-11-03,0,21,225,277,gojo; satoru gojo
+112,Paul Atreides,Dune,Novel,A (curated),522,142,380,92,3.7,1712,2024-02-15,2026-10-23,0,78,416,28,paul atreides; leto ii
+113,Sukuna,Jujutsu Kaisen,Manga,A (curated),522,59,463,36,2.84,375,2024-09-01,2026-11-03,0,38,226,258,sukuna
+114,Erika Furudo,Umineko,Visual novel,A (reviewed),510,46,464,18,2.91,177,2024-06-25,2026-11-01,0,29,300,181,erika furudo; erika; furudo
+115,Kokorogi Yutori,Tomodachi Game,Manga,A (reviewed),507,53,454,10,3.0,92,2024-05-28,2026-10-22,0,57,230,220,kokorogi; yutori; kokorogi yutori
+116,Jesus Christ,(religion),Real life,A (reviewed),496,21,475,10,2.13,131,2024-10-28,2026-10-31,0,14,366,116,jesus; jesus christ
+117,Mikasa Tenji,Tomodachi Game,Manga,A (curated),493,64,429,21,3.14,271,2024-06-24,2026-11-02,0,34,300,159,tenji mikasa; mikasa tenji; tenji
+118,Ririka Momobami,Kakegurui,Manga,A (curated),492,31,461,7,2.84,151,2024-07-21,2026-10-29,0,34,372,86,ririka
+119,Magnus Carlsen,(real person),Real life,A (curated),486,30,456,15,3.2,94,2024-07-21,2026-11-02,0,24,240,222,carlsen; magnus
+120,Celestia Ludenberg,Danganronpa,Game,A (curated),475,31,444,12,2.89,469,2024-11-26,2026-11-03,0,7,389,79,celestia
+121,Beyond Birthday,Death Note,Manga/Anime,A (curated),471,194,277,90,4.25,1115,2024-01-11,2026-11-02,0,60,251,160,beyond birthday
+122,Isaac Newton,(real person),Real life,A (reviewed),459,45,414,18,3.86,436,2024-07-22,2026-11-02,0,12,312,135,newton; isaac newton
+123,Harimoto,Liar Game,Manga,A (reviewed),443,75,368,12,3.86,61,2023-11-24,2026-10-30,1,48,208,186,harimoto
+124,Monika (DDLC),Doki Doki Literature Club,Game,A (reviewed),440,69,371,31,2.86,226,2024-08-09,2026-11-02,0,5,182,253,monika; monika ddlc
+125,Columbo,Columbo,TV,A (curated),434,47,387,17,2.78,102,2024-04-19,2026-10-29,0,18,192,224,columbo
+126,Shogo Makishima,Psycho-Pass,Anime,A (reviewed),432,72,360,26,2.61,190,2024-01-10,2026-10-29,0,85,245,102,makishima; shogo makishima
+127,Zodiac Killer,(historical),Real life,A (reviewed),428,62,366,15,3.21,120,2024-01-23,2026-10-30,0,40,198,190,zodiac; zodiac killer
+128,Kaguya Shinomiya,Kaguya-sama: Love Is War,Manga,A (reviewed),421,51,370,22,2.87,471,2024-02-01,2026-09-27,0,74,312,35,kaguya; kaguya shinomiya
+129,Marco (Usogui),Usogui,Manga,A (reviewed),409,54,355,5,3.35,49,2024-05-30,2026-11-01,0,34,252,123,marco; marco usogui
+130,Gintoki Sakata,Gintama,Manga,A (curated),407,46,361,32,3.29,283,2025-03-22,2026-10-25,0,0,290,117,gintoki
+131,Adolf Hitler,(historical),Real life,A (reviewed),404,36,368,18,3.95,227,2024-04-19,2026-10-26,0,46,261,97,hitler; adolf hitler
+132,Touta Matsuda,Death Note,Manga/Anime,A (reviewed),398,45,353,10,3.49,130,2024-01-11,2026-10-24,0,43,231,124,matsuda; touta matsuda
+133,Watari,Death Note,Manga/Anime,A (reviewed),397,59,338,1,3.56,2,2024-01-11,2026-10-25,0,41,163,193,watari
+134,James Doakes,Dexter,TV,A (reviewed),386,62,324,33,3.44,227,2024-07-16,2026-10-20,0,2,190,194,doakes; james doakes
+135,Gonen,Usogui,Manga,A (curated),374,57,317,15,3.43,144,2023-11-17,2026-11-03,3,63,203,105,gonen
+136,Kang Jinhyuk,Solo Max-Level Newbie,Web novel,A (reviewed),374,61,313,13,4.18,219,2024-06-08,2026-10-31,0,14,108,252,kang jinhyuk; kang jinhyeok; jinhyuk; jinhyeok
+137,Kinderheim 511,Monster,Manga,A (reviewed),365,23,342,6,2.45,68,2024-06-28,2026-11-02,0,24,244,97,kinderheim; kinderheim 511
+138,Phoenix Wright,Ace Attorney,Game,A (curated),364,144,220,45,4.54,439,2023-11-25,2026-10-31,1,51,154,158,phoenix wright
+139,Furina,Genshin Impact,Game,A (reviewed),360,35,325,19,3.32,700,2024-07-02,2026-11-03,0,36,308,16,furina; focalors
+140,Lu Yang,(unidentified web novel),Web novel,A (reviewed),353,39,314,5,3.28,51,2025-09-23,2026-11-01,0,0,85,268,lu yang
+141,Shinobu Kaitani (author),Liar Game,Manga,A (reviewed),351,61,290,15,4.05,109,2024-08-09,2026-11-02,0,14,182,155,kaitani; shinobu kaitani; shinobu kaitani author
+142,Yotsuba Group,Death Note,Manga/Anime,A (reviewed),349,46,303,3,3.11,38,2024-11-08,2026-10-25,0,26,173,150,yotsuba; yotsuba group
+143,Hirata Yosuke,Classroom of the Elite,Light novel,A (reviewed),347,44,303,2,3.65,8,2024-04-30,2026-10-31,0,36,146,165,hirata; hirata yosuke
+144,Brian Finch,Limitless,Novel/Film/TV,A (curated),346,76,270,21,3.03,228,2024-04-02,2026-11-03,0,23,210,113,brian finch; finch
+145,Isagi Yoichi,Blue Lock,Manga,A (curated),344,51,293,29,2.76,321,2024-07-03,2026-10-31,0,27,217,100,isagi
+146,Nanase Tsubasa,Classroom of the Elite,Light novel,A (reviewed),343,26,317,2,2.79,81,2024-06-01,2026-10-22,0,18,81,244,nanase; nanase tsubasa
+147,Miles Edgeworth,Ace Attorney,Game,A (reviewed),342,57,285,13,2.74,241,2024-08-09,2026-11-02,0,6,110,226,edgeworth; miles edgeworth
+148,Kyosuke Higuchi,Death Note,Manga/Anime,A (reviewed),341,33,308,1,2.94,10,2024-08-27,2026-10-25,0,43,151,147,higuchi; kyosuke higuchi
+149,Einstein,(real person),Real life,A (curated),337,52,285,12,4.89,86,2024-02-20,2026-10-29,0,28,174,135,einstein; albert einstein
+150,Qiu Yinong,18 Levels of Hell,Web novel,A (reviewed),337,60,277,11,4.35,96,2025-11-14,2026-11-01,0,0,31,306,qiu yinong; yinong
+151,Sudo Ken,Classroom of the Elite,Light novel,A (reviewed),335,48,287,0,4.15,0,2024-04-30,2026-10-31,0,38,127,170,sudo; sudou; sudo ken
+152,Doctor Doom,Marvel,Comic,A (curated),334,53,281,34,2.64,264,2024-02-05,2026-11-02,0,44,148,142,doctor doom; dr doom
+153,Housen Kazuomi,Classroom of the Elite,Light novel,A (reviewed),332,20,312,4,2.58,94,2024-06-01,2026-10-25,0,14,93,225,housen; hosen; housen kazuomi
+154,Itachi Uchiha,Naruto,Manga,A (curated),330,26,304,20,2.04,294,2024-05-30,2026-10-30,0,12,215,103,itachi
+155,Mike Ehrmantraut,Better Call Saul,TV,A (reviewed),325,39,286,11,2.62,60,2024-08-11,2026-11-02,0,45,112,168,mike ehrmantraut; mike
+156,Naomi Misora,Death Note,Manga/Anime,A (curated),322,77,245,26,3.15,337,2024-01-11,2026-10-10,0,27,164,131,naomi misora
+157,Darth Vader,Star Wars,Film,A (reviewed),321,20,301,6,3.0,145,2024-07-05,2026-10-23,0,7,193,121,vader; darth vader; anakin
+158,Alastor,Hazbin Hotel,TV,A (reviewed),321,46,275,21,2.73,227,2024-11-07,2026-10-27,0,3,77,241,alastor
+159,Kei Shinomiya,Tomodachi Game,Manga,A (reviewed),315,56,259,31,3.71,488,2024-06-01,2026-10-28,0,40,196,79,kei shinomiya; shinomiya
+160,Wisdom Gu,Reverend Insanity,Web novel,A (reviewed),313,18,295,1,2.57,32,2024-04-28,2026-10-27,0,25,140,148,wisdom gu
+161,Kaito Kid,Magic Kaito,Manga,A (curated),307,78,229,25,3.37,167,2024-04-23,2026-10-29,0,32,134,141,kaito kid; kaitou kid; kid the phantom thief
+162,Rika Furude,Higurashi,Visual novel,A (reviewed),302,17,285,5,2.78,110,2024-11-30,2026-11-01,0,6,255,41,rika; rika furude
+163,Lalo Salamanca,Better Call Saul,TV,A (reviewed),299,91,208,37,3.38,314,2024-05-25,2026-10-31,0,41,150,108,lalo salamanca; salamanca
+164,Mark Hoffman,Saw,Film,A (curated),295,35,260,5,2.71,49,2024-01-22,2026-10-19,0,9,128,158,hoffman
+165,Kisuke Urahara,Bleach,Manga,A (reviewed),287,36,251,14,2.33,142,2024-01-03,2026-10-28,0,15,143,129,urahara; kisuke; kisuke urahara
+166,Izaya Orihara,Durarara!!,Light novel,A (curated),286,30,256,8,2.08,115,2024-05-02,2026-11-02,0,23,217,46,izaya
+167,Tanya Degurechaff,Saga of Tanya the Evil,Light novel,A (curated),281,35,246,17,2.76,154,2024-04-21,2026-10-27,0,18,183,80,tanya
+168,John Constantine,Hellblazer / DC,Comic,A (curated),280,27,253,14,2.67,90,2024-06-24,2026-10-25,0,8,127,145,constantine
+169,Kanzaki Nao,Liar Game,Manga,A (curated),276,66,210,21,4.1,154,2023-12-05,2026-11-01,1,17,140,118,kanzaki nao; nao kanzaki; kanzaki
+170,Luther Roy,(community-made novel),Novel,A (curated),270,54,216,32,4.65,360,2026-04-04,2026-10-30,0,0,0,270,luther roy
+171,Judge Holden,Blood Meridian,Novel,A (curated),268,56,212,28,3.56,296,2024-04-28,2026-10-22,0,32,174,62,judge holden
+172,Kiyomi Takada,Death Note,Manga/Anime,A (reviewed),267,23,244,0,2.54,0,2024-01-11,2026-10-24,0,16,127,124,takada; kiyomi takada
+173,Qi Xia,Ten Days Ultimatum,Web novel,A (reviewed),266,47,219,21,3.78,145,2025-05-03,2026-10-27,0,0,52,214,qi xia
+174,Saul Goodman,Better Call Saul,TV,A (curated),264,85,179,42,4.32,306,2023-11-25,2026-10-27,1,26,139,98,saul goodman; jimmy mcgill; goodman
+175,Chen Yang,18 Levels of Hell,Web novel,A (reviewed),264,31,233,12,4.33,124,2025-12-21,2026-11-01,0,0,3,261,chen yang
+176,Cai Zhiyuan,God's Imitator,Web novel,A (curated),262,52,210,16,4.34,291,2026-03-03,2026-10-28,0,0,0,262,cai zhiyuan; cai zhuyuan; zhiyuan
+177,Ibuki Mio,Classroom of the Elite,Light novel,A (reviewed),257,42,215,2,4.62,8,2024-09-24,2026-10-31,0,6,122,129,ibuki; ibuki mio
+178,Shikamaru Nara,Naruto,Manga,A (curated),252,26,226,16,2.31,135,2024-06-04,2026-10-23,0,31,134,87,shikamaru
+179,Nameless Monster,Monster,Manga,A (reviewed),252,72,180,19,5.51,252,2024-09-16,2026-10-27,0,15,164,73,nameless monster; the nameless monster; thenamelessmonster
+180,Superman,DC Comics,Comic,A (reviewed),251,43,208,16,2.94,124,2024-03-24,2026-10-29,0,39,111,101,superman
+181,Kei Karuizawa,Classroom of the Elite,Light novel,A (reviewed),250,36,214,5,3.98,122,2024-09-24,2026-10-31,0,18,137,95,karuizawa; kei karuizawa
+182,Yamauchi Haruki,Classroom of the Elite,Light novel,A (reviewed),250,33,217,5,4.22,43,2024-06-06,2026-11-03,0,38,118,94,yamauchi; yamauchi haruki
+183,Eurus Holmes,Sherlock (BBC),TV,A (reviewed),247,48,199,13,2.42,55,2024-02-12,2026-11-03,0,16,74,157,eurus; eurus holmes
+184,Chrollo Lucilfer,Hunter x Hunter,Manga,A (curated),245,45,200,28,2.38,171,2024-07-09,2026-10-13,0,6,79,160,chrollo
+185,Amako (Usogui),Usogui,Manga,A (reviewed),242,32,210,2,3.36,25,2023-12-05,2026-11-01,1,2,94,145,amako; amako usogui
+186,W. D. Gaster,Undertale,Game,A (reviewed),241,36,205,25,3.1,371,2024-12-27,2026-10-25,0,2,3,236,gaster; w d gaster
+187,Lin Sizhi,God's Imitator,Web novel,A (curated),237,39,198,10,4.11,120,2025-12-29,2026-10-28,0,0,2,235,lin sizhi; sizhi
+188,Brian Moser,Dexter,TV,A (curated),237,85,152,51,3.25,431,2024-08-09,2026-10-27,0,7,120,110,brian moser
+189,Zhou Yu,Romance of the Three Kingdoms,Classic novel,A (reviewed),236,15,221,2,2.97,6,2024-05-22,2026-10-21,0,7,165,64,zhou yu
+190,Sima Yi,Romance of the Three Kingdoms,Classic novel,A (curated),235,44,191,7,3.64,48,2024-04-28,2026-10-30,0,18,136,81,sima yi
+191,Satone Ayaka,Tomodachi Game,Manga,A (reviewed),235,28,207,5,2.93,26,2024-05-30,2026-10-20,0,35,108,92,satone; satone ayaka
+192,Stockfish,(chess engine),Real life,A (reviewed),234,15,219,6,2.76,118,2024-08-31,2026-10-31,0,16,122,96,stockfish
+193,Shen Jihan,(unidentified web novel),Web novel,A (curated),233,36,197,17,3.79,210,2026-01-31,2026-11-01,0,0,0,233,shen jihan; jihan
+194,Jotaro Kujo,JoJo's Bizarre Adventure,Manga,A (reviewed),231,28,203,15,2.51,86,2024-01-05,2026-11-03,0,11,131,89,jotaro; kujo; jotaro kujo
+195,Bai Ning Bing,Reverend Insanity,Web novel,A (reviewed),228,30,198,8,3.27,143,2024-01-06,2026-10-28,0,21,130,77,bai ning bing; ning bing
+196,Loki,Marvel,Comic/Film,A (curated),227,54,173,37,2.22,219,2024-07-18,2026-10-16,0,5,181,41,loki
+197,Shu Renjun,18 Levels of Hell,Web novel,A (reviewed),227,37,190,6,4.7,59,2025-12-09,2026-11-01,0,0,5,222,shu renjun; renjun
+198,Ayanokoji Atsuomi,Classroom of the Elite,Light novel,A (curated),226,25,201,10,3.11,35,2024-08-17,2026-10-30,0,12,91,123,atsuomi
+199,Rick Sanchez,Rick and Morty,TV,A (curated),225,78,147,31,3.72,190,2024-02-02,2026-10-31,0,34,98,93,rick sanchez; sanchez
+200,Frontman (Hwang In-ho),Squid Game,TV,A (reviewed),223,45,178,27,2.7,205,2024-12-31,2026-09-22,0,2,179,42,frontman; front man; frontman hwang in-ho
+201,Li Qing,The Terrible Eternal Path,Web novel,A (reviewed),220,27,193,9,3.06,99,2025-07-13,2026-10-29,0,0,55,165,li qing
+202,Jibril,No Game No Life,Light novel,A (curated),217,43,174,14,3.46,321,2024-06-29,2026-10-02,0,27,171,19,jibril
+203,Tony Stark,Marvel,Comic/Film,A (curated),217,48,169,18,4.0,104,2024-01-17,2026-10-21,0,17,127,73,tony stark; stark; ironman
+204,Tsubaki Sakurako,Classroom of the Elite,Light novel,A (reviewed),217,20,197,6,3.01,44,2024-07-03,2026-10-22,0,12,112,93,tsubaki; tsubaki sakurako
+205,Byakuya Togami,Danganronpa,Game,A (reviewed),217,33,184,5,3.04,41,2024-05-26,2026-10-14,0,21,138,58,byakuya; togami; byakuya togami
+206,Freddy Fazbear,Five Nights at Freddy's,Game,A (reviewed),217,33,184,2,2.89,11,2024-09-26,2026-10-18,0,16,140,61,freddy; fazbear; freddy fazbear
+207,Sayaka Maizono,Danganronpa,Game,A (reviewed),212,24,188,4,2.63,56,2024-09-27,2026-10-29,0,17,154,41,sayaka; sayaka maizono
+208,Naoki Urasawa (author),Monster,Manga,A (reviewed),212,21,191,2,2.85,20,2024-06-28,2026-10-28,0,16,114,82,urasawa; naoki urasawa; naoki urasawa author
+209,Donald Trump,(public figure),Real life,A (reviewed),211,39,172,4,3.6,10,2024-07-06,2026-11-03,0,12,82,117,trump; donald trump
+210,Hisoka Morow,Hunter x Hunter,Manga,A (reviewed),208,30,178,16,2.94,108,2024-07-09,2026-11-03,0,12,59,137,hisoka; hisoka morow
+211,Alex Mahone,Prison Break,TV,A (reviewed),208,26,182,9,2.52,37,2024-11-16,2026-10-18,0,18,107,83,mahone; alex mahone
+212,Mo Yao,(unidentified web novel),Web novel,A (reviewed),207,9,198,2,2.4,67,2024-07-08,2026-10-17,0,7,98,102,mo yao
+213,Tasuku Higashihama,As the Gods Will,Manga,A (reviewed),206,46,160,17,3.06,93,2024-06-10,2026-11-02,0,24,112,70,tasuku; higashihama; tasuku higashihama
+214,Hashimoto Masayoshi,Classroom of the Elite,Light novel,A (reviewed),205,28,177,4,3.16,55,2024-09-21,2026-10-15,0,10,70,125,hashimoto; hashimoto masayoshi
+215,Jin Huang,Vile Dominion,Web novel,A (reviewed),204,24,180,8,2.41,74,2025-10-07,2026-10-27,0,0,146,58,jin huang
+216,Diwu Zhiyi,(unidentified web novel),Web novel,A (reviewed),202,53,149,19,4.58,77,2025-12-29,2026-10-30,0,0,1,201,diwu zhiyi; di wu zhi yi; wu zhi yi
+217,Kinugasa Shougo,Classroom of the Elite,Light novel,A (reviewed),201,29,172,5,5.45,86,2024-08-09,2026-11-01,0,12,82,107,kinugasa; kinugasa shougo
+218,Aventurine,Honkai: Star Rail,Game,A (reviewed),198,17,181,5,2.22,72,2024-08-09,2026-10-08,0,7,119,72,aventurine
+219,Tsumugi Shirogane,Danganronpa,Game,A (reviewed),196,29,167,5,2.84,28,2024-05-27,2026-10-31,0,18,145,33,tsumugi; tsumugi shirogane
+220,Furuta Nimura,Tokyo Ghoul,Manga,A (curated),195,28,167,24,2.67,166,2024-10-04,2026-11-01,0,7,160,28,furuta
+221,Maomao,The Apothecary Diaries,Light novel,A (curated),193,34,159,14,3.74,121,2024-06-07,2026-11-01,0,4,54,135,maomao
+222,Monokuma,Danganronpa,Game,A (reviewed),192,23,169,0,2.36,0,2024-05-28,2026-10-22,0,5,136,51,monokuma
+223,Chusheng Demon Sect,Struggling to Survive in the Demonic Sect,Web novel,A (reviewed),192,54,138,13,4.97,180,2025-09-23,2026-10-31,0,0,42,150,chusheng demon sect; chusheng sect
+224,Joseph Joestar,JoJo's Bizarre Adventure,Manga,A (curated),191,29,162,13,2.66,130,2024-01-05,2026-10-16,0,5,159,27,joseph joestar
+225,Gale Bertram,The Mentalist,TV,A (reviewed),189,18,171,1,3.1,6,2024-12-14,2026-10-22,0,3,71,115,bertram; gale bertram
+226,Kindaichi Hajime,The Kindaichi Case Files,Manga,A (reviewed),187,24,163,8,2.66,82,2024-07-02,2026-11-02,0,5,12,170,kindaichi; kindaichi hajime
+227,Evil Morty,Rick and Morty,TV,A (reviewed),185,44,141,11,2.71,58,2024-01-29,2026-10-27,0,24,69,92,evil morty
+228,Xun Yu,Romance of the Three Kingdoms,Classic novel,A (reviewed),185,23,162,4,3.69,26,2024-07-29,2026-11-02,0,5,112,68,xun yu
+229,Tsugumi Ohba (author),Death Note,Manga,A (reviewed),185,12,173,1,2.65,15,2024-04-22,2026-10-14,0,11,75,99,ohba; tsugumi ohba author
+230,Dr. Watson,Sherlock Holmes (Conan Doyle novels),Novel,A (reviewed),184,37,147,2,3.7,5,2024-09-03,2026-10-26,0,3,101,80,watson; dr watson
+231,Luffy,One Piece,Manga,A (reviewed),181,16,165,8,2.52,70,2024-01-13,2026-10-23,0,21,116,44,luffy
+232,John von Neumann,(real person),Real life,A (curated),180,16,164,2,5.09,71,2024-08-13,2026-10-28,0,9,73,98,von neumann
+233,Jeffrey Epstein,(public figure),Real life,A (reviewed),180,14,166,5,3.58,110,2024-12-03,2026-10-28,0,3,35,142,epstein; jeffrey epstein
+234,Terano Totobami,Kakegurui,Manga,A (curated),178,10,168,1,2.4,1,2024-12-13,2026-10-29,0,7,116,55,terano
+235,Melvina,Melvina's Therapy,Webtoon,A (curated),177,33,144,23,2.02,328,2024-08-31,2026-09-05,0,9,151,17,melvina
+236,Hikigaya Hachiman,My Teen Romantic Comedy (Oregairu),Light novel,A (reviewed),177,23,154,5,2.71,52,2024-09-28,2026-10-26,0,22,127,28,hikigaya; hachiman; hikigaya hachiman
+237,Rimuru Tempest,That Time I Got Reincarnated as a Slime,Light novel,A (reviewed),177,11,166,5,2.13,149,2024-07-21,2026-10-24,0,7,116,54,rimuru; rimuru tempest
+238,Zeke Yeager,Attack on Titan,Manga,A (reviewed),173,17,156,3,2.66,115,2024-05-03,2026-10-16,0,28,140,5,zeke; zeke yeager
+239,Thomas McAllister,The Mentalist,TV,A (reviewed),171,24,147,2,3.36,60,2024-12-14,2026-10-22,0,5,74,92,mcallister; thomas mcallister
+240,Echidna,Re:Zero,Light novel,A (curated),169,27,142,17,3.05,99,2024-08-09,2026-10-30,0,29,95,45,echidna
+241,Tian Yi,Sinmonger,Web novel,A (reviewed),169,30,139,5,5.12,46,2026-03-27,2026-10-30,0,0,0,169,tian yi; tianyi
+242,Lin Ou,18 Levels of Hell,Web novel,A (reviewed),165,26,139,6,4.66,54,2026-01-31,2026-11-01,0,0,0,165,lin ou
+243,Lin Xuan,18 Levels of Hell,Web novel,A (reviewed),164,32,132,2,4.99,16,2026-01-13,2026-11-01,0,0,0,164,lin xuan
+244,Kellhus,The Prince of Nothing,Novel,A (reviewed),161,20,141,6,3.17,44,2025-01-30,2026-10-28,0,0,107,54,kellhus
+245,Cho Sang-woo,Squid Game,TV,A (reviewed),160,24,136,17,2.51,157,2024-12-24,2026-10-09,0,1,139,20,sang woo; sang-woo; cho sang-woo
+246,Ishigami Tetsuya,The Devotion of Suspect X,Novel,A (curated),159,67,92,39,3.72,322,2024-08-20,2026-10-22,0,1,92,66,ishigami tetsuya
+247,Matt (Death Note),Death Note,Manga/Anime,A (reviewed),158,23,135,5,2.92,70,2024-06-14,2026-10-26,0,33,77,48,matt; matt death note
+248,Lu Bu,Romance of the Three Kingdoms,Classic novel,A (curated),157,31,126,11,3.71,87,2024-04-28,2026-10-29,0,8,90,59,lu bu
+249,Soichiro Yagami,Death Note,Manga/Anime,A (reviewed),157,21,136,0,2.92,0,2024-01-11,2026-10-29,0,5,67,85,soichiro; soichiro yagami
+250,Saitama,One Punch Man,Manga,A (reviewed),157,15,142,4,2.58,93,2024-01-18,2026-11-01,0,22,68,67,saitama
+251,Spider-Man,Marvel,Comic/Film,A (reviewed),155,28,127,11,4.65,69,2024-02-02,2026-10-25,0,27,81,47,spider-man; spiderman
+252,Armin Arlert,Attack on Titan,Manga,A (reviewed),152,17,135,4,3.11,71,2024-07-09,2026-08-29,0,10,136,6,armin; armin arlert
+253,Griffith,Berserk,Manga,A (curated),151,21,130,13,2.8,64,2024-06-25,2026-10-30,0,12,104,35,griffith
+254,Chiaki Nanami,Danganronpa,Game,A (reviewed),150,11,139,3,2.38,49,2024-05-28,2026-11-03,0,11,109,30,chiaki; chiaki nanami
+255,Otto Apocalypse,Honkai Impact 3rd,Game,A (curated),149,39,110,20,3.46,191,2024-07-02,2026-10-30,0,24,100,25,otto apocalypse
+256,Pun Yunchuan,The Demon World I Designed,Web novel,A (reviewed),146,39,107,8,5.19,94,2026-05-03,2026-10-27,0,0,0,146,pun yunchuan; yunchuan
+257,Reed Richards,Marvel,Comic,A (reviewed),144,26,118,12,2.63,53,2024-01-29,2026-10-21,0,13,78,53,reed richards
+258,Featherine,Umineko,Visual novel,A (reviewed),143,7,136,2,2.83,28,2024-01-18,2026-10-30,0,22,72,49,featherine
+259,Cao Cao,Romance of the Three Kingdoms,Classic novel,A (reviewed),143,23,120,2,2.97,0,2024-08-09,2026-10-22,0,3,93,47,cao cao
+260,Lex Luthor,DC Comics,Comic,A (reviewed),142,35,107,16,3.09,71,2024-04-11,2026-10-18,0,9,68,65,lex luthor; luthor
+261,Ron Kamonohashi,Ron Kamonohashi's Forbidden Deductions,Manga,A (curated),141,56,85,19,3.62,86,2024-06-29,2026-10-31,0,17,61,63,ron kamonohashi; kamonohashi
+262,Kurapika,Hunter x Hunter,Manga,A (reviewed),140,20,120,11,2.51,91,2024-07-09,2026-09-18,0,13,69,58,kurapika
+263,Darth Sidious,Star Wars,Film,A (reviewed),140,10,130,4,2.99,10,2024-10-04,2026-10-22,0,2,42,96,sidious; darth sidious
+264,Billy Craig,Usogui,Manga,A (reviewed),138,21,117,9,3.99,72,2024-09-07,2026-10-12,0,3,62,73,billy craig
+265,Seong Gi-hun,Squid Game,TV,A (reviewed),137,21,116,7,2.83,50,2024-12-03,2026-10-12,0,9,97,31,gi hun; gi-hun; seong gi-hun
+266,Gambit / Remy,X-Men,Comic,A (reviewed),137,21,116,4,3.59,10,2024-06-12,2026-11-03,0,5,62,70,gambit; gambit remy
+267,Pang Tong,Romance of the Three Kingdoms,Classic novel,A (reviewed),137,13,124,5,3.28,35,2024-08-09,2026-11-02,0,2,48,87,pang tong
+268,Leonardo da Vinci,(real person),Real life,A (reviewed),137,21,116,8,3.79,121,2024-07-22,2026-10-26,0,8,96,33,da vinci; leonardo da vinci
+269,Hattori Heiji,Detective Conan,Manga,A (reviewed),136,13,123,3,2.38,16,2024-07-09,2026-11-01,0,1,44,91,heiji; hattori; hattori heiji
+270,Kikuzawa (Usogui),Usogui,Manga,A (reviewed),135,19,116,0,3.8,0,2024-10-24,2026-11-03,0,4,42,89,kikuzawa; kikuzawa usogui
+271,Tanjiro Kamado,Demon Slayer,Manga,A (reviewed),134,8,126,2,2.88,52,2024-10-16,2026-10-25,0,15,99,20,tanjiro; tanjiro kamado
+272,Junpei Tenmyouji,Zero Escape,Visual novel,A (reviewed),133,27,106,8,3.38,29,2024-09-08,2026-10-09,0,2,80,51,junpei; junpei tenmyouji
+273,Yujiro Hanma,Baki,Manga,A (reviewed),132,13,119,7,2.86,70,2024-01-18,2026-10-26,0,15,75,42,yujiro; yujiro hanma
+274,Suji Seong / Nambong Baek,Pyramid Game,Webtoon,A (curated),129,28,101,14,2.97,86,2024-06-08,2026-10-23,0,36,35,58,suji seong; nambong
+275,Meruem,Hunter x Hunter,Manga,A (curated),127,12,115,9,2.67,81,2024-06-26,2026-10-31,0,12,54,61,meruem
+276,Denji,Chainsaw Man,Manga,A (reviewed),127,12,115,5,2.72,62,2024-07-19,2026-09-05,0,9,69,49,denji
+277,Rorschach,Watchmen,Comic,A (reviewed),127,17,110,6,2.7,32,2024-07-08,2026-10-31,0,5,34,88,rorschach
+278,Vivec,The Elder Scrolls,Game,A (reviewed),127,9,118,3,2.46,45,2024-06-19,2026-11-02,0,2,79,46,vivec
+279,Mycroft Holmes,Sherlock Holmes (Conan Doyle novels),Novel,A (reviewed),126,18,108,2,2.95,25,2024-06-25,2026-10-07,0,10,65,51,mycroft; mycroft holmes
+280,Lu Chen,Nine Bestowments,Web novel,A (reviewed),126,21,105,4,3.74,73,2026-05-28,2026-11-01,0,0,0,126,lu chen
+281,Auguste Dupin,Poe stories,Novel,A (reviewed),125,14,111,3,2.81,9,2024-07-22,2026-10-29,0,8,38,79,dupin; auguste dupin
+282,Scott Cawthon,Five Nights at Freddy's,Game,A (reviewed),125,13,112,1,3.54,17,2024-12-11,2026-10-25,0,1,116,8,cawthon; scott cawthon
+283,Lambdadelta,Umineko,Visual novel,A (reviewed),124,9,115,3,3.13,31,2024-12-16,2026-10-30,0,2,80,42,lambda; lambdadelta
+284,Sauron,The Lord of the Rings,Novel,A (reviewed),124,25,99,10,2.78,116,2024-07-10,2026-11-02,0,13,98,13,sauron
+285,Satoko Hojo,Higurashi,Visual novel,A (reviewed),123,4,119,2,2.28,64,2024-12-24,2026-10-15,0,15,100,8,satoko; satoko hojo
+286,Megumi Fushiguro,Jujutsu Kaisen,Manga,A (reviewed),123,15,108,8,2.49,53,2025-01-02,2026-11-03,0,0,19,104,megumi; megumi fushiguro
+287,Bane,DC Comics,Comic,A (reviewed),123,21,102,8,3.28,51,2024-07-03,2026-10-16,0,11,62,50,bane
+288,Ichigo Kurosaki,Bleach,Manga,A (reviewed),122,11,111,1,2.43,36,2024-11-16,2026-10-31,0,3,73,46,ichigo; ichigo kurosaki
+289,Jimmy McGill,Better Call Saul,TV,A (reviewed),122,22,100,6,2.92,34,2024-06-17,2026-11-02,0,11,49,62,mcgill; jimmy
+290,Colonel Timo,God's Imitator,Web novel,A (reviewed),122,18,104,0,4.8,0,2025-08-30,2026-10-23,0,0,14,108,colonel timo; timo
+291,Bret Stiles,The Mentalist,TV,A (reviewed),121,8,113,2,2.38,32,2024-12-02,2026-10-22,0,3,33,85,stiles; bret stiles
+292,Gundham Tanaka,Danganronpa,Game,A (reviewed),120,14,106,8,2.54,74,2025-01-24,2026-10-13,0,0,60,60,gundham; gundham tanaka
+293,Anos Voldigoad,The Misfit of Demon King Academy,Light novel,A (reviewed),120,12,108,8,2.32,127,2024-07-03,2026-10-24,0,7,62,51,anos; anos voldigoad
+294,Mu Zixuan,Court of the Sword-Treading,Web novel,A (reviewed),119,20,99,5,4.32,59,2026-07-04,2026-10-31,0,0,0,119,mu zixuan; zixuan
+295,Yue Guanshan,(unidentified web novel),Web novel,A (reviewed),118,24,94,1,5.63,17,2026-02-16,2026-11-01,0,0,0,118,yue guanshan; guanshan
+296,Baki Hanma,Baki,Manga,A (reviewed),116,12,104,6,3.88,40,2024-01-18,2026-11-01,0,5,57,54,baki; baki hanma
+297,T-Bag,Prison Break,TV,A (reviewed),116,14,102,7,2.33,69,2024-11-10,2026-10-16,0,12,66,38,t-bag; tbag; bagwell
+298,Xing Su,Reverend Insanity,Web novel,A (reviewed),116,9,107,2,2.54,28,2024-06-15,2026-09-26,0,23,71,22,xing su
+299,Alya (Roshidere),Roshidere,Light novel,A (reviewed),115,10,105,3,2.99,39,2024-09-28,2026-10-27,0,22,74,19,alya; alya roshidere
+300,Minowa (Usogui),Usogui,Manga,A (reviewed),113,18,95,1,3.47,17,2025-01-02,2026-11-01,0,0,64,49,minowa; minowa usogui
+301,Enrico Pucci,JoJo's Bizarre Adventure,Manga,A (reviewed),113,9,104,6,2.1,47,2024-07-12,2026-11-03,0,1,64,48,pucci; enrico pucci
+302,Skyler White,Breaking Bad,TV,A (reviewed),113,8,105,2,3.38,51,2025-02-08,2026-09-18,0,0,56,57,skyler; skyler white
+303,Shawn Spencer,Psych,TV,A (curated),112,38,74,10,4.02,79,2024-06-12,2026-10-07,0,20,59,33,shawn spencer
+304,Leto II Atreides,Dune,Novel,A (reviewed),111,22,89,11,3.23,111,2024-10-03,2026-08-21,0,5,102,4,leto; leto ii atreides
+305,Erwin Smith,Attack on Titan,Manga,A (reviewed),110,12,98,7,2.49,63,2024-05-02,2026-10-13,0,34,69,7,erwin; erwin smith
+306,Utsuro,Gintama,Manga,A (reviewed),110,16,94,7,2.21,46,2024-05-28,2026-09-20,0,2,53,55,utsuro
+307,Xue Yin,(unidentified web novel),Web novel,A (curated),109,24,85,11,4.5,93,2026-04-15,2026-10-29,0,0,0,109,xue yin
+308,Nikola Tesla,(real person),Real life,A (curated),109,11,98,4,3.22,18,2024-07-03,2026-10-27,0,8,74,27,tesla
+309,Schneizel el Britannia,Code Geass,Anime,A (reviewed),108,20,88,8,3.18,38,2024-06-26,2026-10-13,0,11,67,30,schneizel; schneizel el britannia
+310,Homelander,The Boys,TV/Comic,A (curated),106,18,88,12,2.32,107,2024-10-03,2026-11-02,0,14,42,50,homelander
+311,Aoi Todo,Jujutsu Kaisen,Manga,A (reviewed),105,17,88,7,2.58,52,2024-07-08,2026-10-31,0,8,30,67,todo; aoi todo
+312,Wayne Rigsby,The Mentalist,TV,A (reviewed),104,15,89,0,4.38,0,2024-05-02,2026-10-19,0,3,57,44,rigsby; wayne rigsby
+313,Madara Uchiha,Naruto,Manga,A (reviewed),103,12,91,5,2.29,29,2024-10-13,2026-10-21,0,9,66,28,madara; madara uchiha
+314,Pennywise,It,Novel/Film,A (reviewed),103,22,81,12,2.33,101,2025-03-20,2026-10-31,0,0,81,22,pennywise
+315,Albus Dumbledore,Harry Potter,Novel,A (reviewed),103,8,95,1,3.14,13,2025-03-22,2026-11-02,0,0,38,65,dumbledore; albus dumbledore
+316,Jia Xu,Romance of the Three Kingdoms,Classic novel,A (reviewed),103,16,87,0,3.97,0,2024-08-09,2026-11-02,0,3,70,30,jia xu
+317,Miss Marple,Agatha Christie novels,Novel,A (reviewed),102,30,72,13,3.7,43,2024-01-27,2026-11-02,0,8,45,49,marple; miss marple
+318,Kaede Akamatsu,Danganronpa,Game,A (reviewed),102,21,81,3,3.12,17,2024-06-19,2026-11-02,0,7,57,38,kaede; kaede akamatsu
+319,Jack the Ripper,(historical),Real life,A (reviewed),102,29,73,9,3.28,35,2024-04-21,2026-10-30,0,9,59,34,jack the ripper
+320,Mo Tan,(unidentified web novel),Web novel,A (reviewed),102,19,83,4,4.74,65,2026-06-19,2026-11-02,0,0,0,102,mo tan
+321,Raymond Reddington,The Blacklist,TV,A (curated),101,5,96,0,2.01,0,2024-08-21,2026-10-22,0,11,61,29,reddington
+322,Toji Fushiguro,Jujutsu Kaisen,Manga,A (reviewed),101,7,94,1,2.36,10,2024-10-16,2026-10-31,0,3,29,69,toji; toji fushiguro
+323,Wang Lu,Once Upon a Spirit Blade Mountain,Web novel,A (reviewed),101,10,91,1,3.12,35,2024-07-04,2026-10-30,0,4,67,30,wang lu
+324,Chabashira Sae,Classroom of the Elite,Light novel,A (reviewed),100,15,85,1,6.05,20,2024-10-21,2026-10-30,0,3,39,58,chabashira; chabashira sae
+325,Monaca Towa,Danganronpa,Game,A (reviewed),100,19,81,8,3.01,65,2024-07-08,2026-10-31,0,3,63,34,monaca; monaca towa
+326,Shakespeare,(author),Real life,A (reviewed),100,13,87,3,4.8,28,2024-11-18,2026-10-26,0,2,61,37,shakespeare
+327,Yuta Okkotsu,Jujutsu Kaisen,Manga,A (reviewed),99,10,89,3,2.83,14,2024-09-08,2026-11-03,0,9,25,65,yuta; yuta okkotsu
+328,Sans,Undertale,Game,A (reviewed),99,24,75,11,2.98,129,2024-08-25,2026-10-16,0,2,34,63,sans
+329,Clarice Starling,Hannibal / Thomas Harris novels,Novel/TV,A (reviewed),98,25,73,8,2.56,33,2024-06-05,2026-10-31,0,7,36,55,clarice; clarice starling
+330,Dr. Eggman,Sonic the Hedgehog,Game,A (reviewed),98,23,75,5,2.65,30,2024-07-08,2026-10-07,0,8,45,45,eggman; dr eggman
+331,Sheriff (Mentalist),The Mentalist,TV,A (reviewed),97,15,82,0,4.02,0,2024-11-15,2026-10-22,0,7,42,48,sheriff; sheriff mentalist
+332,Adrian Monk,Monk,TV,A (reviewed),97,20,77,4,3.13,16,2024-04-12,2026-10-18,0,18,22,57,adrian monk
+333,Lorelei Martins,The Mentalist,TV,A (reviewed),96,9,87,0,2.32,0,2024-06-14,2026-10-22,0,3,34,59,lorelei; lorelei martins
+334,Yukawa Manabu,Galileo,Novel,A (reviewed),96,20,76,6,2.52,18,2025-04-14,2026-09-26,0,0,44,52,yukawa; yukawa manabu
+335,Kaneki Ken,Tokyo Ghoul,Manga,A (reviewed),95,3,92,1,2.01,9,2025-01-06,2026-10-24,0,0,75,20,kaneki; kaneki ken
+336,Yog-Sothoth,Cthulhu Mythos,Novel,A (reviewed),95,10,85,5,2.82,37,2023-11-18,2026-10-01,1,14,70,10,yog sothoth; yog-sothoth
+337,Fang Zheng,Reverend Insanity,Web novel,A (reviewed),95,13,82,3,3.69,14,2024-11-18,2026-10-28,0,11,56,28,fang zheng
+338,Gui Yu,(unidentified web novel),Web novel,A (reviewed),95,16,79,1,5.67,23,2025-12-05,2026-10-26,0,0,8,87,gui yu
+339,Joseph Stalin,(historical),Real life,A (reviewed),95,12,83,4,3.52,28,2024-07-03,2026-10-21,0,10,63,22,stalin; joseph stalin
+340,Technoblade,(public figure),Real life,A (reviewed),95,18,77,8,2.76,110,2024-07-12,2026-10-25,0,15,26,54,technoblade
+341,Frederick Chilton,Hannibal / Thomas Harris novels,Novel/TV,A (reviewed),94,19,75,4,3.61,31,2024-07-16,2026-10-31,0,2,43,49,chilton; frederick chilton
+342,Medea Solon,Your Throne,Webtoon/novel,A (curated),93,40,53,21,3.55,188,2024-04-02,2026-10-27,0,6,46,41,medea solon
+343,Minoru Tanaka,Death Note,Manga/Anime,A (curated),91,26,65,13,3.53,163,2024-01-11,2026-10-26,0,14,46,31,minoru tanaka
+344,Frank Lundy,Dexter,TV,A (reviewed),91,10,81,2,2.01,3,2025-01-04,2026-09-13,0,0,43,48,lundy; frank lundy
+345,Buddha,(religion),Real life,A (reviewed),91,12,79,5,2.54,37,2024-04-06,2026-10-26,0,2,62,27,buddha
+346,Kim Dokja,Omniscient Reader's Viewpoint,Web novel,A (reviewed),90,7,83,3,2.7,7,2025-02-11,2026-09-24,0,0,67,23,kim dokja; dokja
+347,Murphy Lawden,SCP Foundation,Online fiction,A (curated),89,27,62,11,3.54,67,2024-06-17,2026-10-30,0,8,38,43,murphy lawden
+348,Chucky,Child's Play,Film,A (reviewed),89,12,77,6,2.52,50,2025-03-25,2026-11-01,0,0,54,35,chucky
+349,Wiktor Forst,Forst series (Remigiusz Mroz),Novel,A (curated),88,41,47,36,3.41,208,2026-01-28,2026-11-03,0,0,0,88,wiktor forst; trawers; ekspozycja
+350,Oberon Vortigern,Fate/Grand Order,Game,A (curated),88,15,73,1,2.73,13,2024-10-14,2026-07-14,0,1,86,1,oberon
+351,Yukimura Teruhiko,Classroom of the Elite,Light novel,A (reviewed),87,19,68,0,4.51,0,2024-11-12,2026-10-27,0,7,34,46,yukimura; yukimura teruhiko
+352,Obito Uchiha,Naruto,Manga,A (reviewed),87,12,75,5,2.15,71,2024-11-15,2026-09-27,0,1,54,32,obito; obito uchiha
+353,Eddie Morra,Limitless,Novel/Film/TV,A (reviewed),86,23,63,12,2.81,42,2024-04-02,2026-11-01,0,8,42,36,eddie morra
+354,Phantom Thief Lupin,Arsène Lupin,Novel,A (reviewed),86,23,63,7,3.01,31,2024-02-12,2026-10-30,0,12,26,48,arsene lupin; phantom thief lupin
+355,Suzaku Kururugi,Code Geass,Anime,A (reviewed),85,6,79,0,3.56,0,2024-11-11,2026-09-11,0,8,48,29,suzaku; suzaku kururugi
+356,Urabe (Akagi),Akagi,Manga,A (reviewed),84,7,77,3,3.02,3,2024-12-01,2026-10-28,0,1,22,61,urabe; urabe akagi
+357,Kirumi Tojo,Danganronpa,Game,A (reviewed),83,13,70,4,3.0,37,2025-01-14,2026-09-26,0,0,25,58,kirumi; kirumi tojo
+358,Okabe Rintaro,Steins;Gate,Visual novel,A (reviewed),83,23,60,7,2.66,97,2024-07-01,2026-10-23,0,8,32,43,okabe; okabe rintaro
+359,Miyuki Shirogane,Kaguya-sama: Love Is War,Manga,A (reviewed),83,28,55,8,3.28,114,2024-02-01,2026-09-27,0,12,52,19,shirogane; miyuki shirogane
+360,Kars,JoJo's Bizarre Adventure,Manga,A (reviewed),83,18,65,4,3.75,76,2024-06-26,2026-07-05,0,3,48,32,kars
+361,Lionel Messi,(sportsperson),Real life,A (reviewed),83,7,76,4,3.05,72,2024-11-07,2026-11-02,0,1,32,50,messi; lionel messi
+362,Rolo Lamperouge,Code Geass,Anime,A (reviewed),82,11,71,6,4.39,109,2024-09-30,2026-11-01,0,9,57,16,rolo; rollo; rolo lamperouge
+363,Yugi Muto,Yu-Gi-Oh!,Manga,A (reviewed),82,22,60,10,2.51,58,2024-06-25,2026-07-22,0,5,43,34,yugi; yugi muto
+364,Hans Georg Schuwald,Monster,Manga,A (reviewed),81,7,74,0,2.41,0,2024-08-11,2026-11-03,0,7,35,39,schuwald; hans georg schuwald
+365,Satan,(religion),Real life,A (reviewed),81,15,66,5,3.51,20,2024-07-01,2026-10-21,0,5,37,39,satan
+366,Mikasa Ackerman,Attack on Titan,Manga,A (reviewed),80,5,75,0,2.54,0,2024-12-24,2026-06-12,0,4,73,3,mikasa; mikasa ackerman
+367,Penguin,DC Comics,Comic,A (reviewed),80,12,68,7,3.06,44,2024-12-07,2026-10-12,0,16,35,29,penguin
+368,Chen Qing,The Demon World I Designed,Web novel,A (reviewed),79,10,69,3,3.48,29,2026-02-19,2026-10-27,0,0,0,79,chen qing
+369,Sheldon Cooper,The Big Bang Theory,TV,A (curated),78,25,53,12,4.45,269,2024-05-22,2026-10-21,0,8,52,18,sheldon cooper
+370,Sasuke Uchiha,Naruto,Manga,A (reviewed),78,7,71,2,2.65,25,2024-06-01,2026-10-30,0,6,45,27,sasuke; sasuke uchiha
+371,Julius Caesar,(historical),Real life,A (reviewed),78,18,60,5,2.17,9,2024-01-17,2026-10-23,0,7,37,34,caesar; julius caesar
+372,Assane Diop,Lupin,TV,A (curated),77,6,71,2,2.01,12,2025-04-09,2026-10-27,0,0,44,33,assane; diop
+373,Wolfgang Grimmer,Monster,Manga,A (reviewed),77,3,74,0,2.74,0,2024-08-11,2026-09-06,0,4,60,13,grimmer; wolfgang grimmer
+374,Professor Layton,Professor Layton,Game,A (reviewed),77,10,67,6,2.56,70,2023-11-25,2026-10-31,1,3,10,63,layton; professor layton
+375,Levi Ackerman,Attack on Titan,Manga,A (reviewed),77,8,69,3,2.14,55,2024-12-18,2026-08-12,0,15,56,6,levi; levi ackerman
+376,Kamui (Gintama),Gintama,Manga,A (reviewed),77,9,68,2,1.95,10,2024-12-29,2026-10-17,0,5,21,51,kamui; kamui gintama
+377,Thanos,Marvel,Comic/Film,A (reviewed),77,13,64,6,2.55,58,2024-09-30,2026-09-27,0,9,43,25,thanos
+378,Gilgamesh,Fate series,Light novel,A (reviewed),76,11,65,7,2.04,155,2024-08-03,2026-10-15,0,2,63,11,gilgamesh
+379,Mahoraga,Jujutsu Kaisen,Manga,A (reviewed),76,15,61,5,3.09,45,2024-08-08,2026-10-31,0,7,31,38,mahoraga
+380,Midari Ikishima,Kakegurui,Manga,A (reviewed),74,15,59,0,3.08,0,2024-11-19,2026-10-22,0,11,37,26,midari; ikishima; midari ikishima
+381,Pariston Hill,Hunter x Hunter,Manga,A (reviewed),74,14,60,7,2.65,24,2024-07-17,2026-10-16,0,2,13,59,pariston; pariston hill
+382,Michael Myers,Halloween,Film,A (reviewed),74,31,43,17,3.24,152,2024-12-31,2026-11-01,0,1,36,37,michael myers
+383,Ning Yu,(unidentified web novel),Web novel,A (reviewed),74,3,71,3,1.82,79,2026-09-09,2026-10-31,0,0,0,74,ning yu
+384,Mukuro Ikusaba,Danganronpa,Game,A (reviewed),73,12,61,4,3.12,34,2024-06-06,2026-10-14,0,6,38,29,mukuro; mukuro ikusaba
+385,Guts,Berserk,Manga,A (reviewed),73,12,61,3,2.51,40,2024-06-06,2026-10-12,0,7,52,14,guts
+386,Ghostface,Scream,Film,A (reviewed),73,16,57,12,2.15,71,2024-01-18,2026-10-01,0,2,28,43,ghostface
+387,Scarecrow,DC Comics,Comic,A (reviewed),73,17,56,2,3.12,24,2024-12-14,2026-10-12,0,2,19,52,scarecrow
+388,Morty Smith,Rick and Morty,TV,A (reviewed),73,18,55,5,2.88,34,2024-01-12,2026-10-27,0,7,17,49,morty; morty smith
+389,Herta,Honkai: Star Rail,Game,A (reviewed),73,11,62,7,2.67,79,2025-01-30,2026-10-05,0,0,44,29,herta
+390,Jack Reacher,Reacher,Novel/TV,A (reviewed),71,11,60,7,2.23,51,2024-07-09,2026-10-10,0,17,41,13,reacher; jack reacher
+391,Schwi Dola,No Game No Life,Light novel,A (curated),70,8,62,3,2.11,91,2024-07-08,2026-09-19,0,4,64,2,schwi
+392,Timothy Carter,The Mentalist,TV,A (reviewed),70,13,57,2,3.77,38,2024-12-29,2026-10-22,0,1,25,44,timothy carter
+393,Diavolo,JoJo's Bizarre Adventure,Manga,A (reviewed),70,8,62,6,2.33,87,2024-07-09,2026-09-16,0,2,38,30,diavolo
+394,Brainiac,DC Comics,Comic,A (reviewed),70,10,60,4,2.7,22,2024-07-05,2026-09-26,0,8,31,31,brainiac
+395,Kristina Frye,The Mentalist,TV,A (reviewed),69,7,62,0,3.07,0,2024-12-23,2026-10-13,0,2,31,36,kristina frye; frye
+396,Kristoph Gavin,Ace Attorney,Game,A (reviewed),69,10,59,2,2.17,13,2025-02-23,2026-09-22,0,0,32,37,kristoph; kristoph gavin
+397,Akai Shuichi,Detective Conan,Manga,A (reviewed),69,8,61,3,3.28,12,2024-07-09,2026-10-27,0,1,21,47,akai; akai shuichi
+398,Yhwach,Bleach,Manga,A (reviewed),69,9,60,3,2.36,51,2024-12-19,2026-10-31,0,1,19,49,yhwach
+399,Father Brown,Father Brown stories,Novel,A (reviewed),68,10,58,3,2.43,26,2025-03-23,2026-10-07,0,0,49,19,father brown
+400,Suguru Geto,Jujutsu Kaisen,Manga,A (reviewed),68,14,54,0,2.53,0,2024-07-23,2026-10-30,0,3,25,40,geto; suguru geto
+401,Vladimir Putin,(public figure),Real life,A (reviewed),68,12,56,9,2.43,53,2024-07-03,2026-09-10,0,10,39,19,putin; vladimir putin
+402,Sayu Yagami,Death Note,Manga/Anime,A (reviewed),67,3,64,0,1.94,0,2025-01-17,2026-10-29,0,0,37,30,sayu; sayu yagami
+403,Charles Augustus Milverton,Sherlock Holmes (Conan Doyle novels),Novel,A (reviewed),67,12,55,4,3.33,18,2024-12-11,2026-10-25,0,2,41,24,milverton; charles augustus milverton
+404,Giorno Giovanna,JoJo's Bizarre Adventure,Manga,A (reviewed),67,6,61,3,2.24,12,2024-01-05,2026-10-23,0,13,40,14,giorno; giovanna; giorno giovanna
+405,Young Sheldon,Young Sheldon,TV,A (reviewed),67,13,54,5,4.16,155,2024-12-01,2026-10-04,0,6,50,11,young sheldon
+406,Bay Harbor Butcher,Dexter,TV,A (reviewed),65,30,35,8,5.11,61,2024-07-16,2026-10-11,0,1,33,31,bay harbor butcher
+407,Kris Dreemurr,Deltarune,Game,A (reviewed),65,12,53,4,2.98,30,2025-02-27,2026-10-29,0,0,10,55,kris; kris dreemurr
+408,Ren Zu,(unidentified web novel),Web novel,A (reviewed),65,3,62,1,2.03,3,2024-07-17,2026-11-02,0,1,25,39,ren zu
+409,Demiurge,Overlord,Light novel,A (reviewed),64,6,58,2,1.78,85,2024-08-09,2026-05-14,0,2,26,36,demiurge
+410,Keiichi Maebara,Higurashi,Visual novel,A (reviewed),64,3,61,1,2.17,32,2024-12-25,2026-09-03,0,10,48,6,keiichi; keiichi maebara
+411,Azathoth,Cthulhu Mythos,Novel,A (reviewed),64,4,60,1,1.83,19,2024-04-30,2026-07-10,0,3,56,5,azathoth
+412,Xuan Luo,(unidentified web novel),Web novel,A (reviewed),64,9,55,5,3.98,70,2026-07-23,2026-10-23,0,0,0,64,xuan luo
+413,Sun Tzu,(historical),Real life,A (reviewed),64,13,51,3,4.28,13,2024-07-21,2026-11-01,0,3,38,23,sun tzu
+414,Darkseid,DC Comics,Comic,A (reviewed),63,4,59,1,2.67,10,2024-07-05,2026-10-16,0,4,23,36,darkseid
+415,James Bond,James Bond,Novel/Film,A (reviewed),63,13,50,6,2.7,45,2024-09-13,2026-10-26,0,3,36,24,james bond
+416,Roberto (Monster),Monster,Manga,A (reviewed),62,8,54,0,3.27,0,2024-06-17,2026-10-26,0,5,26,31,roberto; roberto monster
+417,Grace Van Pelt,The Mentalist,TV,A (reviewed),62,11,51,0,4.65,0,2024-05-02,2026-10-13,0,3,33,26,van pelt; grace van pelt
+418,Ryota Suzui,Kakegurui,Manga,A (reviewed),62,13,49,9,2.61,98,2024-11-30,2026-09-13,0,11,48,3,suzui; ryota suzui
+419,Rena Ryuugu,Higurashi,Visual novel,A (reviewed),61,3,58,2,2.34,53,2024-12-25,2026-10-01,0,1,54,6,rena; rena ryuugu
+420,Darth Plagueis,Star Wars,Film,A (reviewed),61,8,53,4,3.07,18,2024-12-24,2026-10-15,0,2,32,27,plagueis; darth plagueis
+421,Bobby Fischer,(real person),Real life,A (reviewed),61,11,50,7,5.18,64,2024-12-17,2026-10-27,0,1,45,15,bobby fischer
+422,Thorfinn,Vinland Saga,Manga,A (reviewed),60,5,55,3,3.77,34,2024-06-09,2026-10-07,0,8,45,7,thorfinn
+423,Debra Morgan,Dexter,TV,A (reviewed),59,9,50,4,3.53,52,2025-03-20,2026-10-04,0,0,30,29,debra; debra morgan
+424,Freddy Krueger,A Nightmare on Elm Street,Film,A (reviewed),59,19,40,7,3.25,64,2024-10-28,2026-11-01,0,1,32,26,krueger; freddy krueger
+425,Chen Gong,Romance of the Three Kingdoms,Classic novel,A (reviewed),59,12,47,5,3.68,7,2024-04-28,2026-11-02,0,2,30,27,chen gong
+426,Tyler Durden,Fight Club,Novel/Film,A (curated),58,18,40,12,2.34,64,2024-12-19,2026-10-15,0,4,36,18,tyler durden; durden
+427,Yahiko,Naruto,Manga,A (reviewed),58,10,48,0,9.16,0,2024-09-20,2026-09-12,0,5,17,36,yahiko
+428,Katsura Kotaro,Gintama,Manga,A (reviewed),58,15,43,5,3.12,25,2025-04-26,2026-08-23,0,0,49,9,katsura; katsura kotaro
+429,Kumagawa Misogi,Medaka Box,Manga,A (reviewed),57,9,48,6,3.11,133,2024-07-22,2026-04-14,0,4,50,3,kumagawa; kumagawa misogi
+430,Patrick Bateman,American Psycho,Novel/Film,A (reviewed),57,14,43,4,2.44,5,2023-11-20,2026-10-01,1,4,42,10,bateman; patrick bateman
+431,Aristotle,(philosopher),Real life,A (reviewed),57,10,47,2,2.77,5,2024-10-28,2026-09-26,0,3,36,18,aristotle
+432,Andrew Tate,(public figure),Real life,A (reviewed),57,9,48,3,3.81,51,2024-07-10,2026-08-16,0,10,35,12,andrew tate
+433,Odysseus,The Odyssey,Classic,A (reviewed),56,39,17,4,4.25,15,2025-02-15,2026-10-20,0,0,34,22,odysseus
+434,Sawaragi Shiho,Tomodachi Game,Manga,A (reviewed),55,10,45,1,4.84,67,2024-06-01,2026-10-20,0,6,33,16,sawaragi; sawaragi shiho
+435,Takasugi Shinsuke,Gintama,Manga,A (reviewed),55,14,41,2,3.45,31,2025-03-13,2026-08-30,0,0,40,15,takasugi; takasugi shinsuke
+436,Wu Yong,Water Margin,Classic novel,A (reviewed),55,4,51,1,2.38,3,2024-06-08,2026-10-19,0,2,21,32,wu yong
+437,Nyarlathotep,Cthulhu Mythos,Novel,A (reviewed),54,23,31,6,2.8,24,2024-06-17,2026-10-15,0,18,27,9,nyarlathotep
+438,Makoto Naegi,Danganronpa,Game,A (curated),53,7,46,3,2.62,9,2024-06-20,2026-09-12,0,8,29,16,naegi
+439,Matsushita Chiaki,Classroom of the Elite,Light novel,A (reviewed),53,4,49,0,2.64,0,2024-12-02,2026-11-03,0,2,23,28,matsushita; matsushita chiaki
+440,Shirou Emiya,Fate series,Light novel,A (reviewed),53,8,45,1,2.09,3,2025-02-09,2026-06-05,0,0,51,2,shirou; shirou emiya
+441,Sonic,Sonic the Hedgehog,Game,A (reviewed),53,15,38,9,3.7,36,2024-08-06,2026-10-17,0,5,32,16,sonic
+442,Cinder Fall,RWBY,TV,A (reviewed),53,15,38,13,2.32,66,2025-06-10,2026-11-03,0,0,41,12,cinder fall; cinder
+443,Jiang Zhe,The Grandmaster Strategist,Web novel,A (reviewed),53,15,38,1,6.45,7,2025-05-23,2026-11-02,0,0,18,35,jiang zhe
+444,Ange Ushiromiya,Umineko,Visual novel,A (reviewed),52,3,49,0,3.1,0,2024-12-06,2026-10-30,0,1,21,30,ange; ange ushiromiya
+445,Chara,Undertale,Game,A (reviewed),52,8,44,6,1.83,74,2024-08-24,2026-10-18,0,2,18,32,chara
+446,Apollo Justice,Ace Attorney,Game,A (reviewed),51,4,47,0,2.73,0,2025-05-05,2026-10-11,0,0,20,31,apollo justice
+447,Shinya Kogami,Psycho-Pass,Anime,A (reviewed),51,12,39,1,2.22,1,2024-08-12,2026-10-08,0,7,27,17,kogami; shinya kogami
+448,Hifumi Yamada,Danganronpa,Game,A (reviewed),51,4,47,0,2.47,0,2024-09-12,2026-10-03,0,1,17,33,hifumi; hifumi yamada
+449,Ging Freecss,Hunter x Hunter,Manga,A (reviewed),51,11,40,3,2.9,25,2024-12-21,2026-10-08,0,3,13,35,ging; ging freecss
+450,MrBeast,(public figure),Real life,A (reviewed),51,16,35,13,3.02,61,2024-07-27,2026-09-22,0,21,13,17,mrbeast
+451,Godot (Ace Attorney),Ace Attorney,Game,A (reviewed),50,9,41,1,2.46,16,2025-05-27,2026-06-26,0,0,12,38,godot; godot ace attorney
+452,Gonta Gokuhara,Danganronpa,Game,A (reviewed),50,6,44,0,2.3,0,2024-07-25,2026-10-31,0,5,26,19,gonta; gonta gokuhara
+453,Nakahara Chuuya,Bungo Stray Dogs,Manga/Anime,A (reviewed),50,1,49,1,2.8,26,2024-09-25,2026-06-10,0,7,37,6,chuuya; nakahara chuuya
+454,Black Panther,Marvel,Comic/Film,A (reviewed),50,10,40,4,2.08,39,2024-07-05,2026-10-27,0,1,16,33,black panther
+455,Petyr Baelish,Game of Thrones,Novel/TV,A (reviewed),50,11,39,6,2.9,21,2024-11-15,2026-10-20,0,2,17,31,littlefinger; petyr baelish
+456,Liu Bei,Romance of the Three Kingdoms,Classic novel,A (reviewed),50,16,34,2,4.52,7,2025-02-05,2026-11-02,0,0,25,25,liu bei
+457,Emilia,Re:Zero,Light novel,A (reviewed),49,9,40,0,3.45,0,2024-12-21,2026-10-25,0,3,34,12,emilia
+458,Nacho Varga,Better Call Saul,TV,A (reviewed),49,8,41,2,2.61,14,2024-11-28,2026-06-22,0,2,33,14,nacho; nacho varga
+459,Geng Hao,(unidentified web novel),Web novel,A (reviewed),49,14,35,2,4.22,20,2025-12-22,2026-10-21,0,0,11,38,geng hao
+460,Nana Hiiragi,Munou na Nana,Manga,A (curated),48,20,28,12,4.27,101,2024-06-25,2026-09-18,0,3,31,14,nana hiiragi
+461,Mario,Super Mario,Game,A (reviewed),48,9,39,6,2.81,30,2024-08-05,2026-10-26,0,10,16,22,mario
+462,Dante,Devil May Cry,Game,A (reviewed),48,17,31,5,3.27,38,2025-02-27,2026-11-02,0,0,23,25,dante
+463,Aloysius Pendergast,Pendergast novels,Novel,A (reviewed),47,4,43,0,2.66,0,2025-07-31,2026-10-23,0,0,34,13,pendergast; aloysius pendergast
+464,Tuco Salamanca,Better Call Saul,TV,A (reviewed),47,17,30,1,5.19,1,2024-12-03,2026-08-18,0,1,17,29,tuco; tuco salamanca
+465,Wu Shuai,(unidentified web novel),Web novel,A (reviewed),47,0,47,0,2.36,0,2025-01-20,2026-09-08,0,0,34,13,wu shuai
+466,Garry Kasparov,(real person),Real life,A (reviewed),47,2,45,0,3.77,0,2024-07-21,2026-10-27,0,3,22,22,kasparov; garry kasparov
+467,Alexander the Great,(historical),Real life,A (reviewed),47,20,27,10,4.53,83,2024-08-11,2026-09-23,0,3,23,21,alexander the great
+468,Kallen Stadtfeld,Code Geass,Anime,A (reviewed),46,7,39,1,4.76,6,2024-11-26,2026-06-22,0,3,32,11,kallen; kallen stadtfeld
+469,Eobard Thawne,DC Comics,Comic,A (curated),45,17,28,4,2.38,10,2025-04-03,2026-09-28,0,0,28,17,thawne
+470,Hans Landa,Inglourious Basterds,Film,A (curated),45,10,35,8,2.64,68,2024-07-13,2026-08-28,0,3,16,26,hans landa; landa
+471,Gauss,(mathematician),Real life,A (reviewed),45,3,42,0,2.0,0,2024-08-11,2026-10-30,0,3,24,18,gauss
+472,Bob Kirkland,The Mentalist,TV,A (reviewed),44,3,41,0,2.5,0,2024-12-15,2026-09-28,0,3,13,28,kirkland; bob kirkland
+473,Sigma Klim,Zero Escape,Visual novel,A (reviewed),44,9,35,5,3.11,66,2025-05-23,2026-09-10,0,0,36,8,sigma klim
+474,Seto Kaiba,Yu-Gi-Oh!,Manga,A (reviewed),44,14,30,9,2.66,54,2024-06-24,2026-10-13,0,11,16,17,kaiba; seto kaiba
+475,Tywin / Tyrion Lannister,Game of Thrones,Novel/TV,A (reviewed),44,4,40,1,2.41,5,2025-01-28,2026-10-20,0,0,15,29,tyrion; tywin tyrion lannister
+476,Plato,(philosopher),Real life,A (reviewed),44,7,37,0,2.82,0,2025-02-27,2026-10-03,0,0,35,9,plato
+477,Irene Adler,Sherlock Holmes (Conan Doyle novels),Novel,A (reviewed),43,10,33,3,3.67,17,2024-09-03,2026-10-03,0,3,29,11,irene adler
+478,Socrates,(philosopher),Real life,A (reviewed),43,5,38,1,3.95,7,2024-08-03,2026-10-07,0,1,14,28,socrates
+479,Manfred von Karma,Ace Attorney,Game,A (curated),42,2,40,0,1.93,0,2025-05-27,2026-09-22,0,0,10,32,von karma
+480,Edmond Dantes,The Count of Monte Cristo,Novel,A (curated),42,5,37,3,2.19,17,2025-02-15,2026-10-13,0,0,28,14,dantes; dant s
+481,Orihime Inoue,Bleach,Manga,A (reviewed),42,2,40,1,1.6,13,2024-11-18,2026-09-14,0,1,24,17,orihime; orihime inoue
+482,Maria LaGuerta,Dexter,TV,A (reviewed),42,6,36,0,2.81,0,2025-01-23,2026-10-26,0,0,23,19,laguerta; maria laguerta
+483,Richtofen,Call of Duty Zombies,Game,A (reviewed),42,6,36,3,1.93,13,2024-07-02,2026-09-05,0,1,32,9,richtofen
+484,Tony Soprano,The Sopranos,TV,A (curated),41,16,25,14,3.73,82,2024-12-06,2026-10-08,0,3,16,22,tony soprano
+485,Ainz Ooal Gown,Overlord,Light novel,A (reviewed),41,2,39,1,1.24,1,2024-10-22,2026-05-02,0,2,6,33,ainz; momonga; ainz ooal gown
+486,Garou,One Punch Man,Manga,A (reviewed),40,8,32,6,2.75,33,2024-01-18,2026-07-23,0,4,35,1,garou
+487,Frisk,Undertale,Game,A (reviewed),40,11,29,1,3.38,2,2024-08-25,2026-10-18,0,2,18,20,frisk
+488,Tie Ruo Nan,(unidentified web novel),Web novel,A (reviewed),40,9,31,2,3.2,14,2024-06-08,2026-10-19,0,1,20,19,tie ruo nan
+489,Yuki Suou,Roshidere,Light novel,A (reviewed),39,16,23,9,4.13,88,2024-08-31,2026-09-14,0,9,28,2,suou; yuki suou
+490,Jesse Pinkman,Breaking Bad,TV,A (reviewed),39,18,21,8,5.0,113,2024-07-23,2026-10-18,0,2,26,11,jesse pinkman; pinkman
+491,Cthulhu,Cthulhu Mythos,Novel,A (reviewed),39,7,32,5,1.59,25,2024-12-30,2026-10-25,0,1,13,25,cthulhu
+492,Li Hailong,(unidentified web novel),Web novel,A (reviewed),39,10,29,2,8.23,28,2026-06-29,2026-11-01,0,0,0,39,li hailong
+493,Li Zhitong,(unidentified web novel),Web novel,A (reviewed),39,14,25,2,4.95,7,2025-12-23,2026-10-29,0,0,5,34,li zhitong
+494,Sako Toshio (author),Usogui,Manga,A (reviewed),39,3,36,0,2.85,0,2024-02-19,2026-10-03,0,5,22,12,toshio sako; sako toshio author
+495,Haibara Ai,Detective Conan,Manga,A (reviewed),38,5,33,1,2.29,3,2024-07-09,2026-09-10,0,1,18,19,haibara; haibara ai
+496,John Wick,John Wick,Film,A (reviewed),38,7,31,2,1.97,10,2024-07-12,2026-10-25,0,5,25,8,john wick
+497,Leibniz,(philosopher),Real life,A (reviewed),38,2,36,0,3.53,0,2025-05-14,2026-10-28,0,0,22,16,leibniz
+498,Fuyuhiko Kuzuryu,Danganronpa,Game,A (reviewed),37,10,27,0,3.51,0,2025-06-02,2026-09-24,0,0,24,13,kuzuryu; fuyuhiko kuzuryu
+499,Komugi,Hunter x Hunter,Manga,A (reviewed),37,3,34,2,2.3,13,2025-03-16,2026-10-08,0,0,15,22,komugi
+500,Voldemort,Harry Potter,Novel,A (reviewed),37,11,26,3,4.11,14,2025-04-16,2026-10-07,0,0,19,18,voldemort
+501,Han Fei,(historical),Real life,A (reviewed),37,10,27,0,7.16,0,2026-03-01,2026-11-01,0,0,0,37,han fei
+502,Ray Haffner,The Mentalist,TV,A (reviewed),36,4,32,0,3.08,0,2024-12-14,2026-10-22,0,2,17,17,haffner; ray haffner
+503,Brett Partridge,The Mentalist,TV,A (reviewed),36,6,30,0,4.08,0,2024-12-14,2026-09-28,0,2,15,19,partridge; brett partridge
+504,Sebastian Moran,Sherlock Holmes (Conan Doyle novels),Novel,A (reviewed),36,14,22,1,2.78,3,2024-12-11,2026-11-03,0,1,23,12,moran; sebastian moran
+505,Minato Namikaze,Naruto,Manga,A (reviewed),36,7,29,5,2.25,27,2024-10-13,2026-10-30,0,2,14,20,minato; minato namikaze
+506,Hank Schrader,Breaking Bad,TV,A (reviewed),36,16,20,8,4.5,97,2025-02-28,2026-10-07,0,0,13,23,hank schrader
+507,Euler,(mathematician),Real life,A (reviewed),36,1,35,0,2.67,0,2024-08-11,2026-10-30,0,2,18,16,euler
+508,Yumemite Yumemi,Kakegurui,Manga,A (reviewed),35,8,27,2,3.23,10,2024-12-21,2026-10-22,0,3,25,7,yumemi; yumemite yumemi
+509,Glitchtrap,Five Nights at Freddy's,Game,A (reviewed),35,8,27,0,2.49,0,2024-11-24,2026-10-07,0,1,27,7,glitchtrap
+510,Sun Ce,Romance of the Three Kingdoms,Classic novel,A (reviewed),35,5,30,2,2.97,2,2024-05-22,2026-07-25,0,4,28,3,sun ce
+511,Rust Cohle,True Detective,TV,A (curated),34,17,17,13,4.12,41,2024-12-13,2026-10-22,0,2,10,22,rust cohle
+512,Sidoh,Death Note,Manga/Anime,A (reviewed),34,0,34,0,1.85,0,2024-03-19,2026-10-23,0,3,5,26,sidoh
+513,Gu Yue,Reverend Insanity,Web novel,A (reviewed),34,7,27,1,4.59,2,2025-03-07,2026-09-18,0,0,14,20,gu yue
+514,Daybit Sem Void,Fate/Grand Order,Game,A (curated),33,10,23,7,2.39,3,2024-12-04,2025-10-02,0,3,30,0,daybit
+515,Arisu Ryohei,Alice in Borderland,Manga/TV,A (curated),32,17,15,5,4.03,56,2024-08-09,2026-09-20,0,2,23,7,ryohei
+516,Kamuro Masumi,Classroom of the Elite,Light novel,A (reviewed),32,3,29,0,2.53,0,2024-12-25,2026-10-24,0,1,20,11,kamuro; kamuro masumi
+517,Hoshino Ruby,Oshi no Ko,Manga,A (reviewed),32,8,24,4,3.94,152,2024-12-02,2026-03-30,0,6,24,2,ruby hoshino; hoshino ruby
+518,Hajime Hinata,Danganronpa,Game,A (reviewed),30,12,18,3,2.63,17,2024-05-27,2026-10-15,0,4,17,9,hajime hinata
+519,Kurama,Yu Yu Hakusho,Manga,A (reviewed),30,11,19,5,3.13,26,2025-02-25,2026-11-01,0,0,24,6,kurama
+520,Trinity Killer,Dexter,TV,A (reviewed),30,13,17,4,2.67,25,2024-12-14,2026-09-28,0,1,19,10,trinity killer; arthur mitchell
+521,Kwisatz Haderach,Dune,Novel,A (reviewed),30,11,19,3,4.97,18,2024-12-06,2026-09-24,0,3,26,1,kwisatz haderach
+522,Komaru Naegi,Danganronpa,Game,A (reviewed),29,5,24,0,2.31,0,2024-06-19,2026-07-03,0,1,18,10,komaru; komaru naegi
+523,Kiritsugu Emiya,Fate series,Light novel,A (reviewed),29,3,26,0,2.14,0,2025-01-19,2026-08-06,0,0,28,1,kiritsugu; kiritsugu emiya
+524,Reiner Braun,Attack on Titan,Manga,A (reviewed),29,4,25,0,2.97,0,2024-12-27,2026-10-23,0,1,26,2,reiner; reiner braun
+525,Jia Fu,(unidentified web novel),Web novel,A (reviewed),29,5,24,0,3.76,0,2025-04-14,2026-09-29,0,0,7,22,jia fu
+526,Mashima Tomonari,Classroom of the Elite,Light novel,A (reviewed),28,5,23,0,4.39,0,2024-12-18,2026-10-31,0,5,10,13,mashima; mashima tomonari
+527,Jack Crawford,Hannibal / Thomas Harris novels,Novel/TV,A (reviewed),28,5,23,0,3.32,0,2025-01-22,2026-10-25,0,0,6,22,jack crawford
+528,Mondo Owada,Danganronpa,Game,A (reviewed),28,3,25,0,2.25,0,2024-12-25,2026-10-12,0,1,9,18,mondo; mondo owada
+529,Takeshi Obata (author),Death Note,Manga,A (reviewed),27,1,26,0,3.07,0,2024-04-22,2026-10-22,0,6,8,13,obata; takeshi obata author
+530,Yuno Gasai,Future Diary,Manga,A (curated),26,12,14,5,4.04,29,2024-08-09,2026-08-05,0,4,16,6,yuno gasai
+531,Kogoro Mouri,Detective Conan,Manga,A (reviewed),26,4,22,2,3.19,13,2024-07-06,2026-10-23,0,2,7,17,kogoro; kogoro mouri
+532,Max Verstappen,(sportsperson),Real life,A (reviewed),26,25,1,0,4.5,0,2025-11-02,2026-03-15,0,0,23,3,verstappen; max verstappen
+533,Thomas Edison,(historical),Real life,A (reviewed),25,5,20,0,2.0,0,2024-08-24,2026-11-02,0,1,14,10,edison; thomas edison
+534,Medaka Kurokami,Medaka Box,Manga,A (reviewed),24,7,17,3,4.0,119,2024-08-09,2026-01-07,0,1,22,1,medaka; medaka kurokami
+535,Li Gang (Vile Dominion),Vile Dominion,Web novel,A (reviewed),24,12,12,5,8.04,164,2025-05-23,2026-10-27,0,0,8,16,li gang vile dominion
+536,Iwo Eliasz,Forst series (Remigiusz Mroz),Novel,A (curated),22,13,9,11,3.27,38,2026-06-21,2026-11-03,0,0,0,22,iwo eliasz
+537,Francis Dolarhyde,Hannibal / Thomas Harris novels,Novel/TV,A (curated),21,3,18,1,2.57,16,2025-06-20,2026-06-15,0,0,14,7,dolarhyde
+538,Pikachu,Pokemon,Game,A (reviewed),21,3,18,0,2.38,0,2025-02-27,2026-10-03,0,0,6,15,pikachu
+539,Apollyon,For Honor,Game,A (curated),20,10,10,6,4.65,12,2024-07-02,2025-12-14,0,2,18,0,apollyon
+540,Teresa Lisbon,The Mentalist,TV,A (reviewed),20,8,12,3,5.3,29,2024-07-12,2026-10-10,0,3,9,8,teresa lisbon; agent lisbon
+541,Baron Harkonnen,Dune,Novel,A (reviewed),20,3,17,0,3.0,0,2024-12-07,2025-05-12,0,1,19,0,harkonnen; baron harkonnen
+542,Chika Fujiwara,Kaguya-sama: Love Is War,Manga,A (reviewed),19,3,16,2,1.84,3,2025-02-03,2026-08-23,0,0,11,8,chika; chika fujiwara
+543,Helmut Zemo,Marvel,Comic/Film,A (reviewed),19,4,15,2,4.16,14,2024-07-09,2026-09-14,0,3,8,8,zemo; helmut zemo
+544,Dutch van der Linde,Red Dead Redemption,Game,A (reviewed),19,9,10,3,3.58,1,2024-11-29,2026-10-20,0,2,13,4,dutch van der linde
+545,Sakura Airi,Classroom of the Elite,Light novel,A (reviewed),18,7,11,0,4.39,0,2024-08-17,2026-10-23,0,2,7,9,airi sakura; sakura airi
+546,Kirito,Sword Art Online,Light novel,A (reviewed),18,1,17,0,1.39,0,2025-04-17,2026-10-17,0,0,12,6,kirito
+547,Itsuki Sumeragi,Kakegurui,Manga,A (reviewed),17,6,11,3,2.76,15,2024-12-04,2026-10-18,0,4,8,5,itsuki sumeragi
+548,Kim Wexler,Better Call Saul,TV,A (reviewed),16,10,6,2,5.56,14,2025-04-13,2026-04-13,0,0,7,9,kim wexler
+549,Ender Wiggin,Ender's Game,Novel,A (reviewed),16,5,11,1,3.0,1,2024-08-19,2026-07-26,0,3,7,6,ender; ender wiggin
+550,Arthur Morgan,Red Dead Redemption,Game,A (reviewed),15,4,11,2,4.4,9,2025-01-22,2026-10-15,0,0,12,3,arthur morgan
+551,Itou Kamotarou,Gintama,Manga,A (reviewed),14,5,9,4,2.5,30,2025-04-02,2026-08-30,0,0,13,1,itou; itou kamotarou
+552,Aguni Yuzuha,Alice in Borderland,Manga/TV,A (reviewed),13,1,12,0,3.15,0,2025-03-26,2026-09-20,0,0,6,7,aguni; aguni yuzuha
+553,Kimura Kei (Liar Game),Liar Game,Manga,A (reviewed),11,10,1,3,4.64,45,2024-08-09,2026-05-06,0,1,8,2,kimura kei liar game
+554,Stephanie Dola,No Game No Life,Light novel,A (reviewed),11,2,9,0,3.64,0,2025-01-05,2026-10-24,0,0,9,2,stephanie dola
+555,Lincoln Burrows,Prison Break,TV,A (reviewed),7,5,2,3,4.43,10,2024-12-09,2026-01-15,0,1,5,1,lincoln burrows
+556,Amanda Young,Saw,Film,A (reviewed),7,4,3,1,4.29,1,2024-06-07,2026-02-03,0,3,3,1,amanda young
+557,Katsuragi Kohei,Classroom of the Elite,Light novel,A (reviewed),6,2,4,0,6.33,0,2025-02-10,2025-12-21,0,0,6,0,katsuragi kohei; kohei katsuragi
+558,Anton Chigurh,No Country for Old Men,Novel/Film,A (curated),5,1,4,0,4.4,0,2024-07-26,2026-09-03,0,2,2,1,chigurh
+559,Niragi Suguru,Alice in Borderland,Manga/TV,A (reviewed),5,1,4,0,3.6,0,2024-11-08,2026-01-11,0,1,2,2,niragi; niragi suguru
+560,Frank Abagnale Jr.,Catch Me If You Can,Film/Memoir,A (curated),4,1,3,0,4.5,0,2024-12-19,2025-12-12,0,1,3,0,abagnale
+561,Ougai Mori,Bungo Stray Dogs,Manga/Anime,A (reviewed),4,0,4,0,2.5,0,2025-02-19,2025-05-09,0,0,4,0,ougai; ougai mori
+562,Kyosuke Munakata,Danganronpa,Game,A (reviewed),3,1,2,0,5.33,0,2025-07-29,2025-11-04,0,0,3,0,munakata; kyosuke munakata
+563,Shuichi Saihara,Danganronpa,Game,A (curated),2,0,2,0,1.0,0,2025-04-02,2026-08-11,0,0,1,1,saihara
+564,Harry Morgan,Dexter,TV,A (reviewed),2,1,1,0,2.0,0,2025-08-24,2026-08-29,0,0,1,1,harry morgan
+565,Reinhard von Lohengramm,Legend of the Galactic Heroes,Novel,A (curated),1,1,0,1,5.0,7,2025-07-02,2025-07-02,0,0,1,0,lohengramm
+566,Michael Scott,The Office,TV,A (reviewed),1,0,1,0,1.0,0,2025-05-27,2025-05-27,0,0,1,0,michael scott

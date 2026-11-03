@@ -1,0 +1,596 @@
+# Hand-reviewed labels for names found by discover_entities.py (candidate list, frequency-ranked).
+# Format (pipe separated):
+#   C|Character|Work|Medium|alias1,alias2,...     new character   (alias prefix "!" = match only when Capitalised)
+#   +|Character|alias1,alias2,...                  extra aliases for a character that already exists
+#   W|Work|Medium|alias1,alias2,...                a work (novel / manga / show / game ...)
+# Works are matched case-insensitively. "(unidentified ...)" = could not identify the source work.
+
+# ---------------- extra aliases for characters already in the curated dictionary
++|Light Yagami|Yagami
++|Ayanokoji Kiyotaka|Ayanaokoji,Ayanok,Kiyokouji,Kiyo,Kojis,Ayan,Ayanosigma,Ayanobum,Ayanomid,Kiyotaka Ayanokouji,Kiyotaka Ayanokoji,Ayanokouji Kiyotaka
++|L Lawliet|Ryuzaki,L Ryuzaki
++|Near (Nate River)|!Near,Nears
++|Patrick Jane|Janes
++|Johan Liebert|Libert,Johans,Kid Johan
++|Hannibal Lecter|Hannibals,Lector,Chesapeake Ripper
++|Sherlock Holmes|Sherlocks,Sigerson
++|Akiyama Shinichi|!Aki,Akiyamas
++|Yokoya Norihiko|Norihiko,Yokoyas
++|Kiruma Souichi|Souichi,Souchi,Soichi
++|Kaji Takaomi|Takaomi
++|Suteguma Satoru|Sutegama
++|Baku Madarame|Bakus
++|Katagiri Yuuichi|Yuuchi,Yuuichis
++|Fang Yuan|!Yuan,Yuan Fang
++|Lelouch vi Britannia|Lulu,Lelouch Lamperouge,Vi Britannia
++|Junko Enoshima|Enoshima
++|Yumeko Jabami|Jabami
++|Kirari Momobami|Momobami
++|Mary Saotome|Saotome
++|Akagi Shigeru|Shigeru
++|Dazai Osamu|Beast Dazai,Osamu Dazai,Osamu
++|Fyodor Dostoevsky|Dostoevsky,Fydor,Fyodor Dostoevsky
++|Batman|Dark Knight,Arkham Batman
++|Michael Scofield|Schofield,Micheal Scofield,Michael Schofield
++|Walter White|Walt,Waltuh,Heisenberg
++|Aizen Sosuke|Kyoka Suigetsu,Sosuke Aizen
++|Conan Edogawa / Shinichi Kudo|Edogawa,Kudo,Edogawa Conan
++|Kuze Masachika|Masachika,Masachika Kuze
++|Subaru Natsuki|Natsuki Subaru
++|Beatrice|Beato,Bernkastel
++|Battler Ushiromiya|Ushiromiya
++|Akane Kurashiki|Kurashiki
++|Kanade Otonokoji|Otonokoji
++|Horikita Suzune|Horikita,Suzune Horikita
++|Ryuen Kakeru|Ryuuen,Ryueen,Kakeru
++|Sakayanagi Arisu|Arisu Sakayanagi,Sakayanagi
++|Seonghyun Moon (Dr. Frost)|!Moon,Moon Seonghyun,Seonghyun,Dr Frost
++|Kyoko Kirigiri / Danganronpa cast|Kyoko Kirigiri,!Kyoko
++|Eren Yeager|Yeager
++|Dexter Morgan|Dexter Morgan
++|Ichinose Honami|Honami
++|Kakegurui|Kakegurui
++|Izuru Kamukura|Kamukura
++|Nagito Komaeda|Komaeda
++|Kokichi Ouma|Ouma
++|Chishiya Shuntaro|Shuntaro Chishiya
++|Senku Ishigami|Senku Ishigami
++|Kaito Kid|Kid the Phantom Thief
+
+# ---------------- Death Note
+C|Misa Amane|Death Note|Manga/Anime|Misa,Amane,Misa Amane
+C|Ryuk|Death Note|Manga/Anime|Ryuk
+C|Kyosuke Higuchi|Death Note|Manga/Anime|Higuchi
+C|Teru Mikami|Death Note|Manga/Anime|Mikami,Teru Mikami
+C|Kiyomi Takada|Death Note|Manga/Anime|Takada
+C|Touta Matsuda|Death Note|Manga/Anime|Matsuda
+C|Soichiro Yagami|Death Note|Manga/Anime|Soichiro,Soichiro Yagami
+C|Watari|Death Note|Manga/Anime|Watari
+C|Raye Penber|Death Note|Manga/Anime|Raye,Penber,Raye Penber,Ray Penber
+C|Sayu Yagami|Death Note|Manga/Anime|Sayu
+C|Sidoh|Death Note|Manga/Anime|Sidoh
+C|Lind L. Tailor|Death Note|Manga/Anime|Lind,Lind L Tailor
+C|Matt (Death Note)|Death Note|Manga/Anime|!Matt
+C|Yotsuba Group|Death Note|Manga/Anime|Yotsuba
+C|Shinigami (Death Note)|Death Note|Manga/Anime|Shinigami,Shinigamis
+# ---------------- Classroom of the Elite
+C|Kei Karuizawa|Classroom of the Elite|Light novel|Karuizawa,Kei Karuizawa
+C|Hirata Yosuke|Classroom of the Elite|Light novel|Hirata
+C|Ibuki Mio|Classroom of the Elite|Light novel|!Ibuki
+C|Sudo Ken|Classroom of the Elite|Light novel|Sudo,Sudou
+C|Kinugasa Shougo|Classroom of the Elite|Light novel|Kinugasa
+C|Chabashira Sae|Classroom of the Elite|Light novel|Chabashira
+C|Kamuro Masumi|Classroom of the Elite|Light novel|Kamuro
+C|Yukimura Teruhiko|Classroom of the Elite|Light novel|Yukimura
+C|Yamauchi Haruki|Classroom of the Elite|Light novel|Yamauchi
+C|Housen Kazuomi|Classroom of the Elite|Light novel|Housen,Hosen
+C|Nanase Tsubasa|Classroom of the Elite|Light novel|Nanase
+C|Tsubaki Sakurako|Classroom of the Elite|Light novel|!Tsubaki
+C|Mashima Tomonari|Classroom of the Elite|Light novel|Mashima
+C|Hashimoto Masayoshi|Classroom of the Elite|Light novel|Hashimoto
+C|Katsuragi Kohei|Classroom of the Elite|Light novel|Katsuragi Kohei,Kohei Katsuragi
+C|Sakura Airi|Classroom of the Elite|Light novel|Airi Sakura,Sakura Airi
+C|Matsushita Chiaki|Classroom of the Elite|Light novel|Matsushita
+C|Arisu (ambiguous: Sakayanagi / Ryohei)|Classroom of the Elite|Light novel|!Arisu
+# ---------------- Usogui
+C|Hal (Prime Minister)|Usogui|Manga|!Hal,PM Hal,Prime Minister Hal
+C|Marco (Usogui)|Usogui|Manga|!Marco
+C|Amako (Usogui)|Usogui|Manga|Amako
+C|Minowa (Usogui)|Usogui|Manga|Minowa
+C|Kikuzawa (Usogui)|Usogui|Manga|Kikuzawa
+C|Billy Craig|Usogui|Manga|Billy Craig
+# ---------------- Liar Game
+C|Kimura Kei (Liar Game)|Liar Game|Manga|Kimura Kei,Kei Kimura
+C|Kanzaki Nao|Liar Game|Manga|Kanzaki
+C|Harimoto|Liar Game|Manga|Harimoto
+C|Nao (ambiguous)|Liar Game|Manga|!Nao
+# ---------------- Tomodachi Game
+C|Kei Shinomiya|Tomodachi Game|Manga|Kei Shinomiya,Shinomiya
+C|Sawaragi Shiho|Tomodachi Game|Manga|Sawaragi
+C|Kokorogi Yutori|Tomodachi Game|Manga|Kokorogi,Yutori
+C|Satone Ayaka|Tomodachi Game|Manga|Satone
+C|Tasuku Higashihama|As the Gods Will|Manga|Tasuku,Higashihama
+# ---------------- One Outs / Akagi
+C|Tokuchi Toua|One Outs|Manga|Toua,Tokuchi,Tokuichi,Tokuchi Toua
+C|Washizu Iwao|Akagi|Manga|Washizu,Iwao,Washizu Iwao
+C|Urabe (Akagi)|Akagi|Manga|Urabe
+# ---------------- Monster
+C|Kenzo Tenma|Monster|Manga|Tenma,Dr Tenma
+C|Inspector Lunge|Monster|Manga|Lunge
+C|Wolfgang Grimmer|Monster|Manga|Grimmer
+C|Hans Georg Schuwald|Monster|Manga|Schuwald
+C|Roberto (Monster)|Monster|Manga|Roberto
+C|Nameless Monster|Monster|Manga|Nameless Monster,The Nameless Monster,Thenamelessmonster
+C|Kinderheim 511|Monster|Manga|Kinderheim
+# ---------------- Hannibal / Harris
+C|Clarice Starling|Hannibal / Thomas Harris novels|Novel/TV|Clarice,Clarice Starling
+C|Frederick Chilton|Hannibal / Thomas Harris novels|Novel/TV|Chilton
+C|Jack Crawford|Hannibal / Thomas Harris novels|Novel/TV|Jack Crawford
+C|Aloysius Pendergast|Pendergast novels|Novel|Pendergast
+# ---------------- Mentalist
+C|Teresa Lisbon|The Mentalist|TV|Teresa Lisbon,Agent Lisbon
+C|Wayne Rigsby|The Mentalist|TV|Rigsby
+C|Grace Van Pelt|The Mentalist|TV|Van Pelt
+C|Bret Stiles|The Mentalist|TV|!Stiles
+C|Thomas McAllister|The Mentalist|TV|Mcallister,Thomas Mcallister
+C|Timothy Carter|The Mentalist|TV|Timothy Carter
+C|Gale Bertram|The Mentalist|TV|Bertram
+C|Ray Haffner|The Mentalist|TV|Haffner
+C|Brett Partridge|The Mentalist|TV|Partridge
+C|Lorelei Martins|The Mentalist|TV|Lorelei
+C|Kristina Frye|The Mentalist|TV|Kristina Frye,Frye
+C|Bob Kirkland|The Mentalist|TV|Kirkland
+C|Sheriff (Mentalist)|The Mentalist|TV|Sheriff
+# ---------------- Sherlock Holmes universe / classic detectives
+C|Dr. Watson|Sherlock Holmes (Conan Doyle novels)|Novel|Watson
+C|Mycroft Holmes|Sherlock Holmes (Conan Doyle novels)|Novel|Mycroft
+C|Eurus Holmes|Sherlock (BBC)|TV|Eurus
+C|Irene Adler|Sherlock Holmes (Conan Doyle novels)|Novel|Irene Adler
+C|Charles Augustus Milverton|Sherlock Holmes (Conan Doyle novels)|Novel|Milverton
+C|Sebastian Moran|Sherlock Holmes (Conan Doyle novels)|Novel|Moran
+C|Hercule Poirot|Agatha Christie novels|Novel|Poirot,Hercule Poirot
+C|Miss Marple|Agatha Christie novels|Novel|Marple,Miss Marple
+C|Auguste Dupin|Poe stories|Novel|Dupin
+C|Father Brown|Father Brown stories|Novel|Father Brown
+C|Columbo|Columbo|TV|Columbo
+C|Kindaichi Hajime|The Kindaichi Case Files|Manga|Kindaichi
+C|Miles Edgeworth|Ace Attorney|Game|Edgeworth,Miles Edgeworth
+C|Apollo Justice|Ace Attorney|Game|Apollo Justice
+C|Godot (Ace Attorney)|Ace Attorney|Game|!Godot
+C|Kristoph Gavin|Ace Attorney|Game|Kristoph
+C|Professor Layton|Professor Layton|Game|Layton
+C|Shinya Kogami|Psycho-Pass|Anime|Kogami
+C|Shogo Makishima|Psycho-Pass|Anime|Makishima
+C|Hattori Heiji|Detective Conan|Manga|Heiji,Hattori
+C|Haibara Ai|Detective Conan|Manga|Haibara
+C|Akai Shuichi|Detective Conan|Manga|Akai
+C|Yukawa Manabu|Galileo|Novel|Yukawa
+C|Kogoro Mouri|Detective Conan|Manga|Kogoro
+C|Ron Kamonohashi|Ron Kamonohashi's Forbidden Deductions|Manga|Kamonohashi
+C|Siesta (The Detective Is Already Dead)|The Detective Is Already Dead|Light novel|Siesta
+# ---------------- Code Geass
+C|Suzaku Kururugi|Code Geass|Anime|Suzaku
+C|Schneizel el Britannia|Code Geass|Anime|Schneizel
+C|Kallen Stadtfeld|Code Geass|Anime|Kallen
+C|Rolo Lamperouge|Code Geass|Anime|!Rolo,!Rollo
+# ---------------- Danganronpa
+C|Mukuro Ikusaba|Danganronpa|Game|Mukuro
+C|Byakuya Togami|Danganronpa|Game|Byakuya,Togami
+C|Monokuma|Danganronpa|Game|Monokuma
+C|Monaca Towa|Danganronpa|Game|Monaca
+C|Gundham Tanaka|Danganronpa|Game|Gundham
+C|Chiaki Nanami|Danganronpa|Game|Chiaki
+C|Mondo Owada|Danganronpa|Game|Mondo
+C|Sayaka Maizono|Danganronpa|Game|Sayaka
+C|Hifumi Yamada|Danganronpa|Game|Hifumi
+C|Kaede Akamatsu|Danganronpa|Game|Kaede
+C|Kirumi Tojo|Danganronpa|Game|Kirumi
+C|Gonta Gokuhara|Danganronpa|Game|Gonta
+C|Tsumugi Shirogane|Danganronpa|Game|Tsumugi
+C|Komaru Naegi|Danganronpa|Game|Komaru
+C|Fuyuhiko Kuzuryu|Danganronpa|Game|Kuzuryu
+C|Hajime Hinata|Danganronpa|Game|Hajime Hinata
+C|Kyosuke Munakata|Danganronpa|Game|Munakata
+# ---------------- No Game No Life / Re:Zero / others (light novels)
+C|Stephanie Dola|No Game No Life|Light novel|Stephanie Dola
+C|Emilia|Re:Zero|Light novel|Emilia
+C|Hikigaya Hachiman|My Teen Romantic Comedy (Oregairu)|Light novel|Hikigaya,Hachiman
+C|Okabe Rintaro|Steins;Gate|Visual novel|Okabe
+C|Kaguya Shinomiya|Kaguya-sama: Love Is War|Manga|Kaguya
+C|Chika Fujiwara|Kaguya-sama: Love Is War|Manga|Chika
+C|Miyuki Shirogane|Kaguya-sama: Love Is War|Manga|!Shirogane,Miyuki Shirogane
+C|Yuki Suou|Roshidere|Light novel|Suou,Yuki Suou
+C|Alya (Roshidere)|Roshidere|Light novel|Alya
+C|Anos Voldigoad|The Misfit of Demon King Academy|Light novel|Anos
+C|Rimuru Tempest|That Time I Got Reincarnated as a Slime|Light novel|Rimuru
+C|Ainz Ooal Gown|Overlord|Light novel|Ainz,Momonga
+C|Demiurge|Overlord|Light novel|Demiurge
+C|Kim Dokja|Omniscient Reader's Viewpoint|Web novel|Kim Dokja,Dokja
+C|Kang Jinhyuk|Solo Max-Level Newbie|Web novel|Kang Jinhyuk,Kang Jinhyeok,Jinhyuk,Jinhyeok
+C|Kellhus|The Prince of Nothing|Novel|Kellhus
+C|Kiritsugu Emiya|Fate series|Light novel|Kiritsugu
+C|Gilgamesh|Fate series|Light novel|Gilgamesh
+C|Shirou Emiya|Fate series|Light novel|Shirou
+# ---------------- Umineko / Higurashi / Zero Escape
+C|Erika Furudo|Umineko|Visual novel|Erika Furudo,Erika,Furudo
+C|Lambdadelta|Umineko|Visual novel|Lambda,Lambdadelta
+C|Featherine|Umineko|Visual novel|Featherine
+C|Ange Ushiromiya|Umineko|Visual novel|Ange
+C|Rena Ryuugu|Higurashi|Visual novel|Rena
+C|Keiichi Maebara|Higurashi|Visual novel|Keiichi
+C|Satoko Hojo|Higurashi|Visual novel|Satoko
+C|Rika Furude|Higurashi|Visual novel|Rika
+C|Junpei Tenmyouji|Zero Escape|Visual novel|Junpei
+C|Sigma Klim|Zero Escape|Visual novel|Sigma Klim
+C|Monika (DDLC)|Doki Doki Literature Club|Game|Monika
+# ---------------- Kakegurui
+C|Midari Ikishima|Kakegurui|Manga|Midari,Ikishima
+C|Itsuki Sumeragi|Kakegurui|Manga|Itsuki Sumeragi
+C|Yumemite Yumemi|Kakegurui|Manga|Yumemi
+C|Ryota Suzui|Kakegurui|Manga|Suzui
+# ---------------- Alice in Borderland / Squid Game
+C|Niragi Suguru|Alice in Borderland|Manga/TV|Niragi
+C|Aguni Yuzuha|Alice in Borderland|Manga/TV|Aguni
+C|Cho Sang-woo|Squid Game|TV|Sang Woo,Sang-woo
+C|Seong Gi-hun|Squid Game|TV|Gi Hun,Gi-hun
+C|Frontman (Hwang In-ho)|Squid Game|TV|Frontman,Front Man
+# ---------------- Bungo Stray Dogs
+C|Nakahara Chuuya|Bungo Stray Dogs|Manga/Anime|Chuuya
+C|Edogawa Ranpo|Bungo Stray Dogs|Manga/Anime|Ranpo
+C|Ougai Mori|Bungo Stray Dogs|Manga/Anime|Ougai
+# ---------------- Shonen
+C|Jotaro Kujo|JoJo's Bizarre Adventure|Manga|Jotaro,Kujo
+C|Giorno Giovanna|JoJo's Bizarre Adventure|Manga|Giorno,Giovanna
+C|Diavolo|JoJo's Bizarre Adventure|Manga|Diavolo
+C|Enrico Pucci|JoJo's Bizarre Adventure|Manga|Pucci
+C|Kars|JoJo's Bizarre Adventure|Manga|Kars
+C|Hisoka Morow|Hunter x Hunter|Manga|Hisoka
+C|Kurapika|Hunter x Hunter|Manga|Kurapika
+C|Pariston Hill|Hunter x Hunter|Manga|Pariston
+C|Ging Freecss|Hunter x Hunter|Manga|Ging
+C|Komugi|Hunter x Hunter|Manga|Komugi
+C|Madara Uchiha|Naruto|Manga|Madara
+C|Obito Uchiha|Naruto|Manga|Obito
+C|Sasuke Uchiha|Naruto|Manga|Sasuke
+C|Yahiko|Naruto|Manga|Yahiko
+C|Minato Namikaze|Naruto|Manga|Minato
+C|Satoru Gojo|Jujutsu Kaisen|Manga|Gojo
+C|Suguru Geto|Jujutsu Kaisen|Manga|Geto
+C|Toji Fushiguro|Jujutsu Kaisen|Manga|Toji
+C|Mahoraga|Jujutsu Kaisen|Manga|Mahoraga
+C|Megumi Fushiguro|Jujutsu Kaisen|Manga|Megumi
+C|Yuta Okkotsu|Jujutsu Kaisen|Manga|Yuta
+C|Aoi Todo|Jujutsu Kaisen|Manga|!Todo
+C|Denji|Chainsaw Man|Manga|Denji
+C|Levi Ackerman|Attack on Titan|Manga|Levi
+C|Armin Arlert|Attack on Titan|Manga|Armin
+C|Erwin Smith|Attack on Titan|Manga|Erwin
+C|Zeke Yeager|Attack on Titan|Manga|Zeke
+C|Reiner Braun|Attack on Titan|Manga|Reiner
+C|Kisuke Urahara|Bleach|Manga|Urahara,Kisuke
+C|Ichigo Kurosaki|Bleach|Manga|Ichigo
+C|Yhwach|Bleach|Manga|Yhwach
+C|Orihime Inoue|Bleach|Manga|Orihime
+C|Tanjiro Kamado|Demon Slayer|Manga|Tanjiro
+C|Utsuro|Gintama|Manga|Utsuro
+C|Takasugi Shinsuke|Gintama|Manga|Takasugi
+C|Katsura Kotaro|Gintama|Manga|Katsura
+C|Kamui (Gintama)|Gintama|Manga|Kamui
+C|Itou Kamotarou|Gintama|Manga|Itou
+C|Luffy|One Piece|Manga|Luffy
+C|Saitama|One Punch Man|Manga|Saitama
+C|Garou|One Punch Man|Manga|Garou
+C|Baki Hanma|Baki|Manga|Baki
+C|Yujiro Hanma|Baki|Manga|Yujiro
+C|Guts|Berserk|Manga|!Guts
+C|Kaneki Ken|Tokyo Ghoul|Manga|Kaneki
+C|Mikasa Ackerman|Attack on Titan|Manga|Mikasa
+C|Thorfinn|Vinland Saga|Manga|Thorfinn
+C|Yugi Muto|Yu-Gi-Oh!|Manga|Yugi
+C|Seto Kaiba|Yu-Gi-Oh!|Manga|Kaiba
+C|Kirito|Sword Art Online|Light novel|Kirito
+C|Kurama|Yu Yu Hakusho|Manga|!Kurama
+C|Hoshino Ruby|Oshi no Ko|Manga|Ruby Hoshino
+C|Kumagawa Misogi|Medaka Box|Manga|Kumagawa
+C|Medaka Kurokami|Medaka Box|Manga|Medaka
+# ---------------- TV / film
+C|Debra Morgan|Dexter|TV|Debra
+C|James Doakes|Dexter|TV|Doakes
+C|Maria LaGuerta|Dexter|TV|Laguerta
+C|Frank Lundy|Dexter|TV|Lundy
+C|Trinity Killer|Dexter|TV|Trinity Killer,Arthur Mitchell
+C|Harry Morgan|Dexter|TV|Harry Morgan
+C|Bay Harbor Butcher|Dexter|TV|Bay Harbor Butcher
+C|T-Bag|Prison Break|TV|T-Bag,Tbag,Bagwell
+C|Alex Mahone|Prison Break|TV|Mahone
+C|Lincoln Burrows|Prison Break|TV|Lincoln Burrows
++|Gustavo Fring|Fring,!Gus
+C|Jesse Pinkman|Breaking Bad|TV|Jesse Pinkman,Pinkman
+C|Hank Schrader|Breaking Bad|TV|Hank Schrader
+C|Skyler White|Breaking Bad|TV|Skyler
+C|Lalo Salamanca|Better Call Saul|TV|Lalo Salamanca,Salamanca
+C|Jimmy McGill|Better Call Saul|TV|Mcgill,!Jimmy
+C|Nacho Varga|Better Call Saul|TV|Nacho
+C|Tuco Salamanca|Better Call Saul|TV|Tuco
+C|Mike Ehrmantraut|Better Call Saul|TV|Mike Ehrmantraut,!Mike
+C|Kim Wexler|Better Call Saul|TV|Kim Wexler
++|John Kramer (Jigsaw)|Kramer
+C|Amanda Young|Saw|Film|Amanda Young
+C|Michael Myers|Halloween|Film|Michael Myers
+C|Freddy Krueger|A Nightmare on Elm Street|Film|Krueger
+C|Ghostface|Scream|Film|Ghostface
+C|Chucky|Child's Play|Film|Chucky
+C|Pennywise|It|Novel/Film|Pennywise
++|Hans Landa|Landa
+C|Eddie Morra|Limitless|Novel/Film/TV|Eddie Morra
++|Brian Finch|Finch
++|Tyler Durden|Durden
+C|Patrick Bateman|American Psycho|Novel/Film|Bateman
++|Tony Stark|Stark,Ironman
+C|Thanos|Marvel|Comic/Film|Thanos
++|Loki|Loki
+C|Helmut Zemo|Marvel|Comic/Film|Zemo
+C|Black Panther|Marvel|Comic/Film|Black Panther
+C|Reed Richards|Marvel|Comic|Reed Richards
+C|Spider-Man|Marvel|Comic/Film|Spider-man,Spiderman
+C|Bane|DC Comics|Comic|!Bane
+C|Lex Luthor|DC Comics|Comic|Lex Luthor,Luthor
+C|Darkseid|DC Comics|Comic|Darkseid
+C|Brainiac|DC Comics|Comic|Brainiac
+C|Superman|DC Comics|Comic|Superman
+C|Reverse Flash|DC Comics|Comic|Reverse Flash,Reverseflash
+C|Scarecrow|DC Comics|Comic|Scarecrow
+C|Penguin|DC Comics|Comic|!Penguin
+C|Rorschach|Watchmen|Comic|Rorschach
++|Ozymandias|Veidt
+C|Evil Morty|Rick and Morty|TV|Evil Morty
+C|Morty Smith|Rick and Morty|TV|Morty
++|Rick Sanchez|Sanchez
+C|Young Sheldon|Young Sheldon|TV|Young Sheldon
++|Gregory House|House
++|Raymond Reddington|Reddington
+C|Dutch van der Linde|Red Dead Redemption|Game|Dutch van Der Linde
+C|Arthur Morgan|Red Dead Redemption|Game|Arthur Morgan
++|Saul Goodman|Goodman
+C|Michael Scott|The Office|TV|Michael Scott
+C|Tywin / Tyrion Lannister|Game of Thrones|Novel/TV|Tyrion
+C|Petyr Baelish|Game of Thrones|Novel/TV|Littlefinger
+C|Voldemort|Harry Potter|Novel|Voldemort
+C|Albus Dumbledore|Harry Potter|Novel|Dumbledore
+C|Sauron|The Lord of the Rings|Novel|Sauron
+C|Odysseus|The Odyssey|Classic|Odysseus
+C|Darth Vader|Star Wars|Film|Vader,Darth Vader,Anakin
+C|Darth Sidious|Star Wars|Film|Sidious
+C|Darth Plagueis|Star Wars|Film|Plagueis
++|Grand Admiral Thrawn|Admiral Thrawn
+C|Phantom Thief Lupin|Arsène Lupin|Novel|Arsene Lupin
++|Assane Diop|Diop
+C|Jack the Ripper|(historical)|Real life|Jack the Ripper
+C|Zodiac Killer|(historical)|Real life|Zodiac
+C|James Bond|James Bond|Novel/Film|James Bond
+C|John Wick|John Wick|Film|John Wick
+C|Jack Reacher|Reacher|Novel/TV|Reacher
+C|Adrian Monk|Monk|TV|Adrian Monk
+C|Dr. Frank Abagnale|Catch Me If You Can|Film/Memoir|Abagnale
+C|Gambit / Remy|X-Men|Comic|Gambit
+C|Ender Wiggin|Ender's Game|Novel|Ender
++|Light Yagami|Kiras
+C|Kwisatz Haderach|Dune|Novel|Kwisatz Haderach
+C|Leto II Atreides|Dune|Novel|Leto II,Leto
+C|Baron Harkonnen|Dune|Novel|Harkonnen
+# ---------------- Games / webcomics
+C|Sans|Undertale|Game|!Sans
+C|Chara|Undertale|Game|!Chara
+C|Frisk|Undertale|Game|!Frisk
+C|W. D. Gaster|Undertale|Game|Gaster
+C|Kris Dreemurr|Deltarune|Game|Kris
+C|Freddy Fazbear|Five Nights at Freddy's|Game|Freddy,Fazbear
+C|Glitchtrap|Five Nights at Freddy's|Game|Glitchtrap
+C|Scott Cawthon|Five Nights at Freddy's|Game|Cawthon
+C|Aventurine|Honkai: Star Rail|Game|Aventurine
+C|Herta|Honkai: Star Rail|Game|Herta
+C|Furina|Genshin Impact|Game|Furina,Focalors
+C|Alastor|Hazbin Hotel|TV|Alastor
+C|Vivec|The Elder Scrolls|Game|Vivec
+C|Pikachu|Pokemon|Game|Pikachu
+C|Sonic|Sonic the Hedgehog|Game|!Sonic
+C|Dr. Eggman|Sonic the Hedgehog|Game|Eggman
+C|Mario|Super Mario|Game|!Mario
+C|Dante|Devil May Cry|Game|!Dante
+C|Richtofen|Call of Duty Zombies|Game|Richtofen
+C|Cinder Fall|RWBY|TV|Cinder Fall,Cinder
+C|Yog-Sothoth|Cthulhu Mythos|Novel|Yog Sothoth,Yog-sothoth
+C|Nyarlathotep|Cthulhu Mythos|Novel|Nyarlathotep
+C|Azathoth|Cthulhu Mythos|Novel|Azathoth
+C|Cthulhu|Cthulhu Mythos|Novel|Cthulhu
+# ---------------- Web novels with a known source
+C|Qiu Yinong|18 Levels of Hell|Web novel|Qiu Yinong,Yinong
+C|Shu Renjun|18 Levels of Hell|Web novel|Shu Renjun,Renjun
+C|Lin Ou|18 Levels of Hell|Web novel|Lin Ou
+C|Lin Xuan|18 Levels of Hell|Web novel|Lin Xuan
+C|Chen Yang|18 Levels of Hell|Web novel|Chen Yang
+C|Qi Xia|Ten Days Ultimatum|Web novel|Qi Xia
+C|Li Qing|The Terrible Eternal Path|Web novel|Li Qing
+C|Pun Yunchuan|The Demon World I Designed|Web novel|Pun Yunchuan,Yunchuan
+C|Chen Qing|The Demon World I Designed|Web novel|Chen Qing
+C|Lu Chen|Nine Bestowments|Web novel|Lu Chen
+C|Wang Lu|Once Upon a Spirit Blade Mountain|Web novel|Wang Lu
+C|Mu Zixuan|Court of the Sword-Treading|Web novel|Mu Zixuan,Zixuan
+C|Tian Yi|Sinmonger|Web novel|Tian Yi,Tianyi
+C|Li Gang (Vile Dominion)|Vile Dominion|Web novel|Li Gang
+C|Jin Huang|Vile Dominion|Web novel|Jin Huang
+C|Fang Zheng|Reverend Insanity|Web novel|Fang Zheng
+C|Bai Ning Bing|Reverend Insanity|Web novel|Bai Ning Bing,Ning Bing
+C|Xing Su|Reverend Insanity|Web novel|Xing Su
+C|Wisdom Gu|Reverend Insanity|Web novel|Wisdom Gu
+C|Chusheng Demon Sect|Struggling to Survive in the Demonic Sect|Web novel|Chusheng Demon Sect,Chusheng Sect
+C|Colonel Timo|God's Imitator|Web novel|Colonel Timo,Timo
++|Cai Zhiyuan|Zhiyuan
++|Lin Sizhi|Sizhi
++|Niu Youdao|Youdao
+C|Jiang Zhe|The Grandmaster Strategist|Web novel|Jiang Zhe
++|Shen Jihan|Jihan
+C|Lu Yang|(unidentified web novel)|Web novel|Lu Yang
+C|Yue Guanshan|(unidentified web novel)|Web novel|Yue Guanshan,Guanshan
+C|Gui Yu|(unidentified web novel)|Web novel|Gui Yu
+C|Mo Tan|(unidentified web novel)|Web novel|Mo Tan
+C|Xuan Luo|(unidentified web novel)|Web novel|Xuan Luo
+C|Li Hailong|(unidentified web novel)|Web novel|Li Hailong
+C|Jia Fu|(unidentified web novel)|Web novel|Jia Fu
+C|Ning Yu|(unidentified web novel)|Web novel|Ning Yu
+C|Tie Ruo Nan|(unidentified web novel)|Web novel|Tie Ruo Nan
+C|Diwu Zhiyi|(unidentified web novel)|Web novel|Diwu Zhiyi,Di Wu Zhi Yi,Wu Zhi Yi
+C|Wu Shuai|(unidentified web novel)|Web novel|Wu Shuai
+C|Geng Hao|(unidentified web novel)|Web novel|Geng Hao
+C|Li Zhitong|(unidentified web novel)|Web novel|Li Zhitong
+C|Ren Zu|(unidentified web novel)|Web novel|Ren Zu
+C|Mo Yao|(unidentified web novel)|Web novel|Mo Yao
+C|Gu Yue|Reverend Insanity|Web novel|Gu Yue
+# ---------------- Three Kingdoms / Chinese history
+C|Zhou Yu|Romance of the Three Kingdoms|Classic novel|Zhou Yu
+C|Pang Tong|Romance of the Three Kingdoms|Classic novel|Pang Tong
+C|Cao Cao|Romance of the Three Kingdoms|Classic novel|Cao Cao
+C|Xun Yu|Romance of the Three Kingdoms|Classic novel|Xun Yu
+C|Liu Bei|Romance of the Three Kingdoms|Classic novel|Liu Bei
+C|Jia Xu|Romance of the Three Kingdoms|Classic novel|Jia Xu
+C|Chen Gong|Romance of the Three Kingdoms|Classic novel|Chen Gong
+C|Sun Ce|Romance of the Three Kingdoms|Classic novel|Sun Ce
++|Zhuge Liang|Zhuge,Kongming
+C|Wu Yong|Water Margin|Classic novel|Wu Yong
+C|Han Fei|(historical)|Real life|Han Fei
+C|Sun Tzu|(historical)|Real life|Sun Tzu
+# ---------------- Real people (historical, famous minds, public figures)
++|Einstein|Albert Einstein
+C|Isaac Newton|(real person)|Real life|Newton,Isaac Newton
+C|Leonardo da Vinci|(real person)|Real life|Da Vinci,Leonardo da Vinci
+C|Bobby Fischer|(real person)|Real life|Bobby Fischer
+C|Garry Kasparov|(real person)|Real life|Kasparov
++|Magnus Carlsen|Magnus
+C|Stockfish|(chess engine)|Real life|Stockfish
+C|Adolf Hitler|(historical)|Real life|Hitler,Adolf Hitler
+C|Joseph Stalin|(historical)|Real life|Stalin
++|Napoleon Bonaparte|Bonaparte,Bonaparta
+C|Julius Caesar|(historical)|Real life|Caesar
+C|Alexander the Great|(historical)|Real life|Alexander the Great
+C|Plato|(philosopher)|Real life|Plato
+C|Aristotle|(philosopher)|Real life|Aristotle
+C|Socrates|(philosopher)|Real life|Socrates
+C|Leibniz|(philosopher)|Real life|Leibniz
+C|Gauss|(mathematician)|Real life|Gauss
+C|Euler|(mathematician)|Real life|Euler
+C|Thomas Edison|(historical)|Real life|Edison
+C|Shakespeare|(author)|Real life|Shakespeare
+C|Donald Trump|(public figure)|Real life|Trump
+C|Vladimir Putin|(public figure)|Real life|Putin
+C|Jeffrey Epstein|(public figure)|Real life|Epstein
+C|Andrew Tate|(public figure)|Real life|Andrew Tate
+C|Lionel Messi|(sportsperson)|Real life|Messi
+C|Max Verstappen|(sportsperson)|Real life|Verstappen
+C|MrBeast|(public figure)|Real life|Mrbeast
+C|Technoblade|(public figure)|Real life|Technoblade
+C|Jesus Christ|(religion)|Real life|Jesus,Jesus Christ
+C|Buddha|(religion)|Real life|Buddha
+C|Satan|(religion)|Real life|Satan
+# ---------------- Works (novels, manga, anime, shows, games) that are named but have no character entry
+W|Another Note: The Los Angeles BB Murder Cases|Novel|Another Note
+W|Another Monster|Novel|Another Monster
+W|Hannibal Rising|Novel|Hannibal Rising
+W|Higurashi|Visual novel|Higurashi: When They Cry
+W|Psycho-Pass|Anime|Psycho-Pass,Psycho Pass
+W|One Outs|Manga|One Outs,Oneouts
+W|20th Century Boys|Manga|Century Boys,20th Century Boys
+W|Doki Doki Literature Club|Game|DDLC,Doki Doki Literature Club
+W|Hazbin Hotel|TV|Hazbin Hotel,Hazbin
+W|Genshin Impact|Game|Genshin
+W|Honkai: Star Rail|Game|Star Rail
+W|Undertale|Game|Undertale
+W|Deltarune|Game|Deltarune
+W|Steins;Gate|Visual novel|Steins Gate,Steins;Gate
+W|The Prince of Nothing|Novel|Prince of Nothing,Second Apocalypse
+W|The Malazan Book of the Fallen|Novel|Malazan
+W|Solo Max-Level Newbie|Web novel|Max Level Newbie,Solo Max-level Newbie,Smln
+W|Omniscient Reader's Viewpoint|Web novel|Omniscient Reader
+W|Harry Potter|Novel|Harry Potter
+W|The Lord of the Rings|Novel|Lord of the Rings
+W|Game of Thrones|Novel/TV|Game of Thrones,A Song of Ice and Fire
+W|Star Wars|Film|Star Wars
+W|Marvel|Comic/Film|Marvel
+W|DC Comics|Comic|Dc Comics
+W|Pokemon|Game|Pokemon
+W|Yu-Gi-Oh!|Manga|Yugioh,Yu-gi-oh,Yu Gi Oh
+W|Naruto|Manga|Naruto
+W|One Piece|Manga|One Piece
+W|Dragon Ball|Manga|Dragon Ball
+W|Attack on Titan|Manga|Attack on Titan,Shingeki
+W|Hunter x Hunter|Manga|Hunter x Hunter,Hunter Hunter,Hxh
+W|Bleach|Manga|Bleach
+W|Demon Slayer|Manga|Demon Slayer
+W|Jujutsu Kaisen|Manga|Jujutsu Kaisen,Jjk
+W|JoJo's Bizarre Adventure|Manga|Jojo
+W|Fate series|Light novel|Fate Stay Night,Fate Zero
+W|Overlord|Light novel|Overlord
+W|Mushoku Tensei|Light novel|Mushoku Tensei
+W|Sword Art Online|Light novel|Sword Art Online
+W|Berserk|Manga|Berserk
+W|Vinland Saga|Manga|Vinland Saga
+W|Baki|Manga|Baki
+W|Kingdom|Manga|Kingdom
+W|Batman: Arkham|Game|Arkham
+W|Squid Game|TV|Squid Game
+W|Peaky Blinders|TV|Peaky Blinders
+W|Sopranos|TV|Sopranos
+W|True Detective|TV|True Detective
+W|Hellblazer / DC|Comic|Hellblazer
+W|Watchmen|Comic|Watchmen
+W|The Dark Knight|Film|Dark Knight
+W|Dune|Novel|Dune,Dune Messiah
+W|Lord of the Mysteries|Web novel|Lord of the Mysteries,Lotm
+W|Reverend Insanity|Web novel|Reverend Insanity
+W|18 Levels of Hell|Web novel|18Loh,18 Loh,Eighteen Levels of Hell,Levels of Hell
+W|Romance of the Three Kingdoms|Classic novel|Three Kingdoms,Rotk
+W|Raging Loop|Visual novel|Raging Loop
+W|Shadow Slave|Web novel|Shadow Slave
+W|Unsong|Web novel|Unsong
+W|Artemis Fowl|Novel|Artemis Fowl
+W|Money Heist|TV|Money Heist,La Casa de Papel
+W|Assassination Classroom|Manga|Assassination Classroom
+W|Black Lagoon|Manga|Black Lagoon
+W|Resident Evil|Game|Resident Evil
+W|The Promised Neverland|Manga|Promised Neverland
+W|Fate / Type-Moon (Nasuverse)|Visual novel|Nasuverse
+W|South Park|TV|South Park
+W|Gravity Falls|TV|Gravity Falls
+W|Limitless|Film/TV|Limitless
+W|Galileo|Novel|Galileo
+W|The Coffin of Andy and Leyley|Game|Tcoaal
+W|Kingdom's Bloodline|Web novel|Kingdom's Bloodline
+W|Your Throne|Webtoon|Your Throne
+W|Super Danganronpa 2|Game|Sdr2,Dr2,Drv3,Danganronpa 2
+W|My Little Pony|TV|Mlp
+W|Dream SMP|Online|Dream Smp
+W|The Usual Suspects|Film|Usual Suspects
+W|Seven (Se7en)|Film|Se7en
+W|Tenet|Film|Tenet
+W|Invincible|Comic/TV|Invincible
+W|The Ravages of Time|Manhua|Ravages of Time
+W|Doctor Who|TV|Doctor Who,Dr Who
+W|Case Closed (Detective Conan)|Manga|Case Closed
+W|Persona 5|Game|Persona 5
+W|Hell's Paradise|Manga|Hells Paradise
+W|Spy x Family|Manga|Spy x Family
+W|Kaiji|Manga|Tobaku Mokushiroku
+W|Zero Escape|Visual novel|Virtues Last Reward
+W|Re:Zero|Light novel|Rezero
+W|Worm|Web novel|Worm
+W|Mother of Learning|Web novel|Mother of Learning
+W|Harry Potter and the Methods of Rationality|Web novel|Methods of Rationality,Hpmor
+W|Death Note: Another Note|Novel|Los Angeles Bb Murder
++|Mikasa Tenji|Tenji
++|Kimura Kei|Kimura
++|Midori / Shin|Shin,Hiyori,Sou Hiyori
++|Hannibal Lecter|Hannibal Lecter
+C|Shinobu Kaitani (author)|Liar Game|Manga|Kaitani,Shinobu Kaitani
+C|Naoki Urasawa (author)|Monster|Manga|Urasawa,Naoki Urasawa
+C|Tsugumi Ohba (author)|Death Note|Manga|Ohba
+C|Takeshi Obata (author)|Death Note|Manga|Obata
+C|Sako Toshio (author)|Usogui|Manga|Toshio Sako

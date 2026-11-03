@@ -1,0 +1,221 @@
+﻿rank,work,medium,source,mentions_of_title,posts,comments,mentions_of_its_characters,characters_found,top_characters
+1,Classroom of the Elite,Light novel,curated,6537,1272,5265,58661,31,"Ayanokoji Kiyotaka (28,703); Yagami Takuya (4,503); Nagumo Miyabi (3,664); Horikita Suzune (3,471); Ryuen Kakeru (3,425); Arisu (ambiguous: Sakayanagi / Ryohei) (2,161); Amasawa Ichika (2,093); Ichinose Honami (2,017); Kushida Kikyou (1,584); Koenji Rokusuke (1,288); Horikita Manabu (1,215); Sakayanagi Arisu (721)"
+2,Death Note,Manga,curated,5725,1110,4615,52489,24,"Light Yagami (28,715); L Lawliet (7,569); Near (Nate River) (4,439); Mello (3,127); Misa Amane (1,686); Lind L. Tailor (903); Shinigami (Death Note) (781); Teru Mikami (761); Ryuk (627); Raye Penber (617); Beyond Birthday (471); Touta Matsuda (398)"
+3,Usogui,Manga,curated,7101,1177,5924,45328,13,"Baku Madarame (23,516); Hal (Prime Minister) (10,329); Vincent Lalo (4,537); Kiruma Souichi (3,637); Kaji Takaomi (1,071); Suteguma Satoru (788); Marco (Usogui) (409); Gonen (374); Amako (Usogui) (242); Billy Craig (138); Kikuzawa (Usogui) (135); Minowa (Usogui) (113)"
+4,Liar Game,Manga,curated,4160,1049,3111,35962,9,"Akiyama Shinichi (23,178); Yokoya Norihiko (8,799); Nao (ambiguous) (1,529); Fukunaga Yuji (770); Kimura Kei (605); Harimoto (443); Shinobu Kaitani (author) (351); Kanzaki Nao (276); Kimura Kei (Liar Game) (11)"
+5,Tomodachi Game,Manga,curated,1763,523,1240,17910,6,"Katagiri Yuuichi (16,305); Kokorogi Yutori (507); Mikasa Tenji (493); Kei Shinomiya (315); Satone Ayaka (235); Sawaragi Shiho (55)"
+6,Danganronpa,Game,curated,1806,376,1430,13744,25,"Junko Enoshima (3,860); Nagito Komaeda (2,502); Kokichi Ouma (2,480); Kyoko Kirigiri / Danganronpa cast (1,616); Izuru Kamukura (1,083); Celestia Ludenberg (475); Byakuya Togami (217); Sayaka Maizono (212); Tsumugi Shirogane (196); Monokuma (192); Chiaki Nanami (150); Gundham Tanaka (120)"
+7,Monster (Urasawa),Manga,curated,1233,278,955,14208,9,"Johan Liebert (11,530); Kenzo Tenma (982); Inspector Lunge (647); Kinderheim 511 (365); Nameless Monster (252); Naoki Urasawa (author) (212); Hans Georg Schuwald (81); Wolfgang Grimmer (77); Roberto (Monster) (62)"
+8,Kakegurui,Manga,curated,2075,434,1641,10929,9,"Yumeko Jabami (6,588); Kirari Momobami (2,036); Mary Saotome (1,447); Ririka Momobami (492); Terano Totobami (178); Midari Ikishima (74); Ryota Suzui (62); Yumemite Yumemi (35); Itsuki Sumeragi (17)"
+9,The Mentalist,TV,curated,1683,418,1265,10466,15,"Patrick Jane (5,991); Red John (3,360); Gale Bertram (189); Thomas McAllister (171); Bret Stiles (121); Wayne Rigsby (104); Sheriff (Mentalist) (97); Lorelei Martins (96); Timothy Carter (70); Kristina Frye (69); Grace Van Pelt (62); Bob Kirkland (44)"
+10,Reverend Insanity,Web novel,curated,1406,312,1094,9926,6,"Fang Yuan (9,140); Wisdom Gu (313); Bai Ning Bing (228); Xing Su (116); Fang Zheng (95); Gu Yue (34)"
+11,18 Levels of Hell,Web novel,curated,2703,474,2229,6526,6,"Chen Ran (5,369); Qiu Yinong (337); Chen Yang (264); Shu Renjun (227); Lin Ou (165); Lin Xuan (164)"
+12,Hannibal / Thomas Harris novels,Novel,curated,0,0,0,8604,6,"Hannibal Lecter (7,775); Will Graham (588); Clarice Starling (98); Frederick Chilton (94); Jack Crawford (28); Francis Dolarhyde (21)"
+13,One Outs,Manga,reviewed,1031,222,809,7508,1,"Tokuchi Toua (7,508)"
+14,Sherlock Holmes,Novel,curated,1349,349,1000,6659,7,"Sherlock Holmes (4,320); Moriarty (BBC/other) (1,883); Dr. Watson (184); Mycroft Holmes (126); Charles Augustus Milverton (67); Irene Adler (43); Sebastian Moran (36)"
+15,Akagi,Manga,curated,0,0,0,6901,3,"Akagi Shigeru (6,239); Washizu Iwao (578); Urabe (Akagi) (84)"
+16,DC Comics,Comic,curated,153,56,97,6656,12,"Batman (3,259); The Joker (1,385); The Riddler (615); Reverse Flash (550); Superman (251); Lex Luthor (142); Bane (123); Penguin (80); Scarecrow (73); Brainiac (70); Darkseid (63); Eobard Thawne (45)"
+17,No Game No Life,Light novel,curated,988,185,803,5638,6,"Sora (NGNL) (3,320); Shiro (NGNL) (1,193); Riku Dola (827); Jibril (217); Schwi Dola (70); Stephanie Dola (11)"
+18,Umineko,Visual novel,curated,1376,189,1187,4937,6,"Beatrice (2,911); Battler Ushiromiya (1,197); Erika Furudo (510); Featherine (143); Lambdadelta (124); Ange Ushiromiya (52)"
+19,Bungo Stray Dogs,Manga,curated,803,161,642,5445,5,"Dazai Osamu (2,733); Fyodor Dostoevsky (1,971); Edogawa Ranpo (687); Nakahara Chuuya (50); Ougai Mori (4)"
+20,Code Geass,Anime,curated,597,128,469,4661,5,"Lelouch vi Britannia (4,340); Schneizel el Britannia (108); Suzaku Kururugi (85); Rolo Lamperouge (82); Kallen Stadtfeld (46)"
+21,Super Danganronpa 2 (fan),Game,curated,184,47,137,4778,1,"Kanade Otonokoji (4,778)"
+22,Dexter,TV,curated,0,0,0,3922,9,"Dexter Morgan (3,010); James Doakes (386); Brian Moser (237); Frank Lundy (91); Bay Harbor Butcher (65); Debra Morgan (59); Maria LaGuerta (42); Trinity Killer (30); Harry Morgan (2)"
+23,Detective Conan,Manga,curated,578,137,441,3337,5,"Conan Edogawa / Shinichi Kudo (3,068); Hattori Heiji (136); Akai Shuichi (69); Haibara Ai (38); Kogoro Mouri (26)"
+24,Romance of the Three Kingdoms,Classic novel,curated,131,21,110,3211,12,Zhuge Liang (950); Guo Jia (921); Zhou Yu (236); Sima Yi (235); Xun Yu (185); Lu Bu (157); Cao Cao (143); Pang Tong (137); Jia Xu (103); Chen Gong (59); Liu Bei (50); Sun Ce (35)
+25,Saw,Film,curated,597,147,450,2595,3,"John Kramer (Jigsaw) (2,293); Mark Hoffman (295); Amanda Young (7)"
+26,Breaking Bad,TV,curated,0,0,0,3015,5,"Walter White (1,610); Gustavo Fring (1,217); Skyler White (113); Jesse Pinkman (39); Hank Schrader (36)"
+27,Bleach,Manga,curated,346,52,294,2412,5,"Aizen Sosuke (1,892); Kisuke Urahara (287); Ichigo Kurosaki (122); Yhwach (69); Orihime Inoue (42)"
+28,Jujutsu Kaisen,Manga,curated,245,59,186,2468,9,Kenjaku (851); Satoru Gojo (523); Sukuna (522); Megumi Fushiguro (123); Aoi Todo (105); Toji Fushiguro (101); Yuta Okkotsu (99); Mahoraga (76); Suguru Geto (68)
+29,Dr. Stone,Manga,curated,248,54,194,2460,1,"Senku Ishigami (2,460)"
+30,Attack on Titan,Manga,curated,84,35,49,2554,7,"Eren Yeager (1,933); Zeke Yeager (173); Armin Arlert (152); Erwin Smith (110); Mikasa Ackerman (80); Levi Ackerman (77); Reiner Braun (29)"
+31,House M.D.,TV,curated,23,11,12,2600,1,"Gregory House (2,600)"
+32,Star Wars (Thrawn novels),Film,curated,329,76,253,2089,5,Emperor Palpatine (794); Grand Admiral Thrawn (773); Darth Vader (321); Darth Sidious (140); Darth Plagueis (61)
+33,Oshi no Ko,Manga,curated,277,54,223,2140,2,"Aqua Hoshino (2,108); Hoshino Ruby (32)"
+34,Re:Zero,Light novel,curated,402,95,307,1923,3,"Subaru Natsuki (1,705); Echidna (169); Emilia (49)"
+35,You (Netflix/novels),TV,curated,0,0,0,2305,1,"Joe Goldberg (2,305)"
+36,Zero Escape,Visual novel,curated,397,69,328,1887,3,"Akane Kurashiki (1,710); Junpei Tenmyouji (133); Sigma Klim (44)"
+37,Roshidere,Light novel,curated,342,69,273,1800,3,"Kuze Masachika (1,646); Alya (Roshidere) (115); Yuki Suou (39)"
+38,Dr. Frost,Webtoon,curated,0,0,0,2137,1,"Seonghyun Moon (Dr. Frost) (2,137)"
+39,Prison Break,TV,curated,373,89,284,1744,4,"Michael Scofield (1,413); Alex Mahone (208); T-Bag (116); Lincoln Burrows (7)"
+40,Lord of the Mysteries,Web novel,curated,676,98,578,1125,1,"Klein Moretti (1,125)"
+41,Demon Slayer,Manga,curated,276,43,233,1395,2,"Muzan Kibutsuji (1,261); Tanjiro Kamado (134)"
+42,Marvel,Comic,curated,400,81,319,1223,8,Doctor Doom (334); Loki (227); Tony Stark (217); Spider-Man (155); Reed Richards (144); Thanos (77); Black Panther (50); Helmut Zemo (19)
+43,Five Nights at Freddy's,Game,curated,17,13,4,1509,4,"William Afton (1,132); Freddy Fazbear (217); Scott Cawthon (125); Glitchtrap (35)"
+44,Moriarty the Patriot,Manga,curated,180,82,98,1238,1,"William James Moriarty (1,238)"
+45,Naruto,Manga,curated,458,55,403,944,7,Itachi Uchiha (330); Shikamaru Nara (252); Madara Uchiha (103); Obito Uchiha (87); Sasuke Uchiha (78); Yahiko (58); Minato Namikaze (36)
+46,Ace Attorney,Game,curated,457,110,347,918,6,Phoenix Wright (364); Miles Edgeworth (342); Kristoph Gavin (69); Apollo Justice (51); Godot (Ace Attorney) (50); Manfred von Karma (42)
+47,Vile Dominion,Web novel,curated,332,47,285,1043,3,Li Gang (815); Jin Huang (204); Li Gang (Vile Dominion) (24)
+48,Kaiji,Manga,curated,0,0,0,1318,1,"Kaiji Itou (1,318)"
+49,Your Turn to Die,Game,curated,207,50,157,1086,1,"Midori / Shin (1,086)"
+50,Hyouka,Light novel,curated,117,29,88,1148,1,"Oreki Houtarou (1,148)"
+51,Struggling to Survive in the Demonic Sect,Web novel,curated,1,1,0,1246,2,"Ang Xiao (1,054); Chusheng Demon Sect (192)"
+52,Chainsaw Man,Manga,curated,90,29,61,1074,2,Makima (947); Denji (127)
+53,Doctor Who,TV,reviewed,1164,179,985,0,0,
+54,Watchmen,Comic,curated,244,24,220,910,2,Ozymandias (783); Rorschach (127)
+55,JoJo's Bizarre Adventure,Manga,curated,392,49,343,755,6,Jotaro Kujo (231); Joseph Joestar (191); Enrico Pucci (113); Kars (83); Diavolo (70); Giorno Giovanna (67)
+56,Dune,Novel,curated,450,125,325,683,4,Paul Atreides (522); Leto II Atreides (111); Kwisatz Haderach (30); Baron Harkonnen (20)
+57,Dragon Ball,Manga,curated,96,17,79,1028,1,"Goku (1,028)"
+58,Better Call Saul,TV,curated,0,0,0,1122,7,Mike Ehrmantraut (325); Lalo Salamanca (299); Saul Goodman (264); Jimmy McGill (122); Nacho Varga (49); Tuco Salamanca (47); Kim Wexler (16)
+59,Hunter x Hunter,Manga,curated,219,54,165,882,7,Chrollo Lucilfer (245); Hisoka Morow (208); Kurapika (140); Meruem (127); Pariston Hill (74); Ging Freecss (51); Komugi (37)
+60,Alice in Borderland,Manga,curated,282,125,157,789,4,Chishiya Shuntaro (739); Arisu Ryohei (32); Aguni Yuzuha (13); Niragi Suguru (5)
+61,Heavenly Genius,Web novel,curated,335,60,275,699,1,Niu Youdao (699)
+62,Limitless,Novel,curated,547,78,469,432,2,Brian Finch (346); Eddie Morra (86)
+63,Gintama,Manga,curated,229,36,193,721,6,Gintoki Sakata (407); Utsuro (110); Kamui (Gintama) (77); Katsura Kotaro (58); Takasugi Shinsuke (55); Itou Kamotarou (14)
+64,Squid Game,TV,curated,401,122,279,520,3,Frontman (Hwang In-ho) (223); Cho Sang-woo (160); Seong Gi-hun (137)
+65,The Ravages of Time,Manhua,reviewed,767,145,622,0,0,
+66,Higurashi,Visual novel,reviewed,205,21,184,550,4,Rika Furude (302); Satoko Hojo (123); Keiichi Maebara (64); Rena Ryuugu (61)
+67,SCP Foundation,Online fiction,curated,647,144,503,89,1,Murphy Lawden (89)
+68,Agatha Christie novels,Novel,reviewed,13,4,9,713,2,Hercule Poirot (611); Miss Marple (102)
+69,God's Imitator,Web novel,curated,66,13,53,621,3,Cai Zhiyuan (262); Lin Sizhi (237); Colonel Timo (122)
+70,Psycho-Pass,Anime,reviewed,145,46,99,483,2,Shogo Makishima (432); Shinya Kogami (51)
+71,The Detective Is Already Dead,Light novel,reviewed,44,22,22,564,1,Siesta (The Detective Is Already Dead) (564)
+72,Rick and Morty,TV,curated,105,42,63,483,3,Rick Sanchez (225); Evil Morty (185); Morty Smith (73)
+73,Lucifer,TV,curated,0,0,0,580,1,Lucifer Morningstar (580)
+74,Kaguya-sama: Love Is War,Manga,reviewed,18,10,8,523,3,Kaguya Shinomiya (421); Miyuki Shirogane (83); Chika Fujiwara (19)
+75,Undertale,Game,reviewed,96,24,72,432,4,W. D. Gaster (241); Sans (99); Chara (52); Frisk (40)
+76,Doki Doki Literature Club,Game,reviewed,84,26,58,440,1,Monika (DDLC) (440)
+77,Breaking Bad / Better Call Saul,TV,curated,489,126,363,0,0,
+78,Genshin Impact,Game,reviewed,103,23,80,360,1,Furina (360)
+79,Solo Max-Level Newbie,Web novel,reviewed,88,10,78,374,1,Kang Jinhyuk (374)
+80,Blue Lock,Manga,curated,99,21,78,344,1,Isagi Yoichi (344)
+81,Kingdom,Manga,reviewed,443,87,356,0,0,
+82,Columbo,TV,curated,0,0,0,434,1,Columbo (434)
+83,20th Century Boys,Manga,reviewed,433,90,343,0,0,
+84,Hazbin Hotel,TV,reviewed,104,24,80,321,1,Alastor (321)
+85,Ten Days Ultimatum,Web novel,reviewed,135,21,114,266,1,Qi Xia (266)
+86,Lupin,TV,curated,323,46,277,77,1,Assane Diop (77)
+87,Tenet,Film,reviewed,364,69,295,0,0,
+88,Tokyo Ghoul,Manga,curated,65,11,54,290,2,Furuta Nimura (195); Kaneki Ken (95)
+89,One Piece,Manga,reviewed,171,30,141,181,1,Luffy (181)
+90,Durarara!!,Light novel,curated,65,13,52,286,1,Izaya Orihara (286)
+91,Scream,Film,reviewed,278,78,200,73,1,Ghostface (73)
+92,Hellblazer / DC,Comic,curated,60,6,54,280,1,John Constantine (280)
+93,Sherlock (BBC),TV,reviewed,89,23,66,247,1,Eurus Holmes (247)
+94,Magic Kaito,Manga,curated,27,9,18,307,1,Kaito Kid (307)
+95,Blood Meridian,Novel,curated,66,20,46,268,1,Judge Holden (268)
+96,Berserk,Manga,curated,95,7,88,224,2,Griffith (151); Guts (73)
+97,Fate series,Light novel,curated,158,51,107,158,3,Gilgamesh (76); Shirou Emiya (53); Kiritsugu Emiya (29)
+98,As the Gods Will,Manga,reviewed,109,38,71,206,1,Tasuku Higashihama (206)
+99,The Demon World I Designed,Web novel,reviewed,90,24,66,225,2,Pun Yunchuan (146); Chen Qing (79)
+100,Saga of Tanya the Evil,Light novel,curated,21,7,14,281,1,Tanya Degurechaff (281)
+101,Honkai: Star Rail,Game,reviewed,27,12,15,271,2,Aventurine (198); Herta (73)
+102,Invincible,Comic/TV,reviewed,297,62,235,0,0,
+103,Sinmonger,Web novel,reviewed,119,27,92,169,1,Tian Yi (169)
+104,Cthulhu Mythos,Novel,reviewed,22,9,13,252,4,Yog-Sothoth (95); Azathoth (64); Nyarlathotep (54); Cthulhu (39)
+105,Psych,TV,curated,159,26,133,112,1,Shawn Spencer (112)
+106,The Terrible Eternal Path,Web novel,reviewed,51,10,41,220,1,Li Qing (220)
+107,Baki,Manga,reviewed,0,0,0,248,2,Yujiro Hanma (132); Baki Hanma (116)
+108,Yu-Gi-Oh!,Manga,reviewed,112,30,82,126,2,Yugi Muto (82); Seto Kaiba (44)
+109,Your Throne,Webtoon,curated,141,37,104,93,1,Medea Solon (93)
+110,The Prince of Nothing,Novel,reviewed,71,10,61,161,1,Kellhus (161)
+111,The Boys,TV,curated,124,31,93,106,1,Homelander (106)
+112,Harry Potter,Novel,reviewed,80,15,65,140,2,Albus Dumbledore (103); Voldemort (37)
+113,One Punch Man,Manga,reviewed,23,6,17,197,2,Saitama (157); Garou (40)
+114,Melvina's Therapy,Webtoon,curated,39,23,16,177,1,Melvina (177)
+115,Pyramid Game,Webtoon,curated,84,22,62,129,1,Suji Seong / Nambong Baek (129)
+116,The Apothecary Diaries,Light novel,curated,13,2,11,193,1,Maomao (193)
+117,Nine Bestowments,Web novel,reviewed,78,6,72,126,1,Lu Chen (126)
+118,Pokemon,Game,reviewed,180,30,150,21,1,Pikachu (21)
+119,The Kindaichi Case Files,Manga,reviewed,13,3,10,187,1,Kindaichi Hajime (187)
+120,The Devotion of Suspect X,Novel,curated,35,9,26,159,1,Ishigami Tetsuya (159)
+121,Another Monster,Novel,reviewed,192,20,172,0,0,
+122,That Time I Got Reincarnated as a Slime,Light novel,reviewed,8,2,6,177,1,Rimuru Tempest (177)
+123,The Blacklist,TV,curated,78,21,57,101,1,Raymond Reddington (101)
+124,Game of Thrones,Novel,reviewed,85,21,64,94,2,Petyr Baelish (50); Tywin / Tyrion Lannister (44)
+125,My Teen Romantic Comedy (Oregairu),Light novel,reviewed,0,0,0,177,1,Hikigaya Hachiman (177)
+126,Honkai Impact 3rd,Game,curated,25,11,14,149,1,Otto Apocalypse (149)
+127,Overlord,Light novel,reviewed,62,14,48,105,2,Demiurge (64); Ainz Ooal Gown (41)
+128,Reverend Insanity / Chinese web novels,Novel,curated,166,25,141,0,0,
+129,Deltarune,Game,reviewed,96,19,77,65,1,Kris Dreemurr (65)
+130,Halloween,Film,reviewed,84,22,62,74,1,Michael Myers (74)
+131,The Lord of the Rings,Novel,reviewed,31,12,19,124,1,Sauron (124)
+132,Sonic the Hedgehog,Game,reviewed,4,1,3,151,2,Dr. Eggman (98); Sonic (53)
+133,Kingdom's Bloodline,Web novel,reviewed,151,21,130,0,0,
+134,X-Men,Comic,reviewed,13,5,8,137,1,Gambit / Remy (137)
+135,Child's Play,Film,reviewed,60,9,51,89,1,Chucky (89)
+136,The Elder Scrolls,Game,reviewed,22,1,21,127,1,Vivec (127)
+137,Galileo,Novel,reviewed,52,12,40,96,1,Yukawa Manabu (96)
+138,Ron Kamonohashi's Forbidden Deductions,Manga,curated,2,1,1,141,1,Ron Kamonohashi (141)
+139,Arsène Lupin,Novel,reviewed,42,15,27,86,1,Phantom Thief Lupin (86)
+140,Court of the Sword-Treading,Web novel,reviewed,9,3,6,119,1,Mu Zixuan (119)
+141,Poe stories,Novel,reviewed,1,0,1,125,1,Auguste Dupin (125)
+142,Steins;Gate,Visual novel,reviewed,42,10,32,83,1,Okabe Rintaro (83)
+143,The Misfit of Demon King Academy,Light novel,reviewed,4,1,3,120,1,Anos Voldigoad (120)
+144,Fate/Grand Order,Game,curated,0,0,0,121,2,Oberon Vortigern (88); Daybit Sem Void (33)
+145,Omniscient Reader's Viewpoint,Web novel,reviewed,25,7,18,90,1,Kim Dokja (90)
+146,Vinland Saga,Manga,reviewed,53,3,50,60,1,Thorfinn (60)
+147,Forst series (Remigiusz Mroz),Novel,curated,0,0,0,110,2,Wiktor Forst (88); Iwo Eliasz (22)
+148,Medaka Box,Manga,reviewed,28,5,23,81,2,Kumagawa Misogi (57); Medaka Kurokami (24)
+149,The Count of Monte Cristo,Novel,curated,65,20,45,42,1,Edmond Dantes (42)
+150,Artemis Fowl,Novel,reviewed,107,10,97,0,0,
+151,My Little Pony,TV,reviewed,105,11,94,0,0,
+152,It,Novel,reviewed,0,0,0,103,1,Pennywise (103)
+153,Once Upon a Spirit Blade Mountain,Web novel,reviewed,1,1,0,101,1,Wang Lu (101)
+154,Fight Club,Novel,curated,42,7,35,58,1,Tyler Durden (58)
+155,Worm,Web novel,reviewed,100,12,88,0,0,
+156,Monk,TV,reviewed,0,0,0,97,1,Adrian Monk (97)
+157,The Big Bang Theory,TV,curated,14,1,13,78,1,Sheldon Cooper (78)
+158,The Malazan Book of the Fallen,Novel,reviewed,88,5,83,0,0,
+159,Another Note: The Los Angeles BB Murder Cases,Novel,reviewed,87,17,70,0,0,
+160,Money Heist,TV,reviewed,84,32,52,0,0,
+161,Dream SMP,Online,reviewed,84,10,74,0,0,
+162,The Coffin of Andy and Leyley,Game,reviewed,79,9,70,0,0,
+163,The Grandmaster Strategist,Web novel,reviewed,26,8,18,53,1,Jiang Zhe (53)
+164,Professor Layton,Game,reviewed,0,0,0,77,1,Professor Layton (77)
+165,Batman: Arkham,Game,reviewed,75,6,69,0,0,
+166,Shadow Slave,Web novel,reviewed,75,7,68,0,0,
+167,True Detective,TV,curated,39,16,23,34,1,Rust Cohle (34)
+168,The Office,TV,reviewed,72,29,43,1,1,Michael Scott (1)
+169,Reacher,Novel,reviewed,0,0,0,71,1,Jack Reacher (71)
+170,Father Brown stories,Novel,reviewed,2,0,2,68,1,Father Brown (68)
+171,Honkai Impact,TV,curated,68,15,53,0,0,
+172,Young Sheldon,TV,reviewed,0,0,0,67,1,Young Sheldon (67)
+173,Raging Loop,Visual novel,reviewed,65,13,52,0,0,
+174,The Dark Knight,Film,reviewed,64,20,44,0,0,
+175,A Nightmare on Elm Street,Film,reviewed,5,4,1,59,1,Freddy Krueger (59)
+176,American Psycho,Novel,reviewed,6,2,4,57,1,Patrick Bateman (57)
+177,James Bond,Novel,reviewed,0,0,0,63,1,James Bond (63)
+178,The Odyssey,Classic,reviewed,6,4,2,56,1,Odysseus (56)
+179,Hannibal Rising,Novel,reviewed,61,14,47,0,0,
+180,Fate / Type-Moon (Nasuverse),Visual novel,reviewed,61,21,40,0,0,
+181,The Promised Neverland,Manga,reviewed,60,18,42,0,0,
+182,Munou na Nana,Manga,curated,11,5,6,48,1,Nana Hiiragi (48)
+183,The Sopranos,TV,curated,15,2,13,41,1,Tony Soprano (41)
+184,Water Margin,Classic novel,reviewed,0,0,0,55,1,Wu Yong (55)
+185,RWBY,TV,reviewed,0,0,0,53,1,Cinder Fall (53)
+186,Seven (Se7en),Film,reviewed,52,23,29,0,0,
+187,Devil May Cry,Game,reviewed,4,2,2,48,1,Dante (48)
+188,Super Mario,Game,reviewed,3,1,2,48,1,Mario (48)
+189,Red Dead Redemption,Game,reviewed,16,11,5,34,2,Dutch van der Linde (19); Arthur Morgan (15)
+190,Inglourious Basterds,Film,curated,4,2,2,45,1,Hans Landa (45)
+191,Pendergast novels,Novel,reviewed,0,0,0,47,1,Aloysius Pendergast (47)
+192,Unsong,Web novel,reviewed,45,9,36,0,0,
+193,Call of Duty Zombies,Game,reviewed,2,1,1,42,1,Richtofen (42)
+194,Future Diary,Manga,curated,17,9,8,26,1,Yuno Gasai (26)
+195,John Wick,Film,reviewed,0,0,0,38,1,John Wick (38)
+196,Death Note: Another Note,Novel,reviewed,35,14,21,0,0,
+197,Yu Yu Hakusho,Manga,reviewed,3,3,0,30,1,Kurama (30)
+198,Harry Potter and the Methods of Rationality,Web novel,reviewed,31,5,26,0,0,
+199,Persona 5,Game,reviewed,30,7,23,0,0,
+200,Catch Me If You Can,Film,curated,25,7,18,4,1,Frank Abagnale Jr. (4)
+201,Assassination Classroom,Manga,reviewed,28,4,24,0,0,
+202,The Usual Suspects,Film,reviewed,28,15,13,0,0,
+203,No Country for Old Men,Novel,curated,20,8,12,5,1,Anton Chigurh (5)
+204,For Honor,Game,curated,5,4,1,20,1,Apollyon (20)
+205,Mushoku Tensei,Light novel,reviewed,22,4,18,0,0,
+206,Sword Art Online,Light novel,reviewed,3,1,2,18,1,Kirito (18)
+207,Spy x Family,Manga,reviewed,21,7,14,0,0,
+208,Ender's Game,Novel,reviewed,4,0,4,16,1,Ender Wiggin (16)
+209,Resident Evil,Game,reviewed,19,8,11,0,0,
+210,South Park,TV,reviewed,19,9,10,0,0,
+211,Gravity Falls,TV,reviewed,18,8,10,0,0,
+212,Legend of the Galactic Heroes,Novel,curated,16,4,12,1,1,Reinhard von Lohengramm (1)
+213,Sopranos,TV,reviewed,12,0,12,0,0,
+214,Black Lagoon,Manga,reviewed,12,3,9,0,0,
+215,Kyokou Suiri,Novel,curated,9,1,8,0,0,
+216,Monte Cristo,TV,curated,9,1,8,0,0,
+217,Peaky Blinders,TV,reviewed,9,1,8,0,0,
+218,Case Closed (Detective Conan),Manga,reviewed,9,9,0,0,0,
+219,Mother of Learning,Web novel,reviewed,8,0,8,0,0,
+220,Hell's Paradise,Manga,reviewed,7,0,7,0,0,
