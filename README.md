@@ -23,6 +23,7 @@ A full archive of [r/IntelligenceScaling](https://www.reddit.com/r/IntelligenceS
 | [results/ALL_WORKS.md](results/ALL_WORKS.md) · [csv](results/works_all.csv) | **Every novel, manga, anime, show and game**, with its type, title mentions, character mentions and top characters |
 | [results/ARCS.md](results/ARCS.md) · [csv](results/arcs_all.csv) | **Every arc / game discussed**, ranked, with average score and most-discussed characters |
 | [results/ANALYSIS.md](results/ANALYSIS.md) | Summary: activity by year, top 50 characters, top 10 per year, types of work, **best arcs per work** |
+| [results/WEB_NOVEL_CHARACTERS.md](results/WEB_NOVEL_CHARACTERS.md) · [csv](results/web_novel_characters.csv) | **Every web novel character**: 362 names counted straight from the raw archive, including ones with 0 mentions, grouped by work, with spelling variants and exclusions listed |
 | [results/names_unreviewed.csv](results/names_unreviewed.csv) | Every other capitalized name or term found, with counts, so nothing is dropped (includes non-names such as scoring terms) |
 | [results/mediums.csv](results/mediums.csv) · [activity_by_month.csv](results/activity_by_month.csv) | Totals per type of work; posts and comments per month |
 
@@ -85,6 +86,27 @@ Mentions = posts (title + body) and comments that name the character at least on
 | Abandoned Building Arc | Usogui | 77 |
 
 The best arcs for every work are in [results/ANALYSIS.md](results/ANALYSIS.md#best-arcs-per-work).
+
+### Web novel characters
+
+A separate pass counted every web novel character directly in all 44,007 posts and 704,066 comments: **362 characters**, 306 mentioned at least once and 56 never mentioned. The list combines the 48 hand-checked web novel characters above, about 160 well-known web novel characters searched by name (Reverend Insanity, Lord of the Mysteries, Worm, Shadow Slave, ORV, Unsong, Mother of Learning, HPMOR and popular Chinese, Korean and Western web novels), and about 150 Chinese-looking names pulled from `names_unreviewed.csv`. For that last group the work is inferred from which web novel title appears in the same post or comment, so it is a best guess.
+
+| # | Character | Work | Mentions |
+|---:|---|---|---:|
+| 1 | Fang Yuan | Reverend Insanity | 9,507 |
+| 2 | Chen Ran | 18 Levels of Hell | 5,608 |
+| 3 | Klein Moretti | Lord of the Mysteries | 1,164 |
+| 4 | Ang Xiao | Struggling to Survive in the Demonic Sect | 1,052 |
+| 5 | Li Gang | Vile Dominion | 833 |
+| 6 | Niu Youdao | Heavenly Genius | 711 |
+| 7 | Spectral Soul Demon Venerable | Reverend Insanity | 377 |
+| 8 | Kang Jinhyuk | Solo Max-Level Newbie | 377 |
+| 9 | Lu Yang | (unidentified web novel) | 355 |
+| 10 | Adam | Lord of the Mysteries | 338 |
+
+Web novels with the most character mentions: Reverend Insanity (12,737), 18 Levels of Hell (7,442), Lord of the Mysteries (2,226), Vile Dominion (1,155), Struggling to Survive in the Demonic Sect (1,052). The full list is in [results/WEB_NOVEL_CHARACTERS.md](results/WEB_NOVEL_CHARACTERS.md).
+
+These counts come from a fresh scan of the raw data, so they are a little higher than the numbers in `characters_all.csv` (Fang Yuan 9,507 here vs 9,140 there). In the web novel list, "Worm" mentioned next to a Chinese name is treated as Reverend Insanity, because it is almost always "Gu worm".
 
 ## Repository layout
 
