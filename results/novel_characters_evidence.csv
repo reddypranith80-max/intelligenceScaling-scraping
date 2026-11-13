@@ -1,0 +1,560 @@
+﻿character,novel,type,mentions,posts,comments,share_with_novel_named,first_mentioned,last_mentioned,names_matched
+Ayanokoji Kiyotaka,Classroom of the Elite,light,29447,3120,26327,0.53,2023-11-10,2026-11-13,Ayanokoji Kiyotaka; Ayanokoji; Ayanokouji; Ayanakoji; Ayanokji; Ayanaokoji; Kiyotaka; Kiyotaka Ayanokoji; Kiyotaka Ayanokouji; Ayanokouji Kiyotaka; !Koji; Kojis; !Ayano; Kyotaka; Kiyo
+Fang Yuan,Reverend Insanity,web,11540,1246,10294,0.49,2023-11-10,2026-11-12,Fang Yuan; Gu Yue Fang Yuan; Fang Yuang; Fan Yuan; Fang Juan; Yuan Fang; Henry Fang; ~!Yuan; ~!FY; Great Love Immortal Venerable; Heaven Refining Demon Venerable
+Chen Ran,18 Levels of Hell: Lying Is Forbidden Here,web,5791,793,4998,0.57,2025-11-07,2026-11-12,Chen Ran; Chan Ran; Chen Ren; Chem Ran; Fake Chen Ran; Future Chen Ran
+Nagumo Miyabi,Classroom of the Elite,light,3829,423,3406,0.78,2024-03-29,2026-11-12,Nagumo Miyabi; Miyabi Nagumo; Nagumo
+Horikita Suzune,Classroom of the Elite,light,3604,296,3308,0.81,2023-11-20,2026-11-13,Horikita Suzune; Suzune Horikita; Suzune; Horikita; Horikta
+Ryuen Kakeru,Classroom of the Elite,light,3542,326,3216,0.85,2023-11-20,2026-11-13,Ryuen Kakeru; Kakeru Ryuen; Ryuen; Ryuuen; Ryueen; Ryuuen Kakeru; ~Kakeru
+Sora,No Game No Life,light,3480,474,3006,0.40,2023-11-20,2026-11-12,!Sora; Sora Nai
+Yagami Takuya,Classroom of the Elite,light,3110,460,2650,0.93,2023-11-20,2026-11-12,Yagami Takuya; Takuya Yagami; ~!Takuya
+Sakayanagi Arisu,Classroom of the Elite,light,2194,272,1922,0.96,2023-12-05,2026-11-12,Sakayanagi Arisu; Arisu Sakayanagi; Sakayanagi; ~!Arisu
+Ichinose Honami,Classroom of the Elite,light,2079,181,1898,0.86,2024-05-27,2026-11-12,Ichinose Honami; Honami Ichinose; Ichinose; ~Honami
+Sherlock Holmes,Sherlock Holmes (Arthur Conan Doyle),novel,1914,459,1455,0.77,2023-11-13,2026-11-10,Sherlock Holmes; Novel Sherlock; Novels Sherlock
+Natsuki Subaru,Re:Zero,light,1861,287,1574,0.45,2024-07-22,2026-11-13,Natsuki Subaru; Subaru Natsuki; Subaru; ~!Natsuki
+Kushida Kikyou,Classroom of the Elite,light,1639,156,1483,0.79,2024-04-30,2026-11-12,Kushida Kikyou; Kikyou Kushida; Kushida Kikyo; Kushida
+Amasawa Ichika,Classroom of the Elite,light,1541,149,1392,0.97,2024-03-29,2026-11-12,Amasawa Ichika; Ichika Amasawa; Amasawa; ~Ichika
+Koenji Rokusuke,Classroom of the Elite,light,1407,167,1240,0.91,2024-03-29,2026-11-13,Koenji Rokusuke; Koenji; Kouenji; Rokusuke
+Klein Moretti,Lord of the Mysteries,web,1262,163,1099,0.43,2023-11-10,2026-11-07,Klein Moretti; Klein Morreti; Moretti; Morreti; !Klein; Gehrman Sparrow; Gehrman; Sherlock Moriarty; Dwayne Dantes; Zhou Mingrui; ~The Fool; ~Mr Fool; ~Mr World
+Oreki Houtarou,Hyouka,light,1231,157,1074,0.25,2024-04-21,2026-11-09,Oreki Houtarou; Houtarou Oreki; Oreki Houtaro; Hotaro Oreki; Oreki; Houtarou; Houtaro
+Hannibal Lecter,Hannibal Lecter novels (Thomas Harris),novel,1149,394,755,0.24,2023-12-10,2026-11-11,Hannibal Lecter; Novel Hannibal; Novels Hannibal; Hannibal Lector; Lecter
+Horikita Manabu,Classroom of the Elite,light,1074,133,941,0.98,2023-12-05,2026-11-12,Horikita Manabu; Manabu Horikita; ~!Manabu
+Ang Xiao,Being a Talent in Chusheng Demon Sect,web,1065,148,917,0.59,2025-10-18,2026-11-06,Ang Xiao; Ang-Xiao
+Li Gang,Vile Dominion,web,855,122,733,0.53,2025-05-23,2026-11-09,Li Gang; Lil Gang
+Grand Admiral Thrawn,Star Wars: Thrawn novels,novel,828,113,715,0.25,2024-08-09,2026-11-06,Grand Admiral Thrawn; Thrawn; Admiral Thrawn
+Niu Youdao,Heavenly Genius,web,788,130,658,0.47,2026-02-03,2026-11-09,Niu Youdao; Youdao; Niu Yudao; Niu You Dao; ~!NYD
+Riku Dola,No Game No Life,light,669,127,542,0.82,2023-12-01,2026-11-10,Riku Dola; ~!Riku
+Shiro,No Game No Life,light,659,154,505,1.00,2023-12-04,2026-11-12,~!Shiro; Shiro Nai
+Hercule Poirot,Agatha Christie novels,novel,646,91,555,0.27,2024-01-27,2026-11-10,Hercule Poirot; Poirot
+Will Graham,Hannibal Lecter novels (Thomas Harris),novel,592,158,434,0.30,2024-04-23,2026-11-03,Will Graham
+Siesta,The Detective Is Already Dead,light,570,71,499,0.26,2023-11-20,2026-11-12,Siesta
+Tsukishiro,Classroom of the Elite,light,555,67,488,0.94,2024-06-14,2026-11-12,Tsukishiro; Tsukishro
+Beyond Birthday,Death Note Another Note: The Los Angeles BB Murder Cases,light,481,198,283,0.18,2024-01-11,2026-11-12,Beyond Birthday; Rue Ryuzaki
+Paul Atreides,Dune,novel,451,139,312,0.41,2024-02-15,2026-11-12,Paul Atreides; Novel Paul
+Kang Jinhyuk,Solo Max-Level Newbie,web,402,63,339,0.48,2024-06-08,2026-11-09,Kang Jinhyuk; Kang Jinhyeok; Jinhyuk; Jinhyeok; Kang Jin Hyuk
+Star Constellation Immortal Venerable,Reverend Insanity,web,396,41,355,0.79,2024-01-06,2026-11-12,Star Constellation Immortal Venerable; Star Constellation; Xing Su
+First Saint,Being a Talent in Chusheng Demon Sect,web,394,75,319,0.79,2025-11-18,2026-11-07,First Saint
+Qiu Yinong,18 Levels of Hell: Lying Is Forbidden Here,web,383,67,316,0.89,2025-11-14,2026-11-12,Qiu Yinong; Yinong; Qui Yinong; Qiu Yining; Qi Yinoung
+Spectral Soul Demon Venerable,Reverend Insanity,web,378,64,314,0.85,2024-01-06,2026-11-11,Spectral Soul Demon Venerable; Spectral Soul
+Hirata Yosuke,Classroom of the Elite,light,357,50,307,0.96,2024-04-30,2026-11-13,Hirata Yosuke; Hirata
+Lu Yang,Being a Talent in Chusheng Demon Sect,web,356,39,317,0.71,2025-09-23,2026-11-07,Lu Yang
+Orihara Izaya,Durarara!!,light,354,51,303,0.29,2024-04-21,2026-11-12,Orihara Izaya; Izaya Orihara; Izaya; ~!Orihara
+Nanase Tsubasa,Classroom of the Elite,light,342,31,311,1.00,2024-06-01,2026-11-04,Nanase Tsubasa; ~Nanase
+Ayanokoji Atsuomi,Classroom of the Elite,light,323,29,294,0.97,2024-08-17,2026-11-12,Ayanokoji Atsuomi; Atsuomi; Atsoumi
+Sudo Ken,Classroom of the Elite,light,319,52,267,1.00,2024-04-30,2026-11-07,Sudo Ken; ~Sudo; Sudou
+Housen Kazuomi,Classroom of the Elite,light,313,22,291,0.98,2024-06-01,2026-11-04,Housen Kazuomi; Housen; ~Hosen
+Tanya Degurechaff,The Saga of Tanya the Evil,light,289,51,238,0.37,2024-04-21,2026-11-07,Tanya Degurechaff; Tanya von Degurechaff; Degurechaff; !Tanya
+Luther Roy,The Paradoxical Miracle,community,280,54,226,0.25,2026-04-04,2026-11-09,Luther Roy
+Kuze Masachika,Roshidere,light,277,70,207,0.74,2024-09-20,2026-11-12,Kuze Masachika; Masachika Kuze; Masachika; ~!Kuze
+Qi Xia,Ten Days Ultimatum,web,277,48,229,0.43,2025-05-03,2026-11-11,Qi Xia
+Chen Yang,18 Levels of Hell: Lying Is Forbidden Here,web,268,32,236,0.85,2025-12-21,2026-11-09,Chen Yang
+Judge Holden,Blood Meridian,novel,268,56,212,0.19,2024-04-28,2026-10-22,Judge Holden
+Shu Renjun,18 Levels of Hell: Lying Is Forbidden Here,web,267,42,225,0.95,2025-12-09,2026-11-12,Shu Renjun; Renjun
+Lin Sizhi,God's Imitator,web,265,44,221,0.76,2025-12-29,2026-11-12,Lin Sizhi; Sizhi; Lin Shizi; Lin Shizhi; Lin Sinzhi; Li Sinzhi
+Cai Zhiyuan,God's Imitator,web,264,52,212,0.81,2026-03-03,2026-11-09,Cai Zhiyuan; Cai Zhuyuan; Zhiyuan
+Yamauchi Haruki,Classroom of the Elite,light,262,39,223,0.72,2024-06-06,2026-11-10,Yamauchi Haruki; Yamauchi
+Karuizawa Kei,Classroom of the Elite,light,261,38,223,0.85,2024-09-12,2026-11-11,Karuizawa Kei; Kei Karuizawa; Karuizawa
+Diwu Zhiyi,18 Levels of Hell: Lying Is Forbidden Here,web,254,56,198,0.93,2025-11-30,2026-11-09,Diwu Zhiyi; Di Wu Zhi Yi; Di Wu Zhi; Wu Zhi Yi; ~Di Wu; ~!Diwu
+Bai Ning Bing,Reverend Insanity,web,249,34,215,0.78,2024-01-06,2026-10-28,Bai Ning Bing; Ning Bing; Bai Ning Bin
+Red Lotus Demon Venerable,Reverend Insanity,web,243,28,215,0.97,2024-06-08,2026-11-09,Red Lotus Demon Venerable; ~Red Lotus
+Shen Jihan,An Ordinary Path through an Incredulous Life,community,235,37,198,0.22,2026-01-31,2026-11-05,Shen Jihan; Jihan
+Ibuki Mio,Classroom of the Elite,light,232,39,193,1.00,2024-09-24,2026-11-07,Ibuki Mio; ~!Ibuki
+Jibril,No Game No Life,light,229,43,186,0.67,2024-06-29,2026-11-07,Jibril; Jibirl
+Katsuragi Kohei,Classroom of the Elite,light,229,33,196,1.00,2024-09-20,2026-11-13,Katsuragi Kohei; Kohei Katsuragi; ~Katsuragi
+Li Qing,The Terrible Eternal Path,web,223,27,196,0.34,2025-07-13,2026-11-08,Li Qing
+Jin Huang,Vile Dominion,web,215,25,190,0.67,2025-10-07,2026-11-06,Jin Huang; ~Huang Jin
+Maomao,The Apothecary Diaries,light,214,37,177,0.47,2024-06-07,2026-11-12,Maomao; Mao Mao
+Mo Yao,Reverend Insanity,web,207,9,198,0.92,2024-07-08,2026-10-17,Mo Yao; Lady Mo Yao
+Tsubaki Sakurako,Classroom of the Elite,light,202,25,177,1.00,2024-07-03,2026-10-16,Tsubaki Sakurako; ~!Tsubaki
+Shiina Hiyori,Classroom of the Elite,light,194,21,173,1.00,2024-08-09,2026-10-28,Shiina Hiyori; Hiyori Shiina; ~!Hiyori
+Leto II Atreides,Dune,novel,192,30,162,0.74,2024-10-03,2026-09-24,Leto II Atreides; Leto II; ~!Leto
+Amon,Lord of the Mysteries,web,177,36,141,1.00,2023-11-13,2026-10-27,~!Amon
+Rimuru Tempest,That Time I Got Reincarnated as a Slime,light,177,11,166,0.50,2024-07-21,2026-10-24,Rimuru Tempest; Rimuru
+Echidna,Re:Zero,light,176,28,148,0.69,2024-08-09,2026-11-12,Echidna
+Ishigami Tetsuya,The Devotion of Suspect X (Detective Galileo),novel,175,76,99,0.22,2024-08-20,2026-10-22,Ishigami Tetsuya; Tetsuya Ishigami
+Pun Yunchuan,The Demon World I Designed,web,174,42,132,0.40,2026-05-03,2026-11-08,Pun Yunchuan; Yunchuan; Pu Yunchuan; Pun Yuchuan; Pun Yuanchan; Pun Yunshuan
+Lin Xuan,18 Levels of Hell: Lying Is Forbidden Here,web,173,33,140,0.92,2026-01-13,2026-11-12,Lin Xuan; Lin Xiuan
+Tian Yi,Sinmonger,web,172,31,141,0.45,2026-03-27,2026-11-08,Tian Yi; Tianyi
+Kiriyama Ikuto,Classroom of the Elite,light,171,11,160,1.00,2024-10-27,2026-11-12,Kiriyama Ikuto; ~!Kiriyama
+Lin Ou,18 Levels of Hell: Lying Is Forbidden Here,web,169,27,142,0.91,2026-01-31,2026-11-08,Lin Ou
+Hashimoto Masayoshi,Classroom of the Elite,light,164,20,144,1.00,2024-09-21,2026-11-12,Hashimoto Masayoshi; ~Hashimoto
+Anasurimbor Kellhus,The Second Apocalypse (The Prince of Nothing),novel,162,21,141,0.28,2025-01-30,2026-11-07,Anasurimbor Kellhus; Kellhus; Anasurimbur Kellhus
+Giant Sun Immortal Venerable,Reverend Insanity,web,157,14,143,0.97,2024-06-08,2026-11-02,Giant Sun Immortal Venerable; ~Giant Sun
+Colonel Timo,Solo Max-Level Newbie,web,152,23,129,0.62,2025-04-06,2026-11-07,Colonel Timo; Captain Timo; Colonel Teemo; Colonel Temu; !Timo; ~!Teemo
+Lynch,Blackstone Code,web,151,16,135,0.87,2024-07-03,2026-11-09,~!Lynch; Lin Qi; Lin Qie
+Edmond Dantes,The Count of Monte Cristo,novel,150,43,107,0.21,2024-07-03,2026-11-08,Edmond Dantes; Count of Monte Cristo
+Hikigaya Hachiman,My Teen Romantic Comedy SNAFU (Oregairu),light,147,30,117,0.20,2024-07-03,2026-10-26,Hikigaya Hachiman; Hachiman Hikigaya; Hachiman; ~!Hikigaya
+Mu Zixuan,Court of the Sword-Treading,web,139,22,117,0.37,2026-07-04,2026-11-10,Mu Zixuan; Mu Zhixuan; Zixuan
+Adam,Lord of the Mysteries,web,134,17,117,1.00,2023-11-13,2026-10-18,~!Adam
+Lu Chen,Nine Bestowments,web,133,22,111,0.40,2026-05-28,2026-11-10,Lu Chen
+Mycroft Holmes,Sherlock Holmes (Arthur Conan Doyle),novel,129,19,110,0.31,2024-06-25,2026-11-10,Mycroft Holmes; Mycroft
+Tarantulian Demon,,undiscovered,126,21,105,,2025-11-25,2026-11-09,Tarantulian Demon; Tarantula Demon
+Sauron,The Lord of the Rings,novel,124,25,99,0.44,2024-07-10,2026-11-02,Sauron
+Yue Guanshan,18 Levels of Hell: Lying Is Forbidden Here,web,124,26,98,0.99,2026-02-16,2026-11-09,Yue Guanshan; Guanshan
+Chabashira Sae,Classroom of the Elite,light,120,20,100,0.94,2024-09-24,2026-10-31,Chabashira Sae; Chabashira
+C. Auguste Dupin,C. Auguste Dupin stories (Edgar Allan Poe),novel,118,15,103,0.19,2024-07-22,2026-10-29,Auguste Dupin; !Dupin
+Xue Yin,The Endless Food Chain,community,115,27,88,0.47,2026-04-15,2026-11-06,Xue Yin
+Miss Marple,Agatha Christie novels,novel,111,33,78,0.63,2024-01-27,2026-11-08,Miss Marple; Marple
+Yukawa Manabu,The Devotion of Suspect X (Detective Galileo),novel,111,25,86,0.37,2025-01-15,2026-11-12,Yukawa Manabu; Manabu Yukawa; Yukawa
+Kanzaki Ryuji,Classroom of the Elite,light,110,25,85,0.99,2024-06-01,2026-10-31,Kanzaki Ryuji; Ryuji Kanzaki; ~!Kanzaki
+Mo Tan,Quadruple Split,web,108,19,89,0.43,2026-06-19,2026-11-09,Mo Tan
+Artemis Fowl,Artemis Fowl,novel,107,10,97,1.00,2024-12-29,2026-10-18,Artemis Fowl
+Dr. John Watson,Sherlock Holmes (Arthur Conan Doyle),novel,107,23,84,0.96,2024-09-03,2026-10-08,John Watson; Dr Watson; ~!Watson
+Albus Dumbledore,Harry Potter,novel,106,8,98,0.36,2025-03-22,2026-11-04,Albus Dumbledore; Dumbledore
+Pennywise,It (Stephen King),novel,103,22,81,0.53,2025-03-20,2026-10-31,Pennywise
+Tet,No Game No Life,light,102,11,91,1.00,2024-07-08,2026-11-08,~!Tet
+Wang Lu,Once Upon a Spirit Blade Mountain,web,102,11,91,0.20,2024-07-04,2026-10-30,Wang Lu
+Gu Yue Fang Zheng,Reverend Insanity,web,95,13,82,0.71,2024-11-18,2026-10-28,Gu Yue Fang Zheng; Fang Zheng
+Raul Evans,The Strongest Hero Who Craves Revenge (Fukushuu wo Koinegau Saikyou Yuusha),light,95,23,72,0.14,2024-01-20,2026-10-01,Raul Evans
+Yog-Sothoth,Cthulhu Mythos (H. P. Lovecraft),novel,95,10,85,0.35,2023-11-18,2026-10-01,Yog-Sothoth; Yog Sothoth
+Marion Wheeler,SCP Foundation,web,93,28,65,0.49,2025-03-16,2026-11-12,Marion Wheeler
+Kim Dokja,Omniscient Reader's Viewpoint,web,92,7,85,0.16,2025-02-11,2026-09-24,Kim Dokja; Dokja
+Murphy Lawden,SCP Foundation,web,91,27,64,0.45,2024-06-17,2026-11-06,Murphy Lawden
+Sung Jinwoo,Solo Leveling,web,90,6,84,0.16,2024-09-18,2026-11-06,Sung Jinwoo; Sung Jin Woo; Jinwoo; Jin Woo
+Anos Voldigoad,The Misfit of Demon King Academy,light,88,10,78,0.41,2024-07-03,2026-11-06,Anos Voldigoad; !Anos
+Arsène Lupin,Arsène Lupin novels,novel,88,23,65,0.03,2024-02-12,2026-10-30,Arsene Lupin
+Ren Zu,Reverend Insanity,web,88,3,85,0.81,2024-07-17,2026-11-12,Ren Zu
+Artosh,No Game No Life,light,87,4,83,0.84,2025-01-06,2026-11-08,Artosh
+Yukimura Teruhiko,Classroom of the Elite,light,86,24,62,1.00,2024-11-12,2026-10-27,Yukimura Teruhiko; ~Yukimura
+Lang Ya Land Spirit,Reverend Insanity,web,85,8,77,0.98,2024-01-06,2026-10-30,Lang Ya Land Spirit; Lang Ya
+Utomiya Riku,Classroom of the Elite,light,84,13,71,0.99,2024-11-27,2026-10-02,Utomiya Riku; Riku Utomiya; Utomiya
+Duke Long,Reverend Insanity,web,83,4,79,0.93,2024-01-20,2026-10-30,Duke Long
+Lee Kiyoung,Regressor Instruction Manual,web,81,16,65,0.35,2024-07-03,2026-11-11,Lee Kiyoung; Kiyoung
+Wiktor Forst,Forst series (Remigiusz Mróz),novel,81,41,40,0.26,2026-01-28,2026-11-06,Wiktor Forst
+Chen Qing,The Demon World I Designed,web,79,10,69,0.58,2026-02-19,2026-10-27,Chen Qing
+Kijima,Classroom of the Elite,light,78,6,72,1.00,2025-06-17,2026-11-12,~!Kijima
+Sunless,Shadow Slave,web,76,10,66,0.72,2025-05-14,2026-10-22,Sunless; ~!Sunny
+James Talloran,SCP Foundation,web,75,8,67,0.28,2025-03-16,2026-09-10,James Talloran; Talloran
+Ning Yu,The Cicada's Song Accompanies Yangxi,web,75,3,72,0.24,2026-09-09,2026-11-07,Ning Yu
+Kiryuin Fuka,Classroom of the Elite,light,74,11,63,0.92,2024-11-12,2026-11-04,Kiryuin Fuka; Kiryuin
+Xuan Luo,Endless Wonders,community,74,9,65,0.39,2026-07-23,2026-11-09,Xuan Luo; Xuan Lou
+Father Brown,Father Brown stories,novel,72,14,58,0.04,2025-03-23,2026-10-07,Father Brown
+Schwi Dola,No Game No Life,light,72,10,62,0.90,2024-07-08,2026-11-08,Schwi Dola; Schwi
+Havelock Vetinari,Discworld,novel,71,8,63,0.42,2025-05-14,2026-09-27,Havelock Vetinari; Vetinari
+Charles Augustus Milverton,Sherlock Holmes (Arthur Conan Doyle),novel,70,12,58,0.39,2024-12-11,2026-10-25,Charles Augustus Milverton; Milverton
+Clarice Starling,Hannibal Lecter novels (Thomas Harris),novel,68,18,50,0.91,2024-06-05,2026-11-10,Clarice Starling; ~!Clarice
+Gu Chensha,Dragon Talisman,web,67,8,59,0.30,2025-12-28,2026-11-07,Gu Chensha; Gu Chinsha
+Jiang Zhe,The Grandmaster Strategist,web,67,17,50,0.40,2024-10-03,2026-11-02,Jiang Zhe; Suiyin
+Azathoth,Cthulhu Mythos (H. P. Lovecraft),novel,65,4,61,0.49,2024-04-30,2026-11-06,Azathoth
+Wang Wei,,undiscovered,65,8,57,,2024-07-04,2026-11-07,Wang Wei
+Demiurge,Overlord,light,64,6,58,0.72,2024-08-09,2026-05-14,Demiurge
+Holou,No Game No Life,light,61,10,51,0.72,2024-08-02,2026-09-25,Holou
+Tutorial Youth,18 Levels of Hell: Lying Is Forbidden Here,web,60,29,31,0.83,2026-02-14,2026-11-03,Tutorial Youth
+Bai Xiuchi,18 Levels of Hell: Lying Is Forbidden Here,web,59,7,52,0.95,2025-12-21,2026-11-03,Bai Xiuchi; Bai Xuichi
+Jia Jin Sheng,Reverend Insanity,web,58,12,46,0.90,2024-11-29,2026-10-13,Jia Jin Sheng
+Tyrion Lannister,A Song of Ice and Fire,novel,57,9,48,0.65,2024-12-05,2026-10-20,Tyrion Lannister; Tyrion
+Devil Advisor,,undiscovered,56,15,41,,2026-03-17,2026-10-24,Devil Advisor
+Wu Yong,Reverend Insanity,web,56,4,52,1.00,2024-06-08,2026-10-19,~Wu Yong
+Nyarlathotep,Cthulhu Mythos (H. P. Lovecraft),novel,55,23,32,0.45,2024-06-17,2026-11-06,Nyarlathotep
+Professor Moriarty,Sherlock Holmes (Arthur Conan Doyle),novel,54,16,38,0.37,2024-11-21,2026-10-08,Professor Moriarty; Novel Moriarty; Professor James Moriarty
+Reinhard von Lohengramm,Legend of the Galactic Heroes,novel,53,18,35,0.66,2024-12-19,2026-11-06,Reinhard von Lohengramm; Lohengramm; ~!Reinhard
+Paradise Earth Immortal Venerable,Reverend Insanity,web,52,6,46,0.85,2024-12-03,2026-11-02,Paradise Earth Immortal Venerable; Paradise Earth
+The Founder,,undiscovered,52,7,45,,2025-10-13,2026-09-11,!The Founder
+Vereiya,,undiscovered,52,9,43,,2025-11-21,2026-11-09,Vereiya
+Long Hui,18 Levels of Hell: Lying Is Forbidden Here,web,51,10,41,1.00,2026-01-11,2026-11-05,Long Hui
+Thieving Heaven Demon Venerable,Reverend Insanity,web,51,3,48,0.84,2025-02-13,2026-10-30,Thieving Heaven Demon Venerable; Thieving Heaven
+Petyr Baelish (Littlefinger),A Song of Ice and Fire,novel,50,11,39,0.58,2024-11-15,2026-10-20,Petyr Baelish; Littlefinger
+Tachibana Akane,Classroom of the Elite,light,50,6,44,1.00,2024-12-02,2026-10-31,Tachibana Akane; ~!Tachibana
+Aloysius Pendergast,Pendergast novels,novel,49,5,44,0.12,2025-07-31,2026-11-04,Aloysius Pendergast; Pendergast
+Genesis Lotus Immortal Venerable,Reverend Insanity,web,49,5,44,0.88,2025-03-08,2026-11-02,Genesis Lotus Immortal Venerable; Genesis Lotus
+Geng Hao,18 Levels of Hell: Lying Is Forbidden Here,web,49,14,35,1.00,2025-12-22,2026-10-21,Geng Hao
+Tyler Durden,Fight Club,novel,49,18,31,0.31,2024-12-19,2026-10-15,Tyler Durden
+Baili Qiangsheng,18 Levels of Hell: Lying Is Forbidden Here,web,48,20,28,0.96,2025-12-23,2026-11-07,Baili Qiangsheng; ~!Baili
+Duo Jie,18 Levels of Hell: Lying Is Forbidden Here,web,48,12,36,1.00,2026-01-11,2026-11-05,Duo Jie; Dou Jie
+Heiti Taizheng,,undiscovered,48,9,39,,2025-08-14,2026-07-11,Heiti Taizheng
+Patrick Bateman,American Psycho,novel,48,14,34,0.10,2023-11-20,2026-11-12,Patrick Bateman
+Totsuka Yahiko,Classroom of the Elite,light,48,10,38,1.00,2024-12-06,2026-09-12,Totsuka Yahiko; ~!Yahiko
+Matsushita Chiaki,Classroom of the Elite,light,47,5,42,1.00,2024-12-28,2026-11-04,Matsushita Chiaki; ~Matsushita
+Wu Shuai,Reverend Insanity,web,47,0,47,0.98,2025-01-20,2026-09-08,Wu Shuai
+Ishikura,Classroom of the Elite,light,46,2,44,1.00,2025-01-23,2026-11-06,~!Ishikura
+Long Chian,,undiscovered,46,10,36,,2025-10-02,2026-08-07,Long Chian; Long Chain
+Reckless Savage Demon Venerable,Reverend Insanity,web,45,4,41,0.78,2024-10-12,2026-11-01,Reckless Savage Demon Venerable; Reckless Savage
+Limitless Demon Venerable,Reverend Insanity,web,44,8,36,0.61,2024-05-08,2026-11-12,Limitless Demon Venerable; ~Limitless Demon
+Ainz Ooal Gown,Overlord,light,43,1,42,0.86,2024-12-11,2026-05-02,Ainz Ooal Gown; !Ainz; Momonga; ~!Momon
+Anton Chigurh,No Country for Old Men,novel,43,17,26,0.42,2024-07-26,2026-09-03,Anton Chigurh; Chigurh
+Frederick Chilton,Hannibal Lecter novels (Thomas Harris),novel,43,12,31,0.98,2025-01-19,2026-11-09,Frederick Chilton; ~!Chilton
+Irene Adler,Sherlock Holmes (Arthur Conan Doyle),novel,43,10,33,0.56,2024-09-03,2026-10-03,Irene Adler
+World Honoured One,Being a Talent in Chusheng Demon Sect,web,42,14,28,0.95,2025-11-21,2026-10-14,World Honoured One; World Honored One; World Honoured; World Honored
+Cthulhu,Cthulhu Mythos (H. P. Lovecraft),novel,41,7,34,0.37,2024-12-30,2026-11-12,Cthulhu
+Diwu Zeyi,18 Levels of Hell: Lying Is Forbidden Here,web,41,8,33,0.90,2025-11-21,2026-10-11,Diwu Zeyi; Di Wu Ze Yi; Wu Zeyi
+Dong Fang Chang Fan,Reverend Insanity,web,41,4,37,0.76,2024-12-28,2026-10-31,Dong Fang Chang Fan; Dong Fang Chang
+Fairy Zi Wei,Reverend Insanity,web,41,5,36,0.85,2024-06-08,2026-10-31,Fairy Zi Wei; Zi Wei; Zi Wei Fairy
+Ishizaki Daichi,Classroom of the Elite,light,41,9,32,1.00,2024-11-25,2026-10-29,Ishizaki Daichi; ~Ishizaki
+Li Hailong,18 Levels of Hell: Lying Is Forbidden Here,web,41,10,31,0.95,2026-06-29,2026-11-09,Li Hailong
+Tywin Lannister,A Song of Ice and Fire,novel,41,6,35,0.66,2025-04-14,2026-10-20,Tywin Lannister; Tywin
+Primordial Origin Immortal Venerable,Reverend Insanity,web,40,7,33,0.93,2024-01-20,2026-11-04,Primordial Origin Immortal Venerable; Primordial Origin
+Tie Ruo Nan,Reverend Insanity,web,40,9,31,0.85,2024-06-08,2026-10-19,Tie Ruo Nan
+Voldemort,Harry Potter,novel,40,12,28,0.72,2025-04-16,2026-11-04,Voldemort
+Cheng Si,18 Levels of Hell: Lying Is Forbidden Here,web,39,15,24,0.95,2025-12-24,2026-11-03,Cheng Si; ~Zhang Yuan
+Hei Lou Lan,Reverend Insanity,web,39,5,34,0.92,2024-10-20,2026-10-06,Hei Lou Lan; Hei Luo Lan; Hei Loulan
+Li Zhitong,18 Levels of Hell: Lying Is Forbidden Here,web,39,14,25,0.97,2025-12-23,2026-10-29,Li Zhitong
+Shadowthrone,Malazan Book of the Fallen,novel,39,0,39,0.69,2025-08-28,2026-10-26,Shadowthrone
+Shang Xin Ci,Reverend Insanity,web,39,2,37,0.90,2025-01-09,2026-08-31,Shang Xin Ci; Shang Xi Ci; ~Xin Ci
+Suou Yuki,Roshidere,light,39,17,22,0.69,2024-08-31,2026-09-14,Suou Yuki; Yuki Suou; ~!Suou
+Yang Wen-li,Legend of the Galactic Heroes,novel,39,9,30,0.49,2024-07-03,2026-10-15,Yang Wen-li; Yang Wenli
+Bai Zhe,,undiscovered,38,3,35,,2025-08-18,2026-10-27,Bai Zhe
+Han Fei,18 Levels of Hell: Lying Is Forbidden Here,web,38,11,27,1.00,2026-03-01,2026-11-03,~Han Fei
+Mindis the Third,Kingdom's Bloodline,web,38,1,37,0.79,2025-09-10,2026-09-11,Mindis the Third; Mindis
+Hua Changsheng,18 Levels of Hell: Lying Is Forbidden Here,web,37,14,23,0.97,2026-02-23,2026-11-03,Hua Changsheng
+Morishita Ai,Classroom of the Elite,light,37,3,34,0.97,2024-12-08,2026-09-02,Morishita Ai; ~!Morishita
+Audrey Hall,Lord of the Mysteries,web,36,9,27,1.00,2024-06-08,2026-10-19,Audrey Hall; ~!Audrey
+Feng Jiu Ge,Reverend Insanity,web,36,6,30,0.92,2024-06-08,2026-11-06,Feng Jiu Ge; Feng Jiuge
+Imoriya Mato,Jirai Glico,novel,36,3,33,0.50,2026-04-18,2026-11-08,Imoriya Mato; Mato Imoriya; Imoriya
+Emiya Kiritsugu,Fate/Zero,light,35,7,28,0.49,2025-01-19,2026-08-06,Emiya Kiritsugu; Kiritsugu Emiya; Kiritsugu
+Francis Dolarhyde,Hannibal Lecter novels (Thomas Harris),novel,35,10,25,0.74,2024-07-10,2026-11-08,Francis Dolarhyde; Dolarhyde
+Emilia,Re:Zero,light,34,8,26,1.00,2024-12-21,2026-11-07,~!Emilia
+Feng Qirui,18 Levels of Hell: Lying Is Forbidden Here,web,34,7,27,1.00,2026-02-17,2026-11-06,Feng Qirui
+Ishigami Kyo,Classroom of the Elite,light,34,7,27,0.79,2024-10-22,2026-11-12,Ishigami Kyo; Kyo Ishigami
+Roswaal,Re:Zero,light,34,8,26,0.94,2025-05-25,2026-11-01,Roswaal
+Rudeus Greyrat,Mushoku Tensei,light,34,1,33,0.26,2024-12-15,2026-10-25,Rudeus Greyrat; Rudeus
+Feng Bujue,Thriller Paradise,web,33,4,29,0.30,2025-05-14,2026-09-27,Feng Bujue; Feng Bijue
+Jack Reacher,Jack Reacher novels,novel,33,10,23,0.09,2024-07-09,2026-03-17,Jack Reacher
+Kamuro Masumi,Classroom of the Elite,light,33,4,29,1.00,2024-12-25,2026-10-24,Kamuro Masumi; Kamuro
+Ma Hong Yun,Reverend Insanity,web,32,1,31,0.81,2025-02-13,2026-10-31,Ma Hong Yun; Ma Hongyun; ~Hong Yun
+Satoshi,Kei and Satoshi,community,32,10,22,1.00,2026-02-23,2026-09-20,~!Satoshi
+Qin Cheng,God's Imitator,web,30,4,26,0.97,2026-08-05,2026-10-28,Qin Cheng
+Alia Atreides,Dune,novel,29,6,23,1.00,2024-12-07,2025-06-04,Alia Atreides; ~!Alia
+Jack Crawford,Hannibal Lecter novels (Thomas Harris),novel,29,5,24,0.79,2025-01-22,2026-11-06,Jack Crawford
+Jia Fu,Reverend Insanity,web,29,5,24,1.00,2025-04-14,2026-09-29,Jia Fu
+Stephanie Dola,No Game No Life,light,29,7,22,0.90,2024-06-29,2026-10-24,Stephanie Dola; ~!Steph; ~!Stephanie
+Ying Siliang,18 Levels of Hell: Lying Is Forbidden Here,web,29,6,23,0.97,2026-03-01,2026-11-04,Ying Siliang; Yang Siliang
+An Sheng,18 Levels of Hell: Lying Is Forbidden Here,web,28,5,23,1.00,2026-02-26,2026-11-04,~An Sheng
+Zi Chen,,undiscovered,28,1,27,,2026-05-28,2026-08-04,Zi Chen
+Crusch Karsten,Re:Zero,light,27,9,18,1.00,2025-05-01,2026-10-26,Crusch Karsten; Crusch
+Li Guang,The Endless Food Chain,community,27,8,19,1.00,2026-06-12,2026-10-22,~Li Guang
+Mashima Tomonari,Classroom of the Elite,light,27,5,22,1.00,2024-12-18,2026-10-31,Mashima Tomonari; ~Mashima
+Ro Zha,,undiscovered,27,3,24,,2026-07-10,2026-11-09,Ro Zha
+Shinohara Satsuki,Classroom of the Elite,light,27,7,20,1.00,2025-01-05,2026-11-05,Shinohara Satsuki; ~!Shinohara
+Wang Lin,Renegade Immortal,web,27,3,24,0.19,2025-06-13,2026-10-20,Wang Lin
+Qi Sea Ancestor,Reverend Insanity,web,26,0,26,1.00,2025-01-04,2026-09-23,Qi Sea Ancestor
+Shen Cui,Reverend Insanity,web,26,4,22,0.69,2024-12-06,2026-09-22,Shen Cui
+Shiba Tatsuya,The Irregular at Magic High School,light,26,8,18,0.19,2024-02-04,2026-09-03,Shiba Tatsuya; Tatsuya Shiba
+Wang Da,Reverend Insanity,web,26,1,25,1.00,2025-01-29,2026-09-29,~Wang Da
+Kei,Kei and Satoshi,community,25,10,15,1.00,2026-02-23,2026-09-20,~!Kei
+Tai Bai Yun Sheng,Reverend Insanity,web,25,2,23,0.96,2024-12-30,2026-09-15,Tai Bai Yun Sheng; Tai Bai
+Big Gold Tooth,18 Levels of Hell: Lying Is Forbidden Here,web,24,9,15,1.00,2026-01-31,2026-11-03,Big Gold Tooth
+Emir-Eins,No Game No Life,light,24,4,20,0.62,2025-01-24,2026-09-25,Emir-Eins; Emir Eins
+Evernight Goddess,Lord of the Mysteries,web,24,0,24,0.96,2024-06-08,2026-10-12,Evernight Goddess; ~Evernight
+Iwo Eliasz,Forst series (Remigiusz Mróz),novel,24,14,10,0.62,2026-06-21,2026-11-06,Iwo Eliasz
+Alger Wilson,Lord of the Mysteries,web,23,7,16,1.00,2024-06-08,2026-10-19,Alger Wilson; ~!Alger
+Alya,Roshidere,light,23,5,18,1.00,2024-10-13,2026-10-01,~!Alya
+Chou Jiu,Reverend Insanity,web,23,3,20,1.00,2025-04-11,2026-08-29,Chou Jiu; Chou Ji
+Varys,A Song of Ice and Fire,novel,23,2,21,1.00,2025-02-15,2026-10-20,~!Varys
+Chen Xiao,Waking Up to Find Myself Burdened with 40 Murders,web,22,7,15,0.32,2025-12-17,2026-05-18,Chen Xiao
+Jun Daoist,Being a Talent in Chusheng Demon Sect,web,22,5,17,0.55,2026-04-17,2026-10-30,Jun Daoist
+Shin Woo Jin,The Genius Who Reads Through the World,web,22,4,18,0.59,2025-07-31,2026-08-03,Shin Woo Jin; Shin Woojin
+Ba Gui,Reverend Insanity,web,21,0,21,1.00,2025-05-30,2026-06-19,Ba Gui
+Bai Ding Zhe,,undiscovered,21,2,19,,2025-10-08,2026-06-28,Bai Ding Zhe
+Comet King,Unsong,web,21,5,16,0.57,2025-12-09,2026-10-18,Comet King
+Gu Qingshan,World's Apocalypse Online,web,21,2,19,0.19,2025-09-28,2026-11-09,Gu Qingshan; Gu Qing Shan
+Ian Dunross,Noble House,novel,21,3,18,0.19,2025-06-28,2026-08-03,Ian Dunross
+Xiao Mang,Reverend Insanity,web,21,2,19,1.00,2025-04-11,2026-04-21,Xiao Mang
+Jircniv,Overlord,light,20,0,20,1.00,2026-04-07,2026-05-02,Jircniv
+Lin Jiabei,18 Levels of Hell: Lying Is Forbidden Here,web,20,7,13,1.00,2026-02-14,2026-10-28,Lin Jiabei
+Suzukake,Classroom of the Elite,light,20,2,18,1.00,2025-06-26,2026-07-18,~!Suzukake
+Zha Hiangtan,,undiscovered,20,5,15,,2025-10-24,2026-11-09,Zha Hiangtan; Zha Hiangton
+Asahina Nazuna,Classroom of the Elite,light,19,7,12,1.00,2024-12-03,2026-11-10,Asahina Nazuna; ~!Asahina
+Li Yao,Forty Millenniums of Cultivation,web,19,1,18,0.32,2025-02-05,2026-09-07,Li Yao
+Lumian Lee,Lord of the Mysteries,web,19,2,17,0.89,2024-06-08,2026-10-03,Lumian Lee; Lumian
+Qiu Hua,18 Levels of Hell: Lying Is Forbidden Here,web,19,4,15,1.00,2026-03-24,2026-10-29,Qiu Hua
+Renner,Overlord,light,19,2,17,1.00,2024-07-03,2026-10-26,~!Renner; Princess Renner
+Sakura Airi,Classroom of the Elite,light,19,8,11,0.89,2024-08-17,2026-10-23,Sakura Airi; Airi Sakura
+Shiraishi,Classroom of the Elite,light,19,1,18,1.00,2025-08-15,2026-07-15,~!Shiraishi
+Wang Xueyao,Vile Dominion,web,19,4,15,0.95,2025-10-05,2026-11-05,Wang Xueyao; Xueyao
+Baron Harkonnen,Dune,novel,18,4,14,1.00,2024-12-07,2025-05-12,Baron Harkonnen; ~Harkonnen
+Kotomine Kirei,Fate/Zero,light,18,8,10,0.61,2025-03-07,2026-10-12,Kotomine Kirei; Kirei Kotomine; ~!Kotomine
+Lin Xiuyuan,18 Levels of Hell: Lying Is Forbidden Here,web,18,7,11,0.94,2026-01-27,2026-10-01,Lin Xiuyuan
+Ling Chi,18 Levels of Hell: Lying Is Forbidden Here,web,18,3,15,1.00,2026-04-12,2026-10-30,Ling Chi
+Player Unknown,Solo Max-Level Newbie,web,18,2,16,1.00,2025-04-06,2026-11-08,Player Unknown
+Regulus Corneas,Re:Zero,light,18,2,16,0.94,2025-01-12,2026-09-07,Regulus Corneas; ~!Regulus
+Zhang Fan,18 Levels of Hell: Lying Is Forbidden Here,web,18,5,13,1.00,2026-04-12,2026-10-30,Zhang Fan
+Charles Morris,The Blind Observer,community,17,11,6,0.65,2026-06-02,2026-11-03,Charles Morris
+Chlammy Zell,No Game No Life,light,17,6,11,1.00,2025-05-13,2026-10-02,Chlammy Zell; Chlammy
+Miyamae Nonoa,Roshidere,light,17,4,13,0.88,2024-10-13,2026-10-11,Miyamae Nonoa; Nonoa Miyamae; ~!Nonoa
+Ning Zhuo,Mysteries of Immortal Puppet Master,web,17,2,15,0.24,2025-01-14,2026-09-21,Ning Zhuo
+Wang Yongxin,God's Imitator,web,17,3,14,0.82,2026-03-16,2026-11-06,Wang Yongxin; Yongxin
+Yamamura Miki,Classroom of the Elite,light,17,1,16,0.94,2024-12-25,2026-07-31,Yamamura Miki; ~!Yamamura
+Anastasia Hoshin,Re:Zero,light,16,10,6,1.00,2025-05-01,2026-10-25,Anastasia Hoshin; ~!Anastasia
+Erast Fandorin,Erast Fandorin novels,novel,16,1,15,0.00,2025-03-15,2026-08-03,Erast Fandorin; Fandorin
+Gu Yue Bo,Reverend Insanity,web,16,6,10,1.00,2024-12-30,2026-09-17,Gu Yue Bo
+Shao Pingbo,Heavenly Genius,web,16,3,13,0.94,2026-04-29,2026-10-21,Shao Pingbo; Pingbo
+Sou Loang,,undiscovered,16,4,12,,2025-10-26,2026-11-09,Sou Loang
+Tao Zhu,Reverend Insanity,web,16,0,16,1.00,2025-11-01,2026-10-23,Tao Zhu
+Cid Kagenou,The Eminence in Shadow,light,15,2,13,0.33,2025-01-25,2026-10-22,Cid Kagenou
+Elemental Emperor,Vile Dominion,web,15,3,12,1.00,2025-10-27,2026-11-05,Elemental Emperor
+Emlyn White,Lord of the Mysteries,web,15,4,11,1.00,2025-08-05,2025-11-24,Emlyn White; Emlyn
+Feng Jin Huang,Reverend Insanity,web,15,1,14,0.80,2025-01-29,2026-09-25,Feng Jin Huang
+He Fan,Vile Dominion,web,15,3,12,1.00,2025-10-27,2026-11-05,~He Fan
+Iwanaga Kotoko,Kyokou Suiri (In/Spectre),novel,15,3,12,0.13,2024-07-10,2026-10-25,Iwanaga Kotoko; Kotoko Iwanaga; Kotoko
+Ji Changchen,Vile Dominion,web,15,2,13,0.80,2025-10-25,2026-10-25,Ji Changchen; Changchen
+Thales Jadestar,Kingdom's Bloodline,web,15,4,11,1.00,2025-06-19,2026-10-05,Thales Jadestar; ~!Thales
+Timeless Demon God,Vile Dominion,web,15,4,11,0.93,2025-10-25,2026-11-06,Timeless Demon God
+Ying Wu Xie,Reverend Insanity,web,15,3,12,0.93,2025-06-04,2026-10-31,Ying Wu Xie
+Cattleya,Lord of the Mysteries,web,14,3,11,0.93,2024-06-08,2025-11-24,Cattleya
+Chen Ge,My House of Horrors,web,14,3,11,0.43,2025-01-12,2026-07-19,Chen Ge
+Francis Crawford of Lymond,The Lymond Chronicles,novel,14,3,11,0.57,2025-08-25,2026-09-22,Francis Crawford of Lymond; Lymond
+Gao Lan,18 Levels of Hell: Lying Is Forbidden Here,web,14,8,6,0.64,2025-11-29,2026-11-04,Gao Lan
+Gu Shiyan,,undiscovered,14,1,13,,2026-07-15,2026-11-09,Gu Shiyan
+Nephis,Shadow Slave,web,14,3,11,0.86,2025-08-09,2026-10-22,Nephis; Changing Star
+Ocrevius,,undiscovered,14,4,10,,2025-10-26,2026-09-11,Ocrevius
+Chen Jie,,undiscovered,13,5,8,,2026-06-07,2026-09-09,Chen Jie
+Chu Yinian,18 Levels of Hell: Lying Is Forbidden Here,web,13,2,11,1.00,2026-08-14,2026-11-01,Chu Yinian
+Cui Yu,18 Levels of Hell: Lying Is Forbidden Here,web,13,4,9,1.00,2026-06-06,2026-11-08,Cui Yu
+Fang Di Chang,Reverend Insanity,web,13,2,11,1.00,2024-08-16,2026-10-30,Fang Di Chang
+Gu Yue Mo Chen,Reverend Insanity,web,13,4,9,1.00,2025-06-06,2026-09-17,Gu Yue Mo Chen; Mo Chen
+Gu Yue Mo Yan,Reverend Insanity,web,13,3,10,1.00,2025-07-27,2026-09-29,Gu Yue Mo Yan; Mo Yan
+Irisu Fuyumi,Hyouka,light,13,1,12,0.69,2025-03-25,2026-02-25,Irisu Fuyumi; Fuyumi Irisu; ~!Irisu
+Petelgeuse Romanee-Conti,Re:Zero,light,13,0,13,0.92,2024-12-21,2026-09-12,Petelgeuse Romanee-Conti; Petelgeuse; ~Betelgeuse
+Philo Vance,Philo Vance novels,novel,13,1,12,0.00,2025-08-31,2026-10-23,Philo Vance
+Quick Ben,Malazan Book of the Fallen,novel,13,1,12,0.69,2025-08-14,2026-05-03,Quick Ben; Quickben
+Albedo,Overlord,light,12,1,11,1.00,2024-07-03,2026-05-02,~!Albedo
+Araragi Koyomi,Monogatari,light,12,1,11,0.33,2024-06-27,2026-09-26,Araragi Koyomi; Araragi
+Cao Xiu,18 Levels of Hell: Lying Is Forbidden Here,web,12,7,5,1.00,2026-03-15,2026-11-03,~Cao Xiu
+Gu Changge,I Am the Fated Villain,web,12,5,7,0.42,2024-10-03,2026-10-30,Gu Changge
+Li Renshu,God's Imitator,web,12,3,9,1.00,2026-03-16,2026-11-12,Li Renshu
+Shisui (Loulan),The Apothecary Diaries,light,12,3,9,1.00,2025-07-12,2026-09-27,~!Shisui; ~!Loulan
+Sotomura,Classroom of the Elite,light,12,3,9,1.00,2025-04-25,2026-10-27,~!Sotomura
+Thamiel,Unsong,web,12,1,11,0.58,2025-11-22,2026-10-18,Thamiel
+Tie Xue Leng,Reverend Insanity,web,12,5,7,1.00,2025-07-23,2026-10-05,Tie Xue Leng
+Zhan Bu Du,Reverend Insanity,web,12,0,12,0.92,2025-06-05,2026-08-10,Zhan Bu Du
+Zhuo Yifan,The Steward Demonic Emperor,web,12,2,10,0.08,2026-06-15,2026-09-25,Zhuo Yifan; Zhuo Yi Fan; Zhuo Yi
+Bo Qing,Reverend Insanity,web,11,0,11,0.91,2025-05-19,2026-09-27,Bo Qing
+Chitanda Eru,Hyouka,light,11,3,8,0.91,2024-08-03,2025-09-19,Chitanda Eru; Chitanda
+Dantalian,Dungeon Defense,web,11,6,5,0.64,2025-07-30,2026-09-18,Dantalian
+Fors Wall,Lord of the Mysteries,web,11,3,8,1.00,2025-08-05,2025-11-24,Fors Wall; ~!Fors
+Garfiel,Re:Zero,light,11,6,5,1.00,2025-06-30,2026-08-12,Garfiel
+Izuna Hatsuse,No Game No Life,light,11,5,6,1.00,2025-03-01,2026-09-01,Izuna Hatsuse; ~!Izuna
+Jia Gui,Reverend Insanity,web,11,1,10,1.00,2025-06-08,2026-09-17,Jia Gui
+Jinshi,The Apothecary Diaries,light,11,3,8,1.00,2025-11-14,2026-09-29,~!Jinshi
+Lin Jiabao,18 Levels of Hell: Lying Is Forbidden Here,web,11,6,5,1.00,2025-12-29,2026-11-03,Lin Jiabao
+Miles Teg,Dune,novel,11,2,9,1.00,2025-02-21,2025-04-11,Miles Teg
+Mordret,Shadow Slave,web,11,3,8,0.91,2025-08-26,2026-11-12,Mordret
+Albion,Unsong,web,10,2,8,1.00,2025-12-14,2025-12-24,~!Albion
+Cao Haichuan,God's Imitator,web,10,6,4,1.00,2026-03-16,2026-10-25,Cao Haichuan
+Chang Shan Yin,Reverend Insanity,web,10,1,9,0.80,2025-04-27,2026-03-05,Chang Shan Yin
+Chu Xuan,Terror Infinity,web,10,2,8,0.90,2025-12-26,2026-10-04,Chu Xuan
+Fei Xue,Being a Talent in Chusheng Demon Sect,web,10,4,6,1.00,2025-11-18,2026-06-14,Fei Xue; Feixue
+Gao Chuan,,undiscovered,10,0,10,,2025-02-09,2025-08-28,Gao Chuan
+Kong Xuan,Vile Dominion,web,10,1,9,0.90,2025-11-16,2026-11-05,Kong Xuan
+Kruppe,Malazan Book of the Fallen,novel,10,0,10,0.90,2025-09-21,2026-05-03,Kruppe
+Lin Fan,Vile Dominion,web,10,5,5,1.00,2025-11-22,2026-11-05,~Lin Fan
+Lu Wei Yin,Reverend Insanity,web,10,0,10,1.00,2025-12-20,2026-06-19,Lu Wei Yin
+Naoe,Classroom of the Elite,light,10,2,8,1.00,2024-11-12,2026-07-18,~!Naoe
+Old Man Wang,Reverend Insanity,web,10,1,9,1.00,2025-07-03,2026-08-18,~Old Man Wang
+Todd Fang,Re:Zero,light,10,6,4,0.70,2025-05-01,2026-09-06,Todd Fang
+Wu Yi Hai,Reverend Insanity,web,10,2,8,1.00,2025-05-16,2026-10-18,Wu Yi Hai
+Xie Wuming,,undiscovered,10,2,8,,2026-08-08,2026-10-04,Xie Wuming
+Xin Shuguang,18 Levels of Hell: Lying Is Forbidden Here,web,10,0,10,0.80,2026-02-04,2026-08-04,Xin Shuguang
+Yao Yuan,God's Imitator,web,10,2,8,1.00,2026-08-05,2026-10-13,~Yao Yuan
+Cassie,Shadow Slave,web,9,1,8,1.00,2025-06-08,2026-05-26,~!Cassie
+Command,Blackstone Code,web,9,2,7,1.00,2026-01-14,2026-04-01,~!Command
+Gaen Izuko,Monogatari,light,9,5,4,0.56,2024-12-20,2026-10-15,Gaen Izuko; Izuko Gaen
+Hoshinomiya Chie,Classroom of the Elite,light,9,4,5,1.00,2025-01-26,2026-10-23,Hoshinomiya Chie; Hoshinomiya
+Jiang Shen,,undiscovered,9,1,8,,2025-12-22,2026-05-29,Jiang Shen
+Kessel,Kingdom's Bloodline,web,9,0,9,1.00,2025-09-10,2026-07-02,~!Kessel
+Lin Yu,,undiscovered,9,1,8,,2026-03-08,2026-09-11,Lin Yu
+Ning Qiushui,Blood Gates,web,9,2,7,0.67,2025-11-25,2026-04-28,Ning Qiushui
+Sakagami,Classroom of the Elite,light,9,1,8,1.00,2024-12-18,2026-10-29,~!Sakagami
+Si Jincheng,18 Levels of Hell: Lying Is Forbidden Here,web,9,3,6,1.00,2026-07-29,2026-10-21,Si Jincheng
+Wei Xinjian,God's Imitator,web,9,0,9,1.00,2026-10-25,2026-10-25,Wei Xinjian
+Zhang Meili,18 Levels of Hell: Lying Is Forbidden Here,web,9,2,7,1.00,2026-07-03,2026-10-29,Zhang Meili
+Chen Yifan,18 Levels of Hell: Lying Is Forbidden Here,web,8,2,6,0.88,2025-12-09,2026-05-08,Chen Yifan
+Dao Tianqi,Being a Talent in Chusheng Demon Sect,web,8,3,5,1.00,2026-04-29,2026-10-10,Dao Tianqi
+Derrick Berg,Lord of the Mysteries,web,8,0,8,1.00,2025-07-14,2025-11-24,Derrick Berg; ~!Derrick
+Di Zang Sheng,Reverend Insanity,web,8,0,8,1.00,2025-06-04,2026-01-11,Di Zang Sheng
+Ince Zangwill,Lord of the Mysteries,web,8,1,7,1.00,2025-07-12,2026-10-18,Ince Zangwill; Zangwill
+Inspector Lestrade,Sherlock Holmes (Arthur Conan Doyle),novel,8,5,3,1.00,2025-02-03,2026-05-30,Inspector Lestrade; ~!Lestrade
+Li Xintong,18 Levels of Hell: Lying Is Forbidden Here,web,8,2,6,1.00,2026-02-23,2026-10-04,Li Xintong
+Liu Xing,18 Levels of Hell: Lying Is Forbidden Here,web,8,7,1,1.00,2026-03-05,2026-07-04,~Liu Xing
+Mao Li Qiu,Reverend Insanity,web,8,1,7,0.50,2025-06-04,2026-08-22,Mao Li Qiu
+Mimori Touka,Failure Frame,light,8,2,6,0.50,2025-01-12,2026-09-12,Mimori Touka; Touka Mimori
+Qi Jia,,undiscovered,8,0,8,,2025-11-30,2026-10-21,Qi Jia
+Tea Immortal,Sinmonger,web,8,1,7,1.00,2026-03-28,2026-09-15,~Tea Immortal
+Wei Wuxian,Mo Dao Zu Shi,web,8,0,8,0.38,2026-09-16,2026-10-04,Wei Wuxian; Wei Ying
+Xie Han Mo,Reverend Insanity,web,8,2,6,0.88,2025-01-09,2026-09-24,Xie Han Mo
+Antigonus,Lord of the Mysteries,web,7,1,6,1.00,2025-05-07,2026-10-11,~!Antigonus
+Feng Tian Yu,Reverend Insanity,web,7,2,5,1.00,2025-04-11,2026-04-21,Feng Tian Yu
+Fu Chen,God's Imitator,web,7,3,4,1.00,2026-04-26,2026-09-24,~Fu Chen
+George III,Lord of the Mysteries,web,7,0,7,1.00,2025-10-10,2025-11-14,~George III
+Hasebe Haruka,Classroom of the Elite,light,7,2,5,1.00,2025-07-07,2026-08-05,Hasebe Haruka; ~!Hasebe
+Jin Long,Vile Dominion,web,7,3,4,1.00,2025-11-20,2026-10-25,~Jin Long
+Keyaruga,Redo of Healer,light,7,2,5,0.14,2024-04-13,2026-09-01,Keyaruga
+Medici,Lord of the Mysteries,web,7,0,7,1.00,2024-06-08,2026-07-20,~!Medici
+Mei Changsu,Nirvana in Fire,web,7,0,7,0.43,2025-09-23,2026-11-09,Mei Changsu; Mei Chang Su
+Meng Tianhong,18 Levels of Hell: Lying Is Forbidden Here,web,7,0,7,0.71,2025-12-16,2026-02-07,Meng Tianhong
+Mo Wu Tian,Reverend Insanity,web,7,2,5,1.00,2025-04-11,2026-08-29,Mo Wu Tian
+Qin Bai Sheng,Reverend Insanity,web,7,0,7,1.00,2025-07-27,2026-08-09,Qin Bai Sheng
+Roselle Gustav,Lord of the Mysteries,web,7,1,6,1.00,2025-08-07,2026-10-27,Roselle Gustav; ~Roselle
+Su Ming,Pursuit of the Truth,web,7,0,7,0.14,2025-04-21,2026-03-11,Su Ming
+Wang Ling,The Daily Life of the Immortal King,web,7,0,7,0.14,2025-07-16,2026-09-25,Wang Ling
+Zhang Jinhua,18 Levels of Hell: Lying Is Forbidden Here,web,7,7,0,1.00,2026-06-28,2026-07-04,Zhang Jinhua
+Chapman Lampard,Kingdom's Bloodline,web,6,1,5,0.83,2025-11-10,2026-10-19,Chapman Lampard
+Chu Feng,Martial God Asura,web,6,3,3,0.50,2023-12-11,2025-10-24,Chu Feng
+Chu Yun,18 Levels of Hell: Lying Is Forbidden Here,web,6,3,3,1.00,2026-02-16,2026-11-01,~Chu Yun
+Duan Lou,,undiscovered,6,2,4,,2026-07-10,2026-09-02,Duan Lou
+Han Jue,Top Tier Providence,web,6,1,5,0.50,2025-12-28,2026-08-17,Han Jue
+Kimizuka Kimihiko,The Detective Is Already Dead,light,6,2,4,1.00,2025-01-09,2026-09-17,Kimizuka Kimihiko; Kimihiko
+Li Annan,18 Levels of Hell: Lying Is Forbidden Here,web,6,1,5,1.00,2026-03-29,2026-11-04,Li Annan
+Long Qing Tian,Reverend Insanity,web,6,2,4,1.00,2025-04-11,2026-04-21,Long Qing Tian
+Ma Xiu,18 Levels of Hell: Lying Is Forbidden Here,web,6,2,4,1.00,2026-02-06,2026-06-03,~Ma Xiu
+Mo Bei,Reverend Insanity,web,6,3,3,1.00,2025-05-06,2026-09-13,~Mo Bei
+Mo Xi,18 Levels of Hell: Lying Is Forbidden Here,web,6,4,2,1.00,2025-12-26,2026-11-03,~Mo Xi
+Qin Yao,God's Imitator,web,6,2,4,1.00,2026-04-26,2026-10-26,~Qin Yao
+Sebastian Moran,Sherlock Holmes (Arthur Conan Doyle),novel,6,5,1,0.50,2025-02-10,2026-09-23,Sebastian Moran
+Shang Yan Fei,Reverend Insanity,web,6,0,6,1.00,2025-07-04,2026-05-21,Shang Yan Fei
+Tang Jie,Aspiring to the Immortal Path,web,6,0,6,0.50,2025-02-05,2025-10-20,Tang Jie
+Tehol Beddict,Malazan Book of the Fallen,novel,6,2,4,0.17,2025-07-31,2026-10-15,Tehol Beddict; Tehol
+Uriel,Unsong,web,6,4,2,1.00,2025-06-09,2026-02-16,~!Uriel
+Xu Hao,Reverend Insanity,web,6,1,5,1.00,2026-08-09,2026-10-30,~Xu Hao
+Yang Yuting,God's Imitator,web,6,2,4,0.83,2026-04-26,2026-10-14,Yang Yuting
+Ying Ming,Reverend Insanity,web,6,0,6,1.00,2026-03-19,2026-03-20,~Ying Ming
+Yuan Gang,Heavenly Genius,web,6,0,6,1.00,2026-04-02,2026-08-13,Yuan Gang
+Aldebaran,Re:Zero,light,5,3,2,1.00,2025-09-15,2026-09-07,~!Aldebaran
+Contessa,Worm,web,5,1,4,0.40,2025-04-11,2026-03-26,Contessa
+Ed Rothtaylor,The Extra's Academy Survival Guide,web,5,2,3,0.60,2025-11-14,2026-06-16,Ed Rothtaylor; Rothtaylor
+Gao Sheng,18 Levels of Hell: Lying Is Forbidden Here,web,5,0,5,1.00,2026-05-22,2026-10-30,Gao Sheng
+Gao Wan,Reverend Insanity,web,5,2,3,1.00,2025-07-27,2026-06-21,Gao Wan
+Ge Yao,Reverend Insanity,web,5,2,3,1.00,2025-05-10,2025-11-05,Ge Yao
+Great Dream Immortal Venerable,Reverend Insanity,web,5,2,3,1.00,2025-06-08,2026-09-23,Great Dream Immortal Venerable; ~Great Dream
+Gu Hai,Everlasting Immortal Firmament,web,5,2,3,0.20,2025-08-19,2026-05-17,Gu Hai
+Hans von Zettour,The Saga of Tanya the Evil,light,5,0,5,1.00,2025-10-03,2025-10-04,Hans von Zettour; Zettour
+Heaven Mending Peak Master,Being a Talent in Chusheng Demon Sect,web,5,2,3,1.00,2026-01-19,2026-10-10,Heaven Mending Peak Master
+Jiang Beili,18 Levels of Hell: Lying Is Forbidden Here,web,5,1,4,1.00,2026-08-18,2026-11-01,Jiang Beili
+Kaiki Deishuu,Monogatari,light,5,1,4,1.00,2024-06-27,2026-09-10,~!Kaiki; Kaiki Deishu
+Li Fan,My Longevity Simulation,web,5,1,4,1.00,2024-11-17,2026-10-26,~Li Fan
+Li Qiye,Emperor's Domination,web,5,1,4,0.20,2024-10-12,2025-11-10,Li Qiye
+Ma Wenjie,18 Levels of Hell: Lying Is Forbidden Here,web,5,1,4,1.00,2026-03-29,2026-11-04,Ma Wenjie
+Meng Xian,Vile Dominion,web,5,0,5,1.00,2025-10-08,2026-01-09,Meng Xian
+Nuven,Kingdom's Bloodline,web,5,0,5,1.00,2025-09-09,2026-07-02,Nuven
+Qi Yanqing,18 Levels of Hell: Lying Is Forbidden Here,web,5,2,3,1.00,2026-09-07,2026-11-01,Qi Yanqing
+Shen Shang,Reverend Insanity,web,5,0,5,1.00,2025-11-01,2026-10-03,~Shen Shang
+Si Sui,Being a Talent in Chusheng Demon Sect,web,5,2,3,1.00,2026-04-29,2026-10-10,Si Sui
+Siegfried Kircheis,Legend of the Galactic Heroes,novel,5,1,4,0.80,2025-06-23,2026-06-22,Siegfried Kircheis; Kircheis
+Su Chen,Divine Throne of Primordial Blood,web,5,1,4,1.00,2025-02-05,2026-08-03,~Su Chen
+Tan Mo,,undiscovered,5,0,5,,2026-08-17,2026-11-01,Tan Mo
+Wei Ling Yang,Reverend Insanity,web,5,0,5,1.00,2025-05-10,2025-06-04,Wei Ling Yang
+Wu Shen Tong,Reverend Insanity,web,5,2,3,1.00,2025-04-11,2026-04-21,Wu Shen Tong
+Xue Huai,"Your Excellency, the Prime Minister",web,5,0,5,0.40,2026-08-04,2026-10-23,Xue Huai
+Yan Jun,Reverend Insanity,web,5,2,3,1.00,2025-04-11,2026-04-21,~Yan Jun
+Yan Zhaoge,History's Strongest Senior Brother,web,5,1,4,0.40,2025-06-28,2026-08-03,Yan Zhaoge
+Zaratul,Lord of the Mysteries,web,5,0,5,1.00,2025-03-20,2026-10-27,Zaratul
+Zhang San San,Reverend Insanity,web,5,2,3,1.00,2025-04-11,2026-04-21,Zhang San San
+Aaron Smith-Teller,Unsong,web,4,0,4,0.75,2025-12-26,2026-07-12,Aaron Smith-Teller; Smith-Teller
+Bai Xiaochun,A Will Eternal,web,4,0,4,0.25,2025-10-11,2025-10-16,Bai Xiaochun
+Bai Zhi,Underworld Player,web,4,0,4,1.00,2026-07-15,2026-10-08,~Bai Zhi
+Cale Henituse,Trash of the Count's Family,web,4,0,4,0.00,2024-07-03,2025-12-02,Cale Henituse; Henituse
+Chen Changsheng,,undiscovered,4,0,4,,2026-10-25,2026-10-26,Chen Changsheng
+Chen Nuo,18 Levels of Hell: Lying Is Forbidden Here,web,4,3,1,1.00,2026-03-24,2026-11-03,Chen Nuo
+Fluder Paradyne,Overlord,light,4,0,4,1.00,2026-04-07,2026-04-07,Fluder Paradyne; ~!Fluder
+Gu Wen,Sinmonger,web,4,1,3,1.00,2026-03-27,2026-10-08,~Gu Wen
+Han Sooyoung,Omniscient Reader's Viewpoint,web,4,0,4,0.50,2024-12-17,2026-08-15,Han Sooyoung
+Hanekawa Tsubasa,Monogatari,light,4,2,2,1.00,2025-08-24,2026-04-08,Hanekawa Tsubasa; Hanekawa
+Heiwajima Shizuo,Durarara!!,light,4,2,2,1.00,2025-01-01,2025-10-21,Heiwajima Shizuo; ~!Shizuo
+Ii-chan,Zaregoto,light,4,1,3,0.75,2025-10-09,2026-08-08,Ii-chan
+Ikta Solork,Alderamin on the Sky,light,4,3,1,0.75,2025-05-20,2026-05-12,Ikta Solork
+Kim Gong-ja,SSS-Class Suicide Hunter,web,4,1,3,0.00,2026-02-05,2026-09-24,Kim Gong-ja; Kim Gongja
+Lin Feng,18 Levels of Hell: Lying Is Forbidden Here,web,4,3,1,1.00,2025-12-24,2026-07-08,~Lin Feng
+Lin Qin,Ten Days Ultimatum,web,4,1,3,1.00,2026-09-01,2026-10-01,~Lin Qin
+Opal Koboi,Artemis Fowl,novel,4,1,3,0.50,2025-05-09,2026-10-18,Opal Koboi
+Paul von Oberstein,Legend of the Galactic Heroes,novel,4,1,3,1.00,2025-06-13,2026-06-22,Paul von Oberstein; Oberstein
+Tong Fei,18 Levels of Hell: Lying Is Forbidden Here,web,4,0,4,1.00,2026-05-22,2026-11-03,~Tong Fei
+Wu Ji,Dedicate One's Mind,web,4,0,4,0.25,2026-10-12,2026-10-13,Wu Ji
+Xu Tuo,Reverend Insanity,web,4,1,3,1.00,2026-08-22,2026-10-18,Xu Tuo
+Yu Xing,18 Levels of Hell: Lying Is Forbidden Here,web,4,1,3,1.00,2025-12-17,2026-03-14,~Yu Xing
+Yukinoshita Yukino,My Teen Romantic Comedy SNAFU (Oregairu),light,4,1,3,1.00,2025-01-25,2025-04-16,Yukinoshita Yukino; ~!Yukino
+Zhu Yiting,18 Levels of Hell: Lying Is Forbidden Here,web,4,2,2,1.00,2026-09-07,2026-11-01,Zhu Yiting
+Zi Yue,The Demon World I Designed,web,4,1,3,1.00,2026-05-12,2026-05-13,~Zi Yue
+Ariel,Shadow Slave,web,3,0,3,1.00,2025-04-04,2025-11-11,~!Ariel
+Bai Yu,,undiscovered,3,0,3,,2026-07-29,2026-07-29,Bai Yu
+Coil,Worm,web,3,2,1,1.00,2025-08-15,2025-10-01,Thomas Calvert; ~!Coil
+Empress Xiao,Being a Talent in Chusheng Demon Sect,web,3,2,1,1.00,2026-04-11,2026-05-27,~Empress Xiao
+Ender Wiggin,Ender's Game,novel,3,0,3,0.33,2025-06-25,2025-12-31,Ender Wiggin
+Ike Kanji,Classroom of the Elite,light,3,1,2,1.00,2025-06-19,2026-07-31,Ike Kanji
+Immortal Chen,Vile Dominion,web,3,1,2,1.00,2026-08-30,2026-11-05,~Immortal Chen
+Lan Wangji,Mo Dao Zu Shi,web,3,0,3,1.00,2026-09-16,2026-09-16,Lan Wangji; Lan Zhan
+Li Changshou,My Senior Brother Is Too Steady,web,3,0,3,0.67,2025-10-20,2026-09-07,Li Changshou
+Mo Zigui,18 Levels of Hell: Lying Is Forbidden Here,web,3,2,1,1.00,2026-09-07,2026-11-01,Mo Zigui
+Nie Huaisang,Mo Dao Zu Shi,web,3,0,3,0.33,2025-11-01,2026-09-22,Nie Huaisang
+Ning Que,Ever Night,web,3,2,1,0.67,2026-05-17,2026-06-01,Ning Que
+Qiao Jiajin,Ten Days Ultimatum,web,3,1,2,1.00,2026-03-22,2026-10-01,Qiao Jiajin
+Ren Ying,Vile Dominion,web,3,1,2,1.00,2025-12-27,2026-02-14,~Ren Ying
+Secretive Plotter,Omniscient Reader's Viewpoint,web,3,2,1,0.67,2025-04-11,2025-10-30,Secretive Plotter
+Suo Huan,Being a Talent in Chusheng Demon Sect,web,3,1,2,1.00,2026-04-15,2026-06-14,Suo Huan
+Ten Ten,Detective Training Manual,web,3,1,2,1.00,2025-10-27,2025-11-16,~Ten Ten
+Tu Xian,18 Levels of Hell: Lying Is Forbidden Here,web,3,2,1,1.00,2026-05-30,2026-09-07,Tu Xian
+Vincent Vollachia,Re:Zero,light,3,2,1,0.67,2024-05-19,2026-09-06,Vincent Vollachia
+Angel of Wisdom,Vile Dominion,web,2,1,1,1.00,2025-10-25,2026-11-05,~Angel of Wisdom
+Arthur Leywin,The Beginning After the End,web,2,0,2,0.00,2026-09-02,2026-10-03,Arthur Leywin
+Bai Xinghe,Forty Millenniums of Cultivation,web,2,0,2,0.50,2025-10-22,2025-10-22,Bai Xinghe
+Bethel Abraham,Lord of the Mysteries,web,2,0,2,1.00,2024-06-08,2026-04-06,Bethel Abraham; ~Mr Door
+Cwohae,Lord of the Mysteries,web,2,0,2,1.00,2025-07-29,2025-08-02,Cwohae
+Fiel Nirvalen,No Game No Life,light,2,1,1,1.00,2025-08-05,2025-10-17,Fiel Nirvalen; ~!Fiel
+Han Li,A Record of a Mortal's Journey to Immortality,web,2,2,0,0.00,2025-01-08,2025-07-25,Han Li
+Hu Mei Er,Reverend Insanity,web,2,0,2,1.00,2025-07-04,2025-07-04,Hu Mei Er
+Huang Weimin,Vile Dominion,web,2,2,0,1.00,2025-11-07,2026-02-14,Huang Weimin
+Jin Bo,Vile Dominion,web,2,2,0,1.00,2026-10-25,2026-10-25,~Jin Bo
+Kain,My Level Zero System,web,2,0,2,1.00,2026-09-14,2026-10-23,~!Kain
+Kirito,Sword Art Online,light,2,0,2,1.00,2025-11-04,2026-04-29,~!Kirito
+Kunagisa Tomo,Zaregoto,light,2,2,0,1.00,2026-01-26,2026-03-07,Kunagisa Tomo; Kunagisa
+Lai Qinghuan,18 Levels of Hell: Lying Is Forbidden Here,web,2,1,1,1.00,2026-09-07,2026-11-01,Lai Qinghuan
+Lakan,The Apothecary Diaries,light,2,1,1,1.00,2025-11-14,2026-08-04,~!Lakan
+Ning Ye,The Thousand Mechanisms Palace,web,2,0,2,1.00,2026-10-23,2026-10-23,~Ning Ye
+Otto Suwen,Re:Zero,light,2,2,0,1.00,2026-09-06,2026-10-30,Otto Suwen
+Qin Mu,Tales of Herding Gods,web,2,0,2,0.00,2025-10-27,2025-11-15,Qin Mu
+Smiley Face,Detective Training Manual,web,2,1,1,1.00,2025-10-27,2025-11-10,~Smiley Face
+Taylor Hebert,Worm,web,2,1,1,1.00,2025-06-25,2026-06-13,Taylor Hebert; Skitter
+Tong Yiyang,18 Levels of Hell: Lying Is Forbidden Here,web,2,1,1,1.00,2026-09-07,2026-11-01,Tong Yiyang
+Wein Salema Arbalest,The Genius Prince's Guide to Raising a Nation Out of Debt,light,2,1,1,0.00,2025-08-26,2026-06-08,Wein Salema Arbalest; ~!Wein
+Wu Xin,Detective Training Manual,web,2,1,1,1.00,2025-10-27,2025-11-10,~Wu Xin
+Xu Chaoyang,18 Levels of Hell: Lying Is Forbidden Here,web,2,1,1,1.00,2026-09-07,2026-11-01,Xu Chaoyang
+Zhang Baixi,18 Levels of Hell: Lying Is Forbidden Here,web,2,1,1,1.00,2026-10-30,2026-11-01,Zhang Baixi
+Zheng Zha,Terror Infinity,web,2,0,2,1.00,2026-06-27,2026-06-27,Zheng Zha
+Zorian Kazinski,Mother of Learning,web,2,0,2,0.50,2025-10-11,2025-10-20,Zorian Kazinski; Zorian
+Zudas,Vile Dominion,web,2,2,0,1.00,2026-10-25,2026-10-25,Zudas
+Anvil,Shadow Slave,web,1,0,1,1.00,2025-11-10,2025-11-10,~!Anvil
+Arrodes,Lord of the Mysteries,web,1,0,1,1.00,2025-08-06,2025-08-06,Arrodes
+Azril,No Game No Life,light,1,0,1,1.00,2025-03-02,2025-03-02,Azril
+Chung Myung,Return of the Mount Hua Sect,web,1,0,1,0.00,2025-05-19,2025-05-19,Chung Myung; Chungmyung
+Dinah Alcott,Worm,web,1,1,0,1.00,2025-10-01,2025-10-01,Dinah Alcott
+Fukube Satoshi,Hyouka,light,1,0,1,1.00,2025-08-10,2025-08-10,Fukube Satoshi; Satoshi Fukube
+Gu Yue Qing Shu,Reverend Insanity,web,1,1,0,1.00,2025-07-23,2025-07-23,Gu Yue Qing Shu; Qing Shu
+Han Xiao,The Legendary Mechanic,web,1,1,0,1.00,2025-12-23,2025-12-23,Han Xiao
+Hermes,Lord of the Mysteries,web,1,0,1,1.00,2025-10-10,2025-10-10,~!Hermes
+Hidden Sage,Lord of the Mysteries,web,1,0,1,1.00,2026-10-11,2026-10-11,~Hidden Sage
+Hua Cheng,Heaven Official's Blessing,web,1,0,1,0.00,2026-07-30,2026-07-30,Hua Cheng
+Jack Slash,Worm,web,1,0,1,0.00,2025-11-30,2025-11-30,Jack Slash
+Ki Song,Shadow Slave,web,1,0,1,1.00,2025-11-10,2025-11-10,Ki Song
+Leonard Mitchell,Lord of the Mysteries,web,1,1,0,1.00,2024-10-22,2024-10-22,Leonard Mitchell
+Li Chejing,The Mirror Legacy,web,1,0,1,1.00,2026-05-09,2026-05-09,Li Chejing
+Li Huowang,Dao of the Bizarre Immortal,web,1,0,1,0.00,2026-10-20,2026-10-20,Li Huowang
+Lou Lan,Heavenly Saint Thief,web,1,0,1,1.00,2026-05-18,2026-05-18,~Lou Lan
+Luo Ji,The Three-Body Problem,novel,1,1,0,1.00,2025-01-07,2025-01-07,Luo Ji
+Meng Hao,I Shall Seal the Heavens,web,1,0,1,0.00,2025-11-03,2025-11-03,Meng Hao
+Nan Sheng,18 Levels of Hell: Lying Is Forbidden Here,web,1,1,0,1.00,2026-11-01,2026-11-01,~Nan Sheng
+Number Man,Worm,web,1,0,1,1.00,2026-07-12,2026-07-12,Number Man
+Oomine Daiya,The Empty Box and Zeroth Maria (Hakomari),light,1,0,1,1.00,2026-06-09,2026-06-09,Oomine Daiya; Daiya Oomine; ~!Daiya
+Ouroboros,Lord of the Mysteries,web,1,0,1,1.00,2025-06-22,2025-06-22,~!Ouroboros
+Qin Ding Ling,Reverend Insanity,web,1,0,1,1.00,2025-04-28,2025-04-28,Qin Ding Ling
+Shiroe,Log Horizon,light,1,0,1,0.00,2024-06-26,2024-06-26,Shiroe
+Tang San,Soul Land,web,1,0,1,1.00,2025-11-05,2025-11-05,Tang San
+Tattletale,Worm,web,1,0,1,0.00,2025-10-05,2025-10-05,Tattletale; Lisa Wilbourn
+Xu Qi'an,Dafeng's Night Squad,web,1,1,0,0.00,2026-09-01,2026-09-01,Xu Qi'an; Xu Qian
+Yang Kai,Martial Peak,web,1,0,1,0.00,2026-09-16,2026-09-16,Yang Kai
+Ye Xiu,The King's Avatar,web,1,1,0,0.00,2025-12-22,2025-12-22,Ye Xiu
+Yoo Joonghyuk,Omniscient Reader's Viewpoint,web,1,0,1,1.00,2025-02-12,2025-02-12,Yoo Joonghyuk; Yoo Jonghyuk; Joonghyuk
+Yukinoshita Haruno,My Teen Romantic Comedy SNAFU (Oregairu),light,1,0,1,0.00,2025-03-18,2025-03-18,Yukinoshita Haruno; ~!Haruno
+Zhou Ming,Player Lackeys All Over the World,web,1,0,1,1.00,2025-11-14,2025-11-14,~Zhou Ming
+Alexandria,Worm,web,0,0,0,,,,~!Alexandria
+Amadeus (the Black Knight),A Practical Guide to Evil,web,0,0,0,,,,Amadeus of the Green Stretch; ~Black Knight
+Azik Eggers,Lord of the Mysteries,web,0,0,0,,,,Azik Eggers; ~!Azik
+Catherine Foundling,A Practical Guide to Evil,web,0,0,0,,,,Catherine Foundling
+Chu Tianqiu,Ten Days Ultimatum,web,0,0,0,,,,Chu Tianqiu
+Hoshino Kazuki,The Empty Box and Zeroth Maria (Hakomari),light,0,0,0,,,,Hoshino Kazuki; Kazuki Hoshino
+Kito Hayato,Classroom of the Elite,light,0,0,0,,,,Kito Hayato
+Leymano,Lord of the Mysteries,web,0,0,0,,,,Leymano
+Linley Baruch,Coiling Dragon,web,0,0,0,,,,Linley Baruch
+Miyake Akito,Classroom of the Elite,light,0,0,0,,,,Miyake Akito
+Oshino Meme,Monogatari,light,0,0,0,,,,Oshino Meme
+Otonashi Maria,The Empty Box and Zeroth Maria (Hakomari),light,0,0,0,,,,Otonashi Maria; Maria Otonashi; Aya Otonashi
+Professor Quirrell,Harry Potter and the Methods of Rationality,web,0,0,0,,,,Professor Quirrell; ~Quirrell
+Sato Maya,Classroom of the Elite,light,0,0,0,,,,Sato Maya
+Will Auceptin,Lord of the Mysteries,web,0,0,0,,,,Will Auceptin; Auceptin

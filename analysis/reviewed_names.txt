@@ -423,28 +423,26 @@ C|Fang Zheng|Reverend Insanity|Web novel|Fang Zheng
 C|Bai Ning Bing|Reverend Insanity|Web novel|Bai Ning Bing,Ning Bing
 C|Xing Su|Reverend Insanity|Web novel|Xing Su
 C|Wisdom Gu|Reverend Insanity|Web novel|Wisdom Gu
-C|Chusheng Demon Sect|Struggling to Survive in the Demonic Sect|Web novel|Chusheng Demon Sect,Chusheng Sect
-C|Colonel Timo|God's Imitator|Web novel|Colonel Timo,Timo
+C|Colonel Timo|Solo Max-Level Newbie|Web novel|Colonel Timo,Timo
 +|Cai Zhiyuan|Zhiyuan
 +|Lin Sizhi|Sizhi
 +|Niu Youdao|Youdao
 C|Jiang Zhe|The Grandmaster Strategist|Web novel|Jiang Zhe
 +|Shen Jihan|Jihan
-C|Lu Yang|(unidentified web novel)|Web novel|Lu Yang
-C|Yue Guanshan|(unidentified web novel)|Web novel|Yue Guanshan,Guanshan
-C|Gui Yu|(unidentified web novel)|Web novel|Gui Yu
-C|Mo Tan|(unidentified web novel)|Web novel|Mo Tan
-C|Xuan Luo|(unidentified web novel)|Web novel|Xuan Luo
-C|Li Hailong|(unidentified web novel)|Web novel|Li Hailong
-C|Jia Fu|(unidentified web novel)|Web novel|Jia Fu
-C|Ning Yu|(unidentified web novel)|Web novel|Ning Yu
-C|Tie Ruo Nan|(unidentified web novel)|Web novel|Tie Ruo Nan
-C|Diwu Zhiyi|(unidentified web novel)|Web novel|Diwu Zhiyi,Di Wu Zhi Yi,Wu Zhi Yi
-C|Wu Shuai|(unidentified web novel)|Web novel|Wu Shuai
-C|Geng Hao|(unidentified web novel)|Web novel|Geng Hao
-C|Li Zhitong|(unidentified web novel)|Web novel|Li Zhitong
-C|Ren Zu|(unidentified web novel)|Web novel|Ren Zu
-C|Mo Yao|(unidentified web novel)|Web novel|Mo Yao
+C|Lu Yang|Being a Talent in Chusheng Demon Sect|Web novel|Lu Yang
+C|Yue Guanshan|18 Levels of Hell|Web novel|Yue Guanshan,Guanshan
+C|Mo Tan|Quadruple Split|Web novel|Mo Tan
+C|Xuan Luo|Endless Wonders (community-written)|Web novel|Xuan Luo
+C|Li Hailong|18 Levels of Hell|Web novel|Li Hailong
+C|Jia Fu|Reverend Insanity|Web novel|Jia Fu
+C|Ning Yu|The Cicada's Song Accompanies Yangxi|Web novel|Ning Yu
+C|Tie Ruo Nan|Reverend Insanity|Web novel|Tie Ruo Nan
+C|Diwu Zhiyi|18 Levels of Hell|Web novel|Diwu Zhiyi,Di Wu Zhi Yi,Wu Zhi Yi
+C|Wu Shuai|Reverend Insanity|Web novel|Wu Shuai
+C|Geng Hao|18 Levels of Hell|Web novel|Geng Hao
+C|Li Zhitong|18 Levels of Hell|Web novel|Li Zhitong
+C|Ren Zu|Reverend Insanity|Web novel|Ren Zu
+C|Mo Yao|Reverend Insanity|Web novel|Mo Yao
 C|Gu Yue|Reverend Insanity|Web novel|Gu Yue
 # ---------------- Three Kingdoms / Chinese history
 C|Zhou Yu|Romance of the Three Kingdoms|Classic novel|Zhou Yu
@@ -456,7 +454,7 @@ C|Jia Xu|Romance of the Three Kingdoms|Classic novel|Jia Xu
 C|Chen Gong|Romance of the Three Kingdoms|Classic novel|Chen Gong
 C|Sun Ce|Romance of the Three Kingdoms|Classic novel|Sun Ce
 +|Zhuge Liang|Zhuge,Kongming
-C|Wu Yong|Water Margin|Classic novel|Wu Yong
+C|Wu Yong|Reverend Insanity|Web novel|Wu Yong
 C|Han Fei|(historical)|Real life|Han Fei
 C|Sun Tzu|(historical)|Real life|Sun Tzu
 # ---------------- Real people (historical, famous minds, public figures)

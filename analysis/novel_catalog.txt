@@ -1,0 +1,869 @@
+# Hand-checked catalog of novel characters discussed in r/IntelligenceScaling.
+# Every character-to-novel link here was checked against the archive itself (what the posts and comments say the
+# character is from), not only against outside knowledge. novel_characters.py counts each entry and drops the ones
+# that are never mentioned.
+#
+# Format (pipe separated):
+#   N|type|Novel|title aliases                 type = web | light | community | novel
+#   C|Novel|Character|aliases                  the character name itself is always matched too, unless aliases start with "-"
+#   U|Character|aliases                        a real character whose novel could not be identified ("Undiscovered")
+# Alias prefixes:  !  match only with this exact capitalisation
+#                  ~  ambiguous name: count it only when the novel (its title or another of its characters) is named
+#                     in the same post/comment or in the post the comment belongs to
+# Matching is on whole words, longest alias first, so "Hei Lou Lan" is never counted as "Lou Lan".
+
+# =====================================================================================================  WEB NOVELS
+N|web|Reverend Insanity|Reverend Insanity,Revered Insanity,Gu Zhen Ren,!RI,Gu Daoist Master
+C|Reverend Insanity|Fang Yuan|Gu Yue Fang Yuan,Fang Yuang,Fan Yuan,Fang Juan,Yuan Fang,Henry Fang,~!Yuan,~!FY,Great Love Immortal Venerable,Heaven Refining Demon Venerable
+C|Reverend Insanity|Spectral Soul Demon Venerable|Spectral Soul
+C|Reverend Insanity|Red Lotus Demon Venerable|~Red Lotus
+C|Reverend Insanity|Star Constellation Immortal Venerable|Star Constellation,Xing Su
+C|Reverend Insanity|Giant Sun Immortal Venerable|~Giant Sun
+C|Reverend Insanity|Paradise Earth Immortal Venerable|Paradise Earth
+C|Reverend Insanity|Genesis Lotus Immortal Venerable|Genesis Lotus
+C|Reverend Insanity|Primordial Origin Immortal Venerable|Primordial Origin
+C|Reverend Insanity|Thieving Heaven Demon Venerable|Thieving Heaven
+C|Reverend Insanity|Reckless Savage Demon Venerable|Reckless Savage
+C|Reverend Insanity|Limitless Demon Venerable|~Limitless Demon
+C|Reverend Insanity|Great Dream Immortal Venerable|~Great Dream
+C|Reverend Insanity|Bai Ning Bing|Ning Bing,Bai Ning Bin
+C|Reverend Insanity|Gu Yue Fang Zheng|Fang Zheng
+C|Reverend Insanity|Mo Yao|Lady Mo Yao
+C|Reverend Insanity|Ren Zu|
+C|Reverend Insanity|Duke Long|
+C|Reverend Insanity|Wu Yong|-,~Wu Yong
+C|Reverend Insanity|Fairy Zi Wei|Zi Wei,Zi Wei Fairy
+C|Reverend Insanity|Feng Jiu Ge|Feng Jiuge
+C|Reverend Insanity|Hei Lou Lan|Hei Luo Lan,Hei Loulan
+C|Reverend Insanity|Ma Hong Yun|Ma Hongyun,~Hong Yun
+C|Reverend Insanity|Shang Xin Ci|Shang Xi Ci,~Xin Ci
+C|Reverend Insanity|Tai Bai Yun Sheng|Tai Bai
+C|Reverend Insanity|Jia Jin Sheng|
+C|Reverend Insanity|Jia Fu|
+C|Reverend Insanity|Jia Gui|
+C|Reverend Insanity|Tie Ruo Nan|
+C|Reverend Insanity|Tie Xue Leng|
+C|Reverend Insanity|Wu Shuai|
+C|Reverend Insanity|Dong Fang Chang Fan|Dong Fang Chang
+C|Reverend Insanity|Gu Yue Bo|
+C|Reverend Insanity|Gu Yue Mo Chen|Mo Chen
+C|Reverend Insanity|Gu Yue Mo Yan|Mo Yan
+C|Reverend Insanity|Shen Cui|
+C|Reverend Insanity|Xiao Mang|
+C|Reverend Insanity|Ba Gui|
+C|Reverend Insanity|Chou Jiu|Chou Ji
+C|Reverend Insanity|Tao Zhu|
+C|Reverend Insanity|Feng Jin Huang|
+C|Reverend Insanity|Ying Wu Xie|
+C|Reverend Insanity|Wu Yi Hai|
+C|Reverend Insanity|Chang Shan Yin|
+C|Reverend Insanity|Gao Wan|
+C|Reverend Insanity|Ge Yao|
+C|Reverend Insanity|Lang Ya Land Spirit|Lang Ya
+C|Reverend Insanity|Lu Wei Yin|
+C|Reverend Insanity|Xie Han Mo|
+C|Reverend Insanity|Qin Ding Ling|
+C|Reverend Insanity|Hu Mei Er|
+C|Reverend Insanity|Wang Da|-,~Wang Da
+C|Reverend Insanity|Zhan Bu Du|
+C|Reverend Insanity|Qi Sea Ancestor|
+C|Reverend Insanity|Xu Tuo|
+C|Reverend Insanity|Fang Di Chang|
+C|Reverend Insanity|Wei Ling Yang|
+C|Reverend Insanity|Long Qing Tian|
+C|Reverend Insanity|Bo Qing|
+C|Reverend Insanity|Mo Wu Tian|
+C|Reverend Insanity|Di Zang Sheng|
+C|Reverend Insanity|Feng Tian Yu|
+C|Reverend Insanity|Zhang San San|
+C|Reverend Insanity|Wu Shen Tong|
+C|Reverend Insanity|Shang Yan Fei|
+C|Reverend Insanity|Qin Bai Sheng|
+C|Reverend Insanity|Shen Shang|-,~Shen Shang
+C|Reverend Insanity|Xu Hao|-,~Xu Hao
+C|Reverend Insanity|Yan Jun|-,~Yan Jun
+C|Reverend Insanity|Mo Bei|-,~Mo Bei
+C|Reverend Insanity|Old Man Wang|-,~Old Man Wang
+C|Reverend Insanity|Gu Yue Qing Shu|Qing Shu
+C|Reverend Insanity|Mao Li Qiu|
+C|Reverend Insanity|Ying Ming|-,~Ying Ming
+
+N|web|Mysteries of Immortal Puppet Master|Mysteries of Immortal Puppet Master,Immortal Puppet Master
+C|Mysteries of Immortal Puppet Master|Ning Zhuo|
+
+N|web|Lord of the Mysteries|Lord of the Mysteries,Lord of Mysteries,!LOTM,!LotM,!Lotm,Circle of Inevitability
+C|Lord of the Mysteries|Klein Moretti|Klein Morreti,Moretti,Morreti,!Klein,Gehrman Sparrow,Gehrman,Sherlock Moriarty,Dwayne Dantes,Zhou Mingrui,~The Fool,~Mr Fool,~Mr World
+C|Lord of the Mysteries|Amon|-,~!Amon
+C|Lord of the Mysteries|Adam|-,~!Adam
+C|Lord of the Mysteries|Audrey Hall|~!Audrey
+C|Lord of the Mysteries|Alger Wilson|~!Alger
+C|Lord of the Mysteries|Evernight Goddess|~Evernight
+C|Lord of the Mysteries|Lumian Lee|Lumian
+C|Lord of the Mysteries|Cattleya|
+C|Lord of the Mysteries|Medici|-,~!Medici
+C|Lord of the Mysteries|Roselle Gustav|~Roselle
+C|Lord of the Mysteries|George III|-,~George III
+C|Lord of the Mysteries|Ince Zangwill|Zangwill
+C|Lord of the Mysteries|Zaratul|
+C|Lord of the Mysteries|Bethel Abraham|~Mr Door
+C|Lord of the Mysteries|Leonard Mitchell|
+C|Lord of the Mysteries|Derrick Berg|~!Derrick
+C|Lord of the Mysteries|Arrodes|
+C|Lord of the Mysteries|Hidden Sage|-,~Hidden Sage
+C|Lord of the Mysteries|Hermes|-,~!Hermes
+C|Lord of the Mysteries|Ouroboros|-,~!Ouroboros
+C|Lord of the Mysteries|Emlyn White|Emlyn
+C|Lord of the Mysteries|Fors Wall|~!Fors
+C|Lord of the Mysteries|Antigonus|-,~!Antigonus
+C|Lord of the Mysteries|Azik Eggers|~!Azik
+C|Lord of the Mysteries|Will Auceptin|Auceptin
+C|Lord of the Mysteries|Leymano|
+C|Lord of the Mysteries|Cwohae|
+
+N|web|18 Levels of Hell: Lying Is Forbidden Here|18 Levels of Hell,Eighteen Levels of Hell,18LoH,18 LoH,Levels of Hell,Lying Is Forbidden Here,Er Liang Bai Kai
+C|18 Levels of Hell: Lying Is Forbidden Here|Chen Ran|Chan Ran,Chen Ren,Chem Ran,Fake Chen Ran,Future Chen Ran
+C|18 Levels of Hell: Lying Is Forbidden Here|Qiu Yinong|Yinong,Qui Yinong,Qiu Yining,Qi Yinoung
+C|18 Levels of Hell: Lying Is Forbidden Here|Shu Renjun|Renjun
+C|18 Levels of Hell: Lying Is Forbidden Here|Chen Yang|
+C|18 Levels of Hell: Lying Is Forbidden Here|Lin Xuan|Lin Xiuan
+C|18 Levels of Hell: Lying Is Forbidden Here|Lin Ou|
+C|18 Levels of Hell: Lying Is Forbidden Here|Diwu Zhiyi|Di Wu Zhi Yi,Di Wu Zhi,Wu Zhi Yi,~Di Wu,~!Diwu
+C|18 Levels of Hell: Lying Is Forbidden Here|Diwu Zeyi|Di Wu Ze Yi,Wu Zeyi
+C|18 Levels of Hell: Lying Is Forbidden Here|Yue Guanshan|Guanshan
+C|18 Levels of Hell: Lying Is Forbidden Here|Geng Hao|
+C|18 Levels of Hell: Lying Is Forbidden Here|Li Hailong|
+C|18 Levels of Hell: Lying Is Forbidden Here|Li Zhitong|
+C|18 Levels of Hell: Lying Is Forbidden Here|Han Fei|-,~Han Fei
+C|18 Levels of Hell: Lying Is Forbidden Here|Long Hui|
+C|18 Levels of Hell: Lying Is Forbidden Here|Duo Jie|Dou Jie
+C|18 Levels of Hell: Lying Is Forbidden Here|Bai Xiuchi|Bai Xuichi
+C|18 Levels of Hell: Lying Is Forbidden Here|Baili Qiangsheng|~!Baili
+C|18 Levels of Hell: Lying Is Forbidden Here|Feng Qirui|
+C|18 Levels of Hell: Lying Is Forbidden Here|Cheng Si|~Zhang Yuan
+C|18 Levels of Hell: Lying Is Forbidden Here|Gao Sheng|
+C|18 Levels of Hell: Lying Is Forbidden Here|Hua Changsheng|
+C|18 Levels of Hell: Lying Is Forbidden Here|Ying Siliang|Yang Siliang
+C|18 Levels of Hell: Lying Is Forbidden Here|Qiu Hua|
+C|18 Levels of Hell: Lying Is Forbidden Here|Lin Jiabei|
+C|18 Levels of Hell: Lying Is Forbidden Here|Lin Jiabao|
+C|18 Levels of Hell: Lying Is Forbidden Here|Zhang Fan|
+C|18 Levels of Hell: Lying Is Forbidden Here|Ling Chi|
+C|18 Levels of Hell: Lying Is Forbidden Here|Lin Xiuyuan|
+C|18 Levels of Hell: Lying Is Forbidden Here|Gao Lan|
+C|18 Levels of Hell: Lying Is Forbidden Here|Cui Yu|
+C|18 Levels of Hell: Lying Is Forbidden Here|Chu Yinian|
+C|18 Levels of Hell: Lying Is Forbidden Here|Chu Yun|-,~Chu Yun
+C|18 Levels of Hell: Lying Is Forbidden Here|Cao Xiu|-,~Cao Xiu
+C|18 Levels of Hell: Lying Is Forbidden Here|Xin Shuguang|
+C|18 Levels of Hell: Lying Is Forbidden Here|Zhang Meili|
+C|18 Levels of Hell: Lying Is Forbidden Here|Liu Xing|-,~Liu Xing
+C|18 Levels of Hell: Lying Is Forbidden Here|Zhang Jinhua|
+C|18 Levels of Hell: Lying Is Forbidden Here|Si Jincheng|
+C|18 Levels of Hell: Lying Is Forbidden Here|Meng Tianhong|
+C|18 Levels of Hell: Lying Is Forbidden Here|Lin Feng|-,~Lin Feng
+C|18 Levels of Hell: Lying Is Forbidden Here|Li Xintong|
+C|18 Levels of Hell: Lying Is Forbidden Here|Mo Xi|-,~Mo Xi
+C|18 Levels of Hell: Lying Is Forbidden Here|Li Annan|
+C|18 Levels of Hell: Lying Is Forbidden Here|Yu Xing|-,~Yu Xing
+C|18 Levels of Hell: Lying Is Forbidden Here|Qi Yanqing|
+C|18 Levels of Hell: Lying Is Forbidden Here|Ma Wenjie|
+C|18 Levels of Hell: Lying Is Forbidden Here|Jiang Beili|
+C|18 Levels of Hell: Lying Is Forbidden Here|Zhu Yiting|
+C|18 Levels of Hell: Lying Is Forbidden Here|Chen Nuo|
+C|18 Levels of Hell: Lying Is Forbidden Here|Mo Zigui|
+C|18 Levels of Hell: Lying Is Forbidden Here|Zhang Baixi|
+C|18 Levels of Hell: Lying Is Forbidden Here|Tong Yiyang|
+C|18 Levels of Hell: Lying Is Forbidden Here|Lai Qinghuan|
+C|18 Levels of Hell: Lying Is Forbidden Here|Xu Chaoyang|
+C|18 Levels of Hell: Lying Is Forbidden Here|Nan Sheng|-,~Nan Sheng
+C|18 Levels of Hell: Lying Is Forbidden Here|Tu Xian|
+C|18 Levels of Hell: Lying Is Forbidden Here|An Sheng|-,~An Sheng
+C|18 Levels of Hell: Lying Is Forbidden Here|Chen Yifan|
+C|18 Levels of Hell: Lying Is Forbidden Here|Tutorial Youth|
+C|18 Levels of Hell: Lying Is Forbidden Here|Big Gold Tooth|
+C|18 Levels of Hell: Lying Is Forbidden Here|Ma Xiu|-,~Ma Xiu
+C|18 Levels of Hell: Lying Is Forbidden Here|Tong Fei|-,~Tong Fei
+
+N|web|Being a Talent in Chusheng Demon Sect|Being a Talent in Chusheng Demon Sect,Talent in Chusheng,Talent in the Chusheng,Talent in the Chuseng,Struggling to Survive in the Demonic Sect,Chusheng Demon Sect,Chusheng Sect,Chuseng Sect,Chungsheng Sect,Gusheng Demonic Sect,!BATICS,!Batics,!batics
+C|Being a Talent in Chusheng Demon Sect|Ang Xiao|Ang-Xiao
+C|Being a Talent in Chusheng Demon Sect|Lu Yang|
+C|Being a Talent in Chusheng Demon Sect|First Saint|
+C|Being a Talent in Chusheng Demon Sect|World Honoured One|World Honored One,World Honoured,World Honored
+C|Being a Talent in Chusheng Demon Sect|Jun Daoist|
+C|Being a Talent in Chusheng Demon Sect|Dao Tianqi|
+C|Being a Talent in Chusheng Demon Sect|Fei Xue|Feixue
+C|Being a Talent in Chusheng Demon Sect|Si Sui|
+C|Being a Talent in Chusheng Demon Sect|Heaven Mending Peak Master|
+C|Being a Talent in Chusheng Demon Sect|Empress Xiao|-,~Empress Xiao
+C|Being a Talent in Chusheng Demon Sect|Suo Huan|
+
+N|web|Vile Dominion|Vile Dominion,!VD
+C|Vile Dominion|Li Gang|Lil Gang
+C|Vile Dominion|Jin Huang|~Huang Jin
+C|Vile Dominion|He Fan|-,~He Fan
+C|Vile Dominion|Wang Xueyao|Xueyao
+C|Vile Dominion|Timeless Demon God|
+C|Vile Dominion|Elemental Emperor|
+C|Vile Dominion|Ji Changchen|Changchen
+C|Vile Dominion|Kong Xuan|
+C|Vile Dominion|Jin Long|-,~Jin Long
+C|Vile Dominion|Jin Bo|-,~Jin Bo
+C|Vile Dominion|Meng Xian|
+C|Vile Dominion|Zudas|
+C|Vile Dominion|Angel of Wisdom|-,~Angel of Wisdom
+C|Vile Dominion|Lin Fan|-,~Lin Fan
+C|Vile Dominion|Immortal Chen|-,~Immortal Chen
+C|Vile Dominion|Ren Ying|-,~Ren Ying
+C|Vile Dominion|Huang Weimin|
+
+N|web|Detective Training Manual|Detective Training Manual
+C|Detective Training Manual|Wu Xin|-,~Wu Xin
+C|Detective Training Manual|Ten Ten|-,~Ten Ten
+C|Detective Training Manual|Smiley Face|-,~Smiley Face
+
+N|web|Waking Up to Find Myself Burdened with 40 Murders|Burdened with 40 Murders,40 Murders,Find Myself Burdened
+C|Waking Up to Find Myself Burdened with 40 Murders|Chen Xiao|
+
+N|web|Heavenly Genius|Heavenly Genius,!HG
+C|Heavenly Genius|Niu Youdao|Youdao,Niu Yudao,Niu You Dao,~!NYD
+C|Heavenly Genius|Shao Pingbo|Pingbo
+C|Heavenly Genius|Yuan Gang|
+
+N|web|Heavenly Saint Thief|Heavenly Saint Thief
+C|Heavenly Saint Thief|Lou Lan|-,~Lou Lan
+
+N|web|Solo Max-Level Newbie|Solo Max Level Newbie,Max Level Newbie,!SMLN
+C|Solo Max-Level Newbie|Kang Jinhyuk|Kang Jinhyeok,Jinhyuk,Jinhyeok,Kang Jin Hyuk
+C|Solo Max-Level Newbie|Colonel Timo|Captain Timo,Colonel Teemo,Colonel Temu,!Timo,~!Teemo
+C|Solo Max-Level Newbie|Player Unknown|
+
+N|web|God's Imitator|God's Imitator,Gods Imitator,God Imitator,God's Imitation,God Imitation
+C|God's Imitator|Cai Zhiyuan|Cai Zhuyuan,Zhiyuan
+C|God's Imitator|Lin Sizhi|Sizhi,Lin Shizi,Lin Shizhi,Lin Sinzhi,Li Sinzhi
+C|God's Imitator|Qin Cheng|
+C|God's Imitator|Wang Yongxin|Yongxin
+C|God's Imitator|Li Renshu|
+C|God's Imitator|Yao Yuan|-,~Yao Yuan
+C|God's Imitator|Cao Haichuan|
+C|God's Imitator|Wei Xinjian|
+C|God's Imitator|Yang Yuting|
+C|God's Imitator|Qin Yao|-,~Qin Yao
+C|God's Imitator|Fu Chen|-,~Fu Chen
+
+N|web|Ten Days Ultimatum|Ten Days Ultimatum,Ten Day Ultimatum,Ten Day's End,End in Ten Days,!TDU
+C|Ten Days Ultimatum|Qi Xia|
+C|Ten Days Ultimatum|Lin Qin|-,~Lin Qin
+C|Ten Days Ultimatum|Qiao Jiajin|
+C|Ten Days Ultimatum|Chu Tianqiu|
+
+N|web|The Demon World I Designed|Demon World I Designed
+C|The Demon World I Designed|Pun Yunchuan|Yunchuan,Pu Yunchuan,Pun Yuchuan,Pun Yuanchan,Pun Yunshuan
+C|The Demon World I Designed|Chen Qing|
+C|The Demon World I Designed|Zi Yue|-,~Zi Yue
+
+N|web|Sinmonger|Sinmonger
+C|Sinmonger|Tian Yi|Tianyi
+C|Sinmonger|Gu Wen|-,~Gu Wen
+C|Sinmonger|Tea Immortal|-,~Tea Immortal
+
+N|web|Thriller Paradise|Thriller Paradise,Thriller's Paradise
+C|Thriller Paradise|Feng Bujue|Feng Bijue
+
+N|web|Nine Bestowments|Nine Bestowments
+C|Nine Bestowments|Lu Chen|
+
+N|web|Court of the Sword-Treading|Court of the Sword Treading,Court of Sword Treading
+C|Court of the Sword-Treading|Mu Zixuan|Mu Zhixuan,Zixuan
+
+N|web|Once Upon a Spirit Blade Mountain|Spirit Blade Mountain,Spirit Sword Mountain
+C|Once Upon a Spirit Blade Mountain|Wang Lu|
+
+N|web|The Terrible Eternal Path|Terrible Eternal Path,Terrifying Path of Immortal Cultivation,Terrifying Path of Immortality,Forbidden Path to Immortality,!TTPOIC
+C|The Terrible Eternal Path|Li Qing|
+
+N|web|The Grandmaster Strategist|Grandmaster Strategist,Grandmaster's Strategist
+C|The Grandmaster Strategist|Jiang Zhe|Suiyin
+
+N|web|Kingdom's Bloodline|Kingdom's Bloodline,Kingdoms Bloodline
+C|Kingdom's Bloodline|Thales Jadestar|~!Thales
+C|Kingdom's Bloodline|Mindis the Third|Mindis
+C|Kingdom's Bloodline|Chapman Lampard|
+C|Kingdom's Bloodline|Kessel|-,~!Kessel
+C|Kingdom's Bloodline|Nuven|
+
+N|web|Blackstone Code|Blackstone Code,!BsC,!BSC
+C|Blackstone Code|Lynch|-,~!Lynch,Lin Qi,Lin Qie
+C|Blackstone Code|Command|-,~!Command
+
+N|web|Blood Gates|Blood Gates
+C|Blood Gates|Ning Qiushui|
+
+N|web|Quadruple Split|Quadruple Split
+C|Quadruple Split|Mo Tan|
+
+N|web|Dragon Talisman|Dragon Talisman,Dragon Tailsman
+C|Dragon Talisman|Gu Chensha|Gu Chinsha
+
+N|web|The Cicada's Song Accompanies Yangxi|Cicada's Song Accompanies Yangxi,Cicadas' Song Accompanies Yangxi,Cicadas Song
+C|The Cicada's Song Accompanies Yangxi|Ning Yu|
+
+N|web|Dedicate One's Mind|Dedicate One's Mind,Dedicate One's Mine,Dedicate Ones Mind
+C|Dedicate One's Mind|Wu Ji|
+
+N|web|The Thousand Mechanisms Palace|Thousand Mechanisms Palace
+C|The Thousand Mechanisms Palace|Ning Ye|-,~Ning Ye
+
+N|web|Your Excellency, the Prime Minister|the Prime Minister
+C|Your Excellency, the Prime Minister|Xue Huai|
+
+N|web|My Level Zero System|My Level Zero System,Level Zero System
+C|My Level Zero System|Kain|-,~!Kain
+
+N|web|Underworld Player|Underworld Player
+C|Underworld Player|Bai Zhi|-,~Bai Zhi
+
+N|web|Aspiring to the Immortal Path|Aspiring to the Immortal Path
+C|Aspiring to the Immortal Path|Tang Jie|
+
+N|web|Divine Throne of Primordial Blood|Divine Throne of Primordial Blood,Divine Throne Primordial Blood,Divine Throne
+C|Divine Throne of Primordial Blood|Su Chen|-,~Su Chen
+
+N|web|Forty Millenniums of Cultivation|Forty Millenniums of Cultivation,Forty Millenniums,Forty Millennium
+C|Forty Millenniums of Cultivation|Li Yao|
+C|Forty Millenniums of Cultivation|Bai Xinghe|
+
+N|web|World's Apocalypse Online|World's Apocalypse Online,World Apocalypse Online,!WAO
+C|World's Apocalypse Online|Gu Qingshan|Gu Qing Shan
+
+N|web|Player Lackeys All Over the World|Player Lackeys All Over the World,Player Lackeys,!PLAOTW
+C|Player Lackeys All Over the World|Zhou Ming|-,~Zhou Ming
+
+N|web|My Longevity Simulation|My Longevity Simulation,Longevity Simulation
+C|My Longevity Simulation|Li Fan|-,~Li Fan
+
+N|web|My Senior Brother Is Too Steady|My Senior Brother Is Too Steady,Senior Brother Is Too Steady
+C|My Senior Brother Is Too Steady|Li Changshou|
+
+N|web|Everlasting Immortal Firmament|Everlasting Immortal Firmament
+C|Everlasting Immortal Firmament|Gu Hai|
+
+N|web|The Mirror Legacy|Mirror Legacy
+C|The Mirror Legacy|Li Chejing|
+
+N|web|History's Strongest Senior Brother|History's Strongest Senior Brother
+C|History's Strongest Senior Brother|Yan Zhaoge|
+
+N|web|The Steward Demonic Emperor|Steward Demonic Emperor,Demonic Emperor
+C|The Steward Demonic Emperor|Zhuo Yifan|Zhuo Yi Fan,Zhuo Yi
+
+N|web|I Am the Fated Villain|I Am the Fated Villain,Fated Villain
+C|I Am the Fated Villain|Gu Changge|
+
+N|web|Martial God Asura|Martial God Asura
+C|Martial God Asura|Chu Feng|
+
+N|web|Emperor's Domination|Emperor's Domination
+C|Emperor's Domination|Li Qiye|
+
+N|web|Renegade Immortal|Renegade Immortal
+C|Renegade Immortal|Wang Lin|
+
+N|web|Terror Infinity|Terror Infinity
+C|Terror Infinity|Chu Xuan|
+C|Terror Infinity|Zheng Zha|
+
+N|web|My House of Horrors|My House of Horrors,House of Horrors
+C|My House of Horrors|Chen Ge|
+
+N|web|Pursuit of the Truth|Pursuit of the Truth
+C|Pursuit of the Truth|Su Ming|
+
+N|web|A Will Eternal|A Will Eternal
+C|A Will Eternal|Bai Xiaochun|
+
+
+
+N|web|Mo Dao Zu Shi|Mo Dao Zu Shi,Grandmaster of Demonic Cultivation,!MDZS
+C|Mo Dao Zu Shi|Wei Wuxian|Wei Ying
+C|Mo Dao Zu Shi|Lan Wangji|Lan Zhan
+C|Mo Dao Zu Shi|Nie Huaisang|
+
+N|web|Heaven Official's Blessing|Heaven Official's Blessing
+C|Heaven Official's Blessing|Hua Cheng|
+
+N|web|Ever Night|Ever Night
+C|Ever Night|Ning Que|
+
+N|web|Coiling Dragon|Coiling Dragon
+C|Coiling Dragon|Linley Baruch|
+
+N|web|I Shall Seal the Heavens|I Shall Seal the Heavens,Shall Seal the Heavens
+C|I Shall Seal the Heavens|Meng Hao|
+
+N|web|Soul Land|Soul Land
+C|Soul Land|Tang San|
+
+N|web|The Legendary Mechanic|Legendary Mechanic
+C|The Legendary Mechanic|Han Xiao|
+
+N|web|The King's Avatar|King's Avatar
+C|The King's Avatar|Ye Xiu|
+
+N|web|Martial Peak|Martial Peak
+C|Martial Peak|Yang Kai|
+
+N|web|Dafeng's Night Squad|Dafeng's Night Squad,Nightwatchman
+C|Dafeng's Night Squad|Xu Qi'an|Xu Qian
+
+N|web|A Record of a Mortal's Journey to Immortality|Mortal's Journey
+C|A Record of a Mortal's Journey to Immortality|Han Li|
+
+N|web|Tales of Herding Gods|Tales of Herding Gods
+C|Tales of Herding Gods|Qin Mu|
+
+N|web|Dao of the Bizarre Immortal|Dao of the Bizarre Immortal
+C|Dao of the Bizarre Immortal|Li Huowang|
+
+N|web|Nirvana in Fire|Nirvana in Fire
+C|Nirvana in Fire|Mei Changsu|Mei Chang Su
+
+N|web|The Daily Life of the Immortal King|Daily Life of the Immortal King
+C|The Daily Life of the Immortal King|Wang Ling|
+
+N|web|Top Tier Providence|Top Tier Providence
+C|Top Tier Providence|Han Jue|
+
+N|web|Regressor Instruction Manual|Regressor Instruction Manual
+C|Regressor Instruction Manual|Lee Kiyoung|Kiyoung
+
+N|web|Omniscient Reader's Viewpoint|Omniscient Reader's Viewpoint,Omniscient Readers Viewpoint,Omniscient Reader,!ORV
+C|Omniscient Reader's Viewpoint|Kim Dokja|Dokja
+C|Omniscient Reader's Viewpoint|Han Sooyoung|
+C|Omniscient Reader's Viewpoint|Yoo Joonghyuk|Yoo Jonghyuk,Joonghyuk
+C|Omniscient Reader's Viewpoint|Secretive Plotter|
+
+N|web|Solo Leveling|Solo Leveling
+C|Solo Leveling|Sung Jinwoo|Sung Jin Woo,Jinwoo,Jin Woo
+
+N|web|SSS-Class Suicide Hunter|Suicide Hunter
+C|SSS-Class Suicide Hunter|Kim Gong-ja|Kim Gongja
+
+N|web|Trash of the Count's Family|Trash of the Count's Family
+C|Trash of the Count's Family|Cale Henituse|Henituse
+
+N|web|The Extra's Academy Survival Guide|Extra's Academy Survival Guide,Academy Survival Guide
+C|The Extra's Academy Survival Guide|Ed Rothtaylor|Rothtaylor
+
+N|web|The Genius Who Reads Through the World|Genius Who Reads Through the World,Genius Who Reads the World,Genius Who Sees Through the World,!TGWRTTW
+C|The Genius Who Reads Through the World|Shin Woo Jin|Shin Woojin
+
+N|web|Dungeon Defense|Dungeon Defense,Dungeon Defence
+C|Dungeon Defense|Dantalian|
+
+N|web|Return of the Mount Hua Sect|Mount Hua Sect
+C|Return of the Mount Hua Sect|Chung Myung|Chungmyung
+
+N|web|The Beginning After the End|Beginning After the End,!TBATE
+C|The Beginning After the End|Arthur Leywin|
+
+N|web|Shadow Slave|Shadow Slave
+C|Shadow Slave|Sunless|~!Sunny
+C|Shadow Slave|Nephis|Changing Star
+C|Shadow Slave|Cassie|-,~!Cassie
+C|Shadow Slave|Mordret|
+C|Shadow Slave|Ki Song|
+C|Shadow Slave|Ariel|-,~!Ariel
+C|Shadow Slave|Anvil|-,~!Anvil
+
+N|web|Worm|Wildbow,Parahumans,Worm web serial
+C|Worm|Taylor Hebert|Skitter
+C|Worm|Tattletale|Lisa Wilbourn
+C|Worm|Coil|-,Thomas Calvert,~!Coil
+C|Worm|Contessa|
+C|Worm|Alexandria|-,~!Alexandria
+C|Worm|Number Man|
+C|Worm|Jack Slash|
+C|Worm|Dinah Alcott|
+
+N|web|Unsong|Unsong
+C|Unsong|Comet King|
+C|Unsong|Uriel|-,~!Uriel
+C|Unsong|Thamiel|
+C|Unsong|Albion|-,~!Albion
+C|Unsong|Aaron Smith-Teller|Smith-Teller
+
+N|web|Mother of Learning|Mother of Learning
+C|Mother of Learning|Zorian Kazinski|Zorian
+
+N|web|Harry Potter and the Methods of Rationality|Methods of Rationality,HPMOR
+C|Harry Potter and the Methods of Rationality|Professor Quirrell|~Quirrell
+
+N|web|A Practical Guide to Evil|Practical Guide to Evil
+C|A Practical Guide to Evil|Catherine Foundling|
+C|A Practical Guide to Evil|Amadeus (the Black Knight)|-,Amadeus of the Green Stretch,~Black Knight
+
+N|web|SCP Foundation|SCP Foundation,!SCP,Antimemetics Division
+C|SCP Foundation|Murphy Lawden|
+C|SCP Foundation|Marion Wheeler|
+C|SCP Foundation|James Talloran|Talloran
+
+# ==============================================================================  COMMUNITY-WRITTEN (subreddit members)
+N|community|An Ordinary Path through an Incredulous Life|Ordinary Path through the Incredulous,Ordinary Path to the Incredulous
+C|An Ordinary Path through an Incredulous Life|Shen Jihan|Jihan
+N|community|The Endless Food Chain|!TEFC,Endless Foodchain
+C|The Endless Food Chain|Xue Yin|
+C|The Endless Food Chain|Li Guang|-,~Li Guang
+N|community|Kei and Satoshi|Kei and Satoshi
+C|Kei and Satoshi|Kei|-,~!Kei
+C|Kei and Satoshi|Satoshi|-,~!Satoshi
+N|community|Endless Wonders|Endless Wonders
+C|Endless Wonders|Xuan Luo|Xuan Lou
+N|community|The Paradoxical Miracle|Paradoxical Miracle
+C|The Paradoxical Miracle|Luther Roy|
+N|community|The Blind Observer|Blind Observer
+C|The Blind Observer|Charles Morris|
+
+# =================================================================================================  LIGHT NOVELS
+N|light|Classroom of the Elite|Classroom of the Elite,!COTE,!CotE,!Cote,Youjitsu,Youkoso Jitsuryoku,White Room
+C|Classroom of the Elite|Ayanokoji Kiyotaka|Ayanokoji,Ayanokouji,Ayanakoji,Ayanokji,Ayanaokoji,Kiyotaka,Kiyotaka Ayanokoji,Kiyotaka Ayanokouji,Ayanokouji Kiyotaka,!Koji,Kojis,!Ayano,Kyotaka,Kiyo
+C|Classroom of the Elite|Horikita Suzune|Suzune Horikita,Suzune,Horikita,Horikta
+C|Classroom of the Elite|Horikita Manabu|Manabu Horikita,~!Manabu
+C|Classroom of the Elite|Ryuen Kakeru|Kakeru Ryuen,Ryuen,Ryuuen,Ryueen,Ryuuen Kakeru,~Kakeru
+C|Classroom of the Elite|Sakayanagi Arisu|Arisu Sakayanagi,Sakayanagi,~!Arisu
+C|Classroom of the Elite|Ichinose Honami|Honami Ichinose,Ichinose,~Honami
+C|Classroom of the Elite|Kushida Kikyou|Kikyou Kushida,Kushida Kikyo,Kushida
+C|Classroom of the Elite|Koenji Rokusuke|Koenji,Kouenji,Rokusuke
+C|Classroom of the Elite|Nagumo Miyabi|Miyabi Nagumo,Nagumo
+C|Classroom of the Elite|Yagami Takuya|Takuya Yagami,~!Takuya
+C|Classroom of the Elite|Amasawa Ichika|Ichika Amasawa,Amasawa,~Ichika
+C|Classroom of the Elite|Tsukishiro|Tsukishro
+C|Classroom of the Elite|Ayanokoji Atsuomi|Atsuomi,Atsoumi
+C|Classroom of the Elite|Karuizawa Kei|Kei Karuizawa,Karuizawa
+C|Classroom of the Elite|Hirata Yosuke|Hirata
+C|Classroom of the Elite|Ibuki Mio|~!Ibuki
+C|Classroom of the Elite|Sudo Ken|~Sudo,Sudou
+C|Classroom of the Elite|Chabashira Sae|Chabashira
+C|Classroom of the Elite|Kamuro Masumi|Kamuro
+C|Classroom of the Elite|Yukimura Teruhiko|~Yukimura
+C|Classroom of the Elite|Yamauchi Haruki|Yamauchi
+C|Classroom of the Elite|Housen Kazuomi|Housen,~Hosen
+C|Classroom of the Elite|Nanase Tsubasa|~Nanase
+C|Classroom of the Elite|Tsubaki Sakurako|~!Tsubaki
+C|Classroom of the Elite|Mashima Tomonari|~Mashima
+C|Classroom of the Elite|Hashimoto Masayoshi|~Hashimoto
+C|Classroom of the Elite|Katsuragi Kohei|Kohei Katsuragi,~Katsuragi
+C|Classroom of the Elite|Sakura Airi|Airi Sakura
+C|Classroom of the Elite|Matsushita Chiaki|~Matsushita
+C|Classroom of the Elite|Utomiya Riku|Riku Utomiya,Utomiya
+C|Classroom of the Elite|Kijima|-,~!Kijima
+C|Classroom of the Elite|Kiryuin Fuka|Kiryuin
+C|Classroom of the Elite|Ishigami Kyo|Kyo Ishigami
+C|Classroom of the Elite|Tachibana Akane|~!Tachibana
+C|Classroom of the Elite|Totsuka Yahiko|~!Yahiko
+C|Classroom of the Elite|Morishita Ai|~!Morishita
+C|Classroom of the Elite|Ishizaki Daichi|~Ishizaki
+C|Classroom of the Elite|Shinohara Satsuki|~!Shinohara
+C|Classroom of the Elite|Asahina Nazuna|~!Asahina
+C|Classroom of the Elite|Yamamura Miki|~!Yamamura
+C|Classroom of the Elite|Naoe|-,~!Naoe
+C|Classroom of the Elite|Sotomura|-,~!Sotomura
+C|Classroom of the Elite|Shiina Hiyori|Hiyori Shiina,~!Hiyori
+C|Classroom of the Elite|Kanzaki Ryuji|Ryuji Kanzaki,~!Kanzaki
+C|Classroom of the Elite|Kiriyama Ikuto|~!Kiriyama
+C|Classroom of the Elite|Hoshinomiya Chie|Hoshinomiya
+C|Classroom of the Elite|Sakagami|-,~!Sakagami
+C|Classroom of the Elite|Ike Kanji|
+C|Classroom of the Elite|Hasebe Haruka|~!Hasebe
+C|Classroom of the Elite|Miyake Akito|
+C|Classroom of the Elite|Sato Maya|
+C|Classroom of the Elite|Ishikura|-,~!Ishikura
+C|Classroom of the Elite|Kito Hayato|
+C|Classroom of the Elite|Shiraishi|-,~!Shiraishi
+C|Classroom of the Elite|Suzukake|-,~!Suzukake
+
+N|light|No Game No Life|No Game No Life,!NGNL
+C|No Game No Life|Sora|-,!Sora,Sora Nai
+C|No Game No Life|Shiro|-,~!Shiro,Shiro Nai
+C|No Game No Life|Jibril|Jibirl
+C|No Game No Life|Riku Dola|~!Riku
+C|No Game No Life|Schwi Dola|Schwi
+C|No Game No Life|Stephanie Dola|~!Steph,~!Stephanie
+C|No Game No Life|Chlammy Zell|Chlammy
+C|No Game No Life|Izuna Hatsuse|~!Izuna
+C|No Game No Life|Emir-Eins|Emir Eins
+C|No Game No Life|Holou|
+C|No Game No Life|Tet|-,~!Tet
+C|No Game No Life|Fiel Nirvalen|~!Fiel
+C|No Game No Life|Artosh|
+C|No Game No Life|Azril|
+
+N|light|Re:Zero|Re:Zero,Re Zero,Rezero
+C|Re:Zero|Natsuki Subaru|Subaru Natsuki,Subaru,~!Natsuki
+C|Re:Zero|Echidna|
+C|Re:Zero|Emilia|-,~!Emilia
+C|Re:Zero|Roswaal|
+C|Re:Zero|Crusch Karsten|Crusch
+C|Re:Zero|Anastasia Hoshin|~!Anastasia
+C|Re:Zero|Garfiel|
+C|Re:Zero|Petelgeuse Romanee-Conti|Petelgeuse,~Betelgeuse
+C|Re:Zero|Regulus Corneas|~!Regulus
+C|Re:Zero|Todd Fang|
+C|Re:Zero|Aldebaran|-,~!Aldebaran
+C|Re:Zero|Vincent Vollachia|
+C|Re:Zero|Otto Suwen|
+
+N|light|Roshidere|Roshidere,Alya Sometimes Hides Her Feelings
+C|Roshidere|Kuze Masachika|Masachika Kuze,Masachika,~!Kuze
+C|Roshidere|Alya|-,~!Alya
+C|Roshidere|Suou Yuki|Yuki Suou,~!Suou
+C|Roshidere|Miyamae Nonoa|Nonoa Miyamae,~!Nonoa
+
+N|light|Hyouka|Hyouka
+C|Hyouka|Oreki Houtarou|Houtarou Oreki,Oreki Houtaro,Hotaro Oreki,Oreki,Houtarou,Houtaro
+C|Hyouka|Irisu Fuyumi|Fuyumi Irisu,~!Irisu
+C|Hyouka|Chitanda Eru|Chitanda
+C|Hyouka|Fukube Satoshi|Satoshi Fukube
+
+N|light|The Detective Is Already Dead|Detective Is Already Dead,Tantei wa Mou,Tanmoshi
+C|The Detective Is Already Dead|Siesta|
+C|The Detective Is Already Dead|Kimizuka Kimihiko|Kimihiko
+
+N|light|Overlord|Overlord,Nazarick
+C|Overlord|Ainz Ooal Gown|!Ainz,Momonga,~!Momon
+C|Overlord|Demiurge|
+C|Overlord|Albedo|-,~!Albedo
+C|Overlord|Jircniv|
+C|Overlord|Renner|-,~!Renner,Princess Renner
+C|Overlord|Fluder Paradyne|~!Fluder
+
+N|light|Durarara!!|Durarara
+C|Durarara!!|Orihara Izaya|Izaya Orihara,Izaya,~!Orihara
+C|Durarara!!|Heiwajima Shizuo|~!Shizuo
+
+N|light|The Saga of Tanya the Evil|Youjo Senki,Tanya the Evil
+C|The Saga of Tanya the Evil|Tanya Degurechaff|Tanya von Degurechaff,Degurechaff,!Tanya
+C|The Saga of Tanya the Evil|Hans von Zettour|Zettour
+
+N|light|The Apothecary Diaries|Apothecary Diaries
+C|The Apothecary Diaries|Maomao|Mao Mao
+C|The Apothecary Diaries|Shisui (Loulan)|-,~!Shisui,~!Loulan
+C|The Apothecary Diaries|Jinshi|-,~!Jinshi
+C|The Apothecary Diaries|Lakan|-,~!Lakan
+
+N|light|My Teen Romantic Comedy SNAFU (Oregairu)|Oregairu,!SNAFU
+C|My Teen Romantic Comedy SNAFU (Oregairu)|Hikigaya Hachiman|Hachiman Hikigaya,Hachiman,~!Hikigaya
+C|My Teen Romantic Comedy SNAFU (Oregairu)|Yukinoshita Yukino|~!Yukino
+C|My Teen Romantic Comedy SNAFU (Oregairu)|Yukinoshita Haruno|~!Haruno
+
+N|light|Fate/Zero|Fate Zero,Fate/Zero
+C|Fate/Zero|Emiya Kiritsugu|Kiritsugu Emiya,Kiritsugu
+C|Fate/Zero|Kotomine Kirei|Kirei Kotomine,~!Kotomine
+
+N|light|Zaregoto|Zaregoto
+C|Zaregoto|Ii-chan|
+C|Zaregoto|Kunagisa Tomo|Kunagisa
+
+N|light|Monogatari|Monogatari
+C|Monogatari|Kaiki Deishuu|-,~!Kaiki,Kaiki Deishu
+C|Monogatari|Hanekawa Tsubasa|Hanekawa
+C|Monogatari|Araragi Koyomi|Araragi
+C|Monogatari|Gaen Izuko|Izuko Gaen
+C|Monogatari|Oshino Meme|
+
+N|light|The Empty Box and Zeroth Maria (Hakomari)|Hakomari,Empty Box and Zeroth Maria,Zeroth Maria,Utsuro no Hako
+C|The Empty Box and Zeroth Maria (Hakomari)|Hoshino Kazuki|Kazuki Hoshino
+C|The Empty Box and Zeroth Maria (Hakomari)|Oomine Daiya|Daiya Oomine,~!Daiya
+C|The Empty Box and Zeroth Maria (Hakomari)|Otonashi Maria|Maria Otonashi,Aya Otonashi
+
+N|light|The Irregular at Magic High School|Mahouka,Irregular at Magic High School
+C|The Irregular at Magic High School|Shiba Tatsuya|Tatsuya Shiba
+
+N|light|The Eminence in Shadow|Eminence in Shadow
+C|The Eminence in Shadow|Cid Kagenou|
+
+N|light|Mushoku Tensei|Mushoku Tensei
+C|Mushoku Tensei|Rudeus Greyrat|Rudeus
+
+N|light|That Time I Got Reincarnated as a Slime|Reincarnated as a Slime,Tensura
+C|That Time I Got Reincarnated as a Slime|Rimuru Tempest|Rimuru
+
+N|light|The Misfit of Demon King Academy|Misfit of Demon King Academy,Demon King Academy
+C|The Misfit of Demon King Academy|Anos Voldigoad|!Anos
+
+N|light|Sword Art Online|Sword Art Online,!SAO
+C|Sword Art Online|Kirito|-,~!Kirito
+
+N|light|Failure Frame|Failure Frame
+C|Failure Frame|Mimori Touka|Touka Mimori
+
+N|light|Alderamin on the Sky|Alderamin
+C|Alderamin on the Sky|Ikta Solork|
+
+N|light|Redo of Healer|Redo of Healer
+C|Redo of Healer|Keyaruga|
+
+N|light|The Strongest Hero Who Craves Revenge (Fukushuu wo Koinegau Saikyou Yuusha)|Saikyou Yuusha,Saikyo Yusha
+C|The Strongest Hero Who Craves Revenge (Fukushuu wo Koinegau Saikyou Yuusha)|Raul Evans|
+
+N|light|Log Horizon|Log Horizon
+C|Log Horizon|Shiroe|
+
+N|light|The Genius Prince's Guide to Raising a Nation Out of Debt|Genius Prince
+C|The Genius Prince's Guide to Raising a Nation Out of Debt|Wein Salema Arbalest|~!Wein
+
+N|light|Death Note Another Note: The Los Angeles BB Murder Cases|Another Note,!LABB,BB Murder Cases
+C|Death Note Another Note: The Los Angeles BB Murder Cases|Beyond Birthday|Rue Ryuzaki
+
+# ================================================================================  OTHER PUBLISHED / CLASSIC NOVELS
+N|novel|Sherlock Holmes (Arthur Conan Doyle)|Conan Doyle,Sherlock Holmes
+C|Sherlock Holmes (Arthur Conan Doyle)|Sherlock Holmes|Novel Sherlock,Novels Sherlock
+C|Sherlock Holmes (Arthur Conan Doyle)|Dr. John Watson|-,John Watson,Dr Watson,~!Watson
+C|Sherlock Holmes (Arthur Conan Doyle)|Mycroft Holmes|Mycroft
+C|Sherlock Holmes (Arthur Conan Doyle)|Professor Moriarty|Novel Moriarty,Professor James Moriarty
+C|Sherlock Holmes (Arthur Conan Doyle)|Irene Adler|
+C|Sherlock Holmes (Arthur Conan Doyle)|Charles Augustus Milverton|Milverton
+C|Sherlock Holmes (Arthur Conan Doyle)|Sebastian Moran|
+C|Sherlock Holmes (Arthur Conan Doyle)|Inspector Lestrade|~!Lestrade
+
+N|novel|Hannibal Lecter novels (Thomas Harris)|Thomas Harris,Hannibal Rising,Red Dragon,Silence of the Lambs
+C|Hannibal Lecter novels (Thomas Harris)|Hannibal Lecter|Novel Hannibal,Novels Hannibal,Hannibal Lector,Lecter
+C|Hannibal Lecter novels (Thomas Harris)|Will Graham|
+C|Hannibal Lecter novels (Thomas Harris)|Clarice Starling|~!Clarice
+C|Hannibal Lecter novels (Thomas Harris)|Frederick Chilton|~!Chilton
+C|Hannibal Lecter novels (Thomas Harris)|Jack Crawford|
+C|Hannibal Lecter novels (Thomas Harris)|Francis Dolarhyde|Dolarhyde
+
+N|novel|Dune|!Dune,Dune Messiah
+C|Dune|Paul Atreides|Novel Paul
+C|Dune|Leto II Atreides|Leto II,~!Leto
+C|Dune|Baron Harkonnen|~Harkonnen
+C|Dune|Alia Atreides|~!Alia
+C|Dune|Miles Teg|
+
+N|novel|Star Wars: Thrawn novels|Thrawn trilogy
+C|Star Wars: Thrawn novels|Grand Admiral Thrawn|Thrawn,Admiral Thrawn
+
+N|novel|Agatha Christie novels|Agatha Christie
+C|Agatha Christie novels|Hercule Poirot|Poirot
+C|Agatha Christie novels|Miss Marple|Marple
+
+N|novel|The Second Apocalypse (The Prince of Nothing)|Second Apocalypse,Prince of Nothing
+C|The Second Apocalypse (The Prince of Nothing)|Anasurimbor Kellhus|Kellhus,Anasurimbur Kellhus
+
+N|novel|The Devotion of Suspect X (Detective Galileo)|Devotion of Suspect X,Suspect X,Detective Galileo
+C|The Devotion of Suspect X (Detective Galileo)|Ishigami Tetsuya|Tetsuya Ishigami
+C|The Devotion of Suspect X (Detective Galileo)|Yukawa Manabu|Manabu Yukawa,Yukawa
+
+N|novel|Jirai Glico|Jirai Glico
+C|Jirai Glico|Imoriya Mato|Mato Imoriya,Imoriya
+
+N|novel|Kyokou Suiri (In/Spectre)|Kyokou Suiri,In/Spectre,Inspectre
+C|Kyokou Suiri (In/Spectre)|Iwanaga Kotoko|Kotoko Iwanaga,Kotoko
+
+N|novel|Legend of the Galactic Heroes|Legend of the Galactic Heroes,Galactic Heroes,!LOGH,!LotGH
+C|Legend of the Galactic Heroes|Reinhard von Lohengramm|Lohengramm,~!Reinhard
+C|Legend of the Galactic Heroes|Yang Wen-li|Yang Wenli
+C|Legend of the Galactic Heroes|Paul von Oberstein|Oberstein
+C|Legend of the Galactic Heroes|Siegfried Kircheis|Kircheis
+
+N|novel|Blood Meridian|Blood Meridian
+C|Blood Meridian|Judge Holden|
+
+N|novel|Artemis Fowl|
+C|Artemis Fowl|Artemis Fowl|
+C|Artemis Fowl|Opal Koboi|
+
+N|novel|Malazan Book of the Fallen|Malazan
+C|Malazan Book of the Fallen|Shadowthrone|
+C|Malazan Book of the Fallen|Kruppe|
+C|Malazan Book of the Fallen|Quick Ben|Quickben
+C|Malazan Book of the Fallen|Tehol Beddict|Tehol
+
+N|novel|The Lymond Chronicles|Lymond Chronicles,Dorothy Dunnett
+C|The Lymond Chronicles|Francis Crawford of Lymond|Lymond
+
+N|novel|Noble House|Noble House
+C|Noble House|Ian Dunross|
+
+N|novel|The Count of Monte Cristo|Monte Cristo
+C|The Count of Monte Cristo|Edmond Dantes|Count of Monte Cristo
+
+N|novel|Harry Potter|Harry Potter
+C|Harry Potter|Albus Dumbledore|Dumbledore
+C|Harry Potter|Voldemort|
+
+N|novel|A Song of Ice and Fire|Song of Ice and Fire,!ASOIAF,Game of Thrones
+C|A Song of Ice and Fire|Petyr Baelish (Littlefinger)|-,Petyr Baelish,Littlefinger
+C|A Song of Ice and Fire|Tyrion Lannister|Tyrion
+C|A Song of Ice and Fire|Tywin Lannister|Tywin
+C|A Song of Ice and Fire|Varys|-,~!Varys
+
+N|novel|The Lord of the Rings|Lord of the Rings
+C|The Lord of the Rings|Sauron|
+
+N|novel|Cthulhu Mythos (H. P. Lovecraft)|Lovecraft,Cthulhu Mythos
+C|Cthulhu Mythos (H. P. Lovecraft)|Yog-Sothoth|Yog Sothoth
+C|Cthulhu Mythos (H. P. Lovecraft)|Azathoth|
+C|Cthulhu Mythos (H. P. Lovecraft)|Nyarlathotep|
+C|Cthulhu Mythos (H. P. Lovecraft)|Cthulhu|
+
+N|novel|Father Brown stories|
+C|Father Brown stories|Father Brown|
+N|novel|C. Auguste Dupin stories (Edgar Allan Poe)|
+C|C. Auguste Dupin stories (Edgar Allan Poe)|C. Auguste Dupin|-,Auguste Dupin,!Dupin
+N|novel|Arsène Lupin novels|
+C|Arsène Lupin novels|Arsène Lupin|-,Arsene Lupin
+N|novel|Pendergast novels|
+C|Pendergast novels|Aloysius Pendergast|Pendergast
+N|novel|Jack Reacher novels|
+C|Jack Reacher novels|Jack Reacher|
+N|novel|Ender's Game|Ender's Game
+C|Ender's Game|Ender Wiggin|
+N|novel|Fight Club|Fight Club
+C|Fight Club|Tyler Durden|
+N|novel|American Psycho|American Psycho
+C|American Psycho|Patrick Bateman|
+N|novel|It (Stephen King)|
+C|It (Stephen King)|Pennywise|
+N|novel|No Country for Old Men|No Country for Old Men
+C|No Country for Old Men|Anton Chigurh|Chigurh
+N|novel|Discworld|Discworld
+C|Discworld|Havelock Vetinari|Vetinari
+N|novel|Erast Fandorin novels|
+C|Erast Fandorin novels|Erast Fandorin|Fandorin
+N|novel|Philo Vance novels|
+C|Philo Vance novels|Philo Vance|
+N|novel|The Three-Body Problem|Three Body Problem,Three-Body Problem
+C|The Three-Body Problem|Luo Ji|
+N|novel|Forst series (Remigiusz Mróz)|
+C|Forst series (Remigiusz Mróz)|Wiktor Forst|
+C|Forst series (Remigiusz Mróz)|Iwo Eliasz|
+
+# ============================================================================================  UNDISCOVERED
+# Real characters the subreddit discusses whose novel is never named, is untranslated/private ("gatekept"),
+# or could not be confirmed from the archive.
+U|Heiti Taizheng|
+U|Zha Hiangtan|Zha Hiangton
+U|Sou Loang|
+U|Ocrevius|
+U|Bai Ding Zhe|
+U|Long Chian|Long Chain
+U|Tarantulian Demon|Tarantula Demon
+U|Gu Shiyan|
+U|Bai Yu|
+U|Bai Zhe|
+U|Ro Zha|
+U|Wang Wei|
+U|Chen Jie|
+U|Xie Wuming|
+U|Gao Chuan|
+U|Lin Yu|
+U|Duan Lou|
+U|Vereiya|
+U|The Founder|-,!The Founder
+U|Zi Chen|
+U|Qi Jia|
+U|Tan Mo|
+U|Chen Changsheng|
+U|Jiang Shen|
+U|Devil Advisor|
