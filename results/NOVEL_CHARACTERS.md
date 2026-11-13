@@ -1,0 +1,553 @@
+# Every novel character in r/IntelligenceScaling
+
+Source: the full r/IntelligenceScaling archive, 44,474 posts and 710,836 comments, 2023-11-10 to 2026-11-13 (UTC).
+Every name below is mentioned in the archive at least once, and its novel was checked against what the posts and comments themselves say.
+
+**544 characters**: 315 from web novels, 8 from community-written web fiction, 128 from light novels, 68 from other published novels, and 25 undiscovered.
+
+| Character | Novel |
+|---|---|
+| An Sheng | 18 Levels of Hell: Lying Is Forbidden Here |
+| Bai Xiuchi | 18 Levels of Hell: Lying Is Forbidden Here |
+| Baili Qiangsheng | 18 Levels of Hell: Lying Is Forbidden Here |
+| Big Gold Tooth | 18 Levels of Hell: Lying Is Forbidden Here |
+| Cao Xiu | 18 Levels of Hell: Lying Is Forbidden Here |
+| Chen Nuo | 18 Levels of Hell: Lying Is Forbidden Here |
+| Chen Ran | 18 Levels of Hell: Lying Is Forbidden Here |
+| Chen Yang | 18 Levels of Hell: Lying Is Forbidden Here |
+| Chen Yifan | 18 Levels of Hell: Lying Is Forbidden Here |
+| Cheng Si | 18 Levels of Hell: Lying Is Forbidden Here |
+| Chu Yinian | 18 Levels of Hell: Lying Is Forbidden Here |
+| Chu Yun | 18 Levels of Hell: Lying Is Forbidden Here |
+| Cui Yu | 18 Levels of Hell: Lying Is Forbidden Here |
+| Diwu Zeyi | 18 Levels of Hell: Lying Is Forbidden Here |
+| Diwu Zhiyi | 18 Levels of Hell: Lying Is Forbidden Here |
+| Duo Jie | 18 Levels of Hell: Lying Is Forbidden Here |
+| Feng Qirui | 18 Levels of Hell: Lying Is Forbidden Here |
+| Gao Lan | 18 Levels of Hell: Lying Is Forbidden Here |
+| Gao Sheng | 18 Levels of Hell: Lying Is Forbidden Here |
+| Geng Hao | 18 Levels of Hell: Lying Is Forbidden Here |
+| Han Fei | 18 Levels of Hell: Lying Is Forbidden Here |
+| Hua Changsheng | 18 Levels of Hell: Lying Is Forbidden Here |
+| Jiang Beili | 18 Levels of Hell: Lying Is Forbidden Here |
+| Lai Qinghuan | 18 Levels of Hell: Lying Is Forbidden Here |
+| Li Annan | 18 Levels of Hell: Lying Is Forbidden Here |
+| Li Hailong | 18 Levels of Hell: Lying Is Forbidden Here |
+| Li Xintong | 18 Levels of Hell: Lying Is Forbidden Here |
+| Li Zhitong | 18 Levels of Hell: Lying Is Forbidden Here |
+| Lin Feng | 18 Levels of Hell: Lying Is Forbidden Here |
+| Lin Jiabao | 18 Levels of Hell: Lying Is Forbidden Here |
+| Lin Jiabei | 18 Levels of Hell: Lying Is Forbidden Here |
+| Lin Ou | 18 Levels of Hell: Lying Is Forbidden Here |
+| Lin Xiuyuan | 18 Levels of Hell: Lying Is Forbidden Here |
+| Lin Xuan | 18 Levels of Hell: Lying Is Forbidden Here |
+| Ling Chi | 18 Levels of Hell: Lying Is Forbidden Here |
+| Liu Xing | 18 Levels of Hell: Lying Is Forbidden Here |
+| Long Hui | 18 Levels of Hell: Lying Is Forbidden Here |
+| Ma Wenjie | 18 Levels of Hell: Lying Is Forbidden Here |
+| Ma Xiu | 18 Levels of Hell: Lying Is Forbidden Here |
+| Meng Tianhong | 18 Levels of Hell: Lying Is Forbidden Here |
+| Mo Xi | 18 Levels of Hell: Lying Is Forbidden Here |
+| Mo Zigui | 18 Levels of Hell: Lying Is Forbidden Here |
+| Nan Sheng | 18 Levels of Hell: Lying Is Forbidden Here |
+| Qi Yanqing | 18 Levels of Hell: Lying Is Forbidden Here |
+| Qiu Hua | 18 Levels of Hell: Lying Is Forbidden Here |
+| Qiu Yinong | 18 Levels of Hell: Lying Is Forbidden Here |
+| Shu Renjun | 18 Levels of Hell: Lying Is Forbidden Here |
+| Si Jincheng | 18 Levels of Hell: Lying Is Forbidden Here |
+| Tong Fei | 18 Levels of Hell: Lying Is Forbidden Here |
+| Tong Yiyang | 18 Levels of Hell: Lying Is Forbidden Here |
+| Tu Xian | 18 Levels of Hell: Lying Is Forbidden Here |
+| Tutorial Youth | 18 Levels of Hell: Lying Is Forbidden Here |
+| Xin Shuguang | 18 Levels of Hell: Lying Is Forbidden Here |
+| Xu Chaoyang | 18 Levels of Hell: Lying Is Forbidden Here |
+| Ying Siliang | 18 Levels of Hell: Lying Is Forbidden Here |
+| Yu Xing | 18 Levels of Hell: Lying Is Forbidden Here |
+| Yue Guanshan | 18 Levels of Hell: Lying Is Forbidden Here |
+| Zhang Baixi | 18 Levels of Hell: Lying Is Forbidden Here |
+| Zhang Fan | 18 Levels of Hell: Lying Is Forbidden Here |
+| Zhang Jinhua | 18 Levels of Hell: Lying Is Forbidden Here |
+| Zhang Meili | 18 Levels of Hell: Lying Is Forbidden Here |
+| Zhu Yiting | 18 Levels of Hell: Lying Is Forbidden Here |
+| Hercule Poirot | Agatha Christie novels |
+| Miss Marple | Agatha Christie novels |
+| Ikta Solork | Alderamin on the Sky |
+| Patrick Bateman | American Psycho |
+| Shen Jihan | An Ordinary Path through an Incredulous Life |
+| Jinshi | The Apothecary Diaries |
+| Lakan | The Apothecary Diaries |
+| Maomao | The Apothecary Diaries |
+| Shisui (Loulan) | The Apothecary Diaries |
+| Arsène Lupin | Arsène Lupin novels |
+| Artemis Fowl | Artemis Fowl |
+| Opal Koboi | Artemis Fowl |
+| Tang Jie | Aspiring to the Immortal Path |
+| Arthur Leywin | The Beginning After the End |
+| Ang Xiao | Being a Talent in Chusheng Demon Sect |
+| Dao Tianqi | Being a Talent in Chusheng Demon Sect |
+| Empress Xiao | Being a Talent in Chusheng Demon Sect |
+| Fei Xue | Being a Talent in Chusheng Demon Sect |
+| First Saint | Being a Talent in Chusheng Demon Sect |
+| Heaven Mending Peak Master | Being a Talent in Chusheng Demon Sect |
+| Jun Daoist | Being a Talent in Chusheng Demon Sect |
+| Lu Yang | Being a Talent in Chusheng Demon Sect |
+| Si Sui | Being a Talent in Chusheng Demon Sect |
+| Suo Huan | Being a Talent in Chusheng Demon Sect |
+| World Honoured One | Being a Talent in Chusheng Demon Sect |
+| Command | Blackstone Code |
+| Lynch | Blackstone Code |
+| Charles Morris | The Blind Observer |
+| Ning Qiushui | Blood Gates |
+| Judge Holden | Blood Meridian |
+| C. Auguste Dupin | C. Auguste Dupin stories (Edgar Allan Poe) |
+| Ning Yu | The Cicada's Song Accompanies Yangxi |
+| Amasawa Ichika | Classroom of the Elite |
+| Asahina Nazuna | Classroom of the Elite |
+| Ayanokoji Atsuomi | Classroom of the Elite |
+| Ayanokoji Kiyotaka | Classroom of the Elite |
+| Chabashira Sae | Classroom of the Elite |
+| Hasebe Haruka | Classroom of the Elite |
+| Hashimoto Masayoshi | Classroom of the Elite |
+| Hirata Yosuke | Classroom of the Elite |
+| Horikita Manabu | Classroom of the Elite |
+| Horikita Suzune | Classroom of the Elite |
+| Hoshinomiya Chie | Classroom of the Elite |
+| Housen Kazuomi | Classroom of the Elite |
+| Ibuki Mio | Classroom of the Elite |
+| Ichinose Honami | Classroom of the Elite |
+| Ike Kanji | Classroom of the Elite |
+| Ishigami Kyo | Classroom of the Elite |
+| Ishikura | Classroom of the Elite |
+| Ishizaki Daichi | Classroom of the Elite |
+| Kamuro Masumi | Classroom of the Elite |
+| Kanzaki Ryuji | Classroom of the Elite |
+| Karuizawa Kei | Classroom of the Elite |
+| Katsuragi Kohei | Classroom of the Elite |
+| Kijima | Classroom of the Elite |
+| Kiriyama Ikuto | Classroom of the Elite |
+| Kiryuin Fuka | Classroom of the Elite |
+| Koenji Rokusuke | Classroom of the Elite |
+| Kushida Kikyou | Classroom of the Elite |
+| Mashima Tomonari | Classroom of the Elite |
+| Matsushita Chiaki | Classroom of the Elite |
+| Morishita Ai | Classroom of the Elite |
+| Nagumo Miyabi | Classroom of the Elite |
+| Nanase Tsubasa | Classroom of the Elite |
+| Naoe | Classroom of the Elite |
+| Ryuen Kakeru | Classroom of the Elite |
+| Sakagami | Classroom of the Elite |
+| Sakayanagi Arisu | Classroom of the Elite |
+| Sakura Airi | Classroom of the Elite |
+| Shiina Hiyori | Classroom of the Elite |
+| Shinohara Satsuki | Classroom of the Elite |
+| Shiraishi | Classroom of the Elite |
+| Sotomura | Classroom of the Elite |
+| Sudo Ken | Classroom of the Elite |
+| Suzukake | Classroom of the Elite |
+| Tachibana Akane | Classroom of the Elite |
+| Totsuka Yahiko | Classroom of the Elite |
+| Tsubaki Sakurako | Classroom of the Elite |
+| Tsukishiro | Classroom of the Elite |
+| Utomiya Riku | Classroom of the Elite |
+| Yagami Takuya | Classroom of the Elite |
+| Yamamura Miki | Classroom of the Elite |
+| Yamauchi Haruki | Classroom of the Elite |
+| Yukimura Teruhiko | Classroom of the Elite |
+| Edmond Dantes | The Count of Monte Cristo |
+| Mu Zixuan | Court of the Sword-Treading |
+| Azathoth | Cthulhu Mythos (H. P. Lovecraft) |
+| Cthulhu | Cthulhu Mythos (H. P. Lovecraft) |
+| Nyarlathotep | Cthulhu Mythos (H. P. Lovecraft) |
+| Yog-Sothoth | Cthulhu Mythos (H. P. Lovecraft) |
+| Xu Qi'an | Dafeng's Night Squad |
+| Wang Ling | The Daily Life of the Immortal King |
+| Li Huowang | Dao of the Bizarre Immortal |
+| Beyond Birthday | Death Note Another Note: The Los Angeles BB Murder Cases |
+| Wu Ji | Dedicate One's Mind |
+| Chen Qing | The Demon World I Designed |
+| Pun Yunchuan | The Demon World I Designed |
+| Zi Yue | The Demon World I Designed |
+| Kimizuka Kimihiko | The Detective Is Already Dead |
+| Siesta | The Detective Is Already Dead |
+| Smiley Face | Detective Training Manual |
+| Ten Ten | Detective Training Manual |
+| Wu Xin | Detective Training Manual |
+| Ishigami Tetsuya | The Devotion of Suspect X (Detective Galileo) |
+| Yukawa Manabu | The Devotion of Suspect X (Detective Galileo) |
+| Havelock Vetinari | Discworld |
+| Su Chen | Divine Throne of Primordial Blood |
+| Gu Chensha | Dragon Talisman |
+| Alia Atreides | Dune |
+| Baron Harkonnen | Dune |
+| Leto II Atreides | Dune |
+| Miles Teg | Dune |
+| Paul Atreides | Dune |
+| Dantalian | Dungeon Defense |
+| Heiwajima Shizuo | Durarara!! |
+| Orihara Izaya | Durarara!! |
+| Cid Kagenou | The Eminence in Shadow |
+| Li Qiye | Emperor's Domination |
+| Oomine Daiya | The Empty Box and Zeroth Maria (Hakomari) |
+| Ender Wiggin | Ender's Game |
+| Li Guang | The Endless Food Chain |
+| Xue Yin | The Endless Food Chain |
+| Xuan Luo | Endless Wonders |
+| Erast Fandorin | Erast Fandorin novels |
+| Ning Que | Ever Night |
+| Gu Hai | Everlasting Immortal Firmament |
+| Ed Rothtaylor | The Extra's Academy Survival Guide |
+| Mimori Touka | Failure Frame |
+| Emiya Kiritsugu | Fate/Zero |
+| Kotomine Kirei | Fate/Zero |
+| Father Brown | Father Brown stories |
+| Tyler Durden | Fight Club |
+| Iwo Eliasz | Forst series (Remigiusz Mróz) |
+| Wiktor Forst | Forst series (Remigiusz Mróz) |
+| Bai Xinghe | Forty Millenniums of Cultivation |
+| Li Yao | Forty Millenniums of Cultivation |
+| Wein Salema Arbalest | The Genius Prince's Guide to Raising a Nation Out of Debt |
+| Shin Woo Jin | The Genius Who Reads Through the World |
+| Cai Zhiyuan | God's Imitator |
+| Cao Haichuan | God's Imitator |
+| Fu Chen | God's Imitator |
+| Li Renshu | God's Imitator |
+| Lin Sizhi | God's Imitator |
+| Qin Cheng | God's Imitator |
+| Qin Yao | God's Imitator |
+| Wang Yongxin | God's Imitator |
+| Wei Xinjian | God's Imitator |
+| Yang Yuting | God's Imitator |
+| Yao Yuan | God's Imitator |
+| Jiang Zhe | The Grandmaster Strategist |
+| Clarice Starling | Hannibal Lecter novels (Thomas Harris) |
+| Francis Dolarhyde | Hannibal Lecter novels (Thomas Harris) |
+| Frederick Chilton | Hannibal Lecter novels (Thomas Harris) |
+| Hannibal Lecter | Hannibal Lecter novels (Thomas Harris) |
+| Jack Crawford | Hannibal Lecter novels (Thomas Harris) |
+| Will Graham | Hannibal Lecter novels (Thomas Harris) |
+| Albus Dumbledore | Harry Potter |
+| Voldemort | Harry Potter |
+| Hua Cheng | Heaven Official's Blessing |
+| Niu Youdao | Heavenly Genius |
+| Shao Pingbo | Heavenly Genius |
+| Yuan Gang | Heavenly Genius |
+| Lou Lan | Heavenly Saint Thief |
+| Yan Zhaoge | History's Strongest Senior Brother |
+| Chitanda Eru | Hyouka |
+| Fukube Satoshi | Hyouka |
+| Irisu Fuyumi | Hyouka |
+| Oreki Houtarou | Hyouka |
+| Gu Changge | I Am the Fated Villain |
+| Meng Hao | I Shall Seal the Heavens |
+| Shiba Tatsuya | The Irregular at Magic High School |
+| Pennywise | It (Stephen King) |
+| Jack Reacher | Jack Reacher novels |
+| Imoriya Mato | Jirai Glico |
+| Kei | Kei and Satoshi |
+| Satoshi | Kei and Satoshi |
+| Ye Xiu | The King's Avatar |
+| Chapman Lampard | Kingdom's Bloodline |
+| Kessel | Kingdom's Bloodline |
+| Mindis the Third | Kingdom's Bloodline |
+| Nuven | Kingdom's Bloodline |
+| Thales Jadestar | Kingdom's Bloodline |
+| Iwanaga Kotoko | Kyokou Suiri (In/Spectre) |
+| Paul von Oberstein | Legend of the Galactic Heroes |
+| Reinhard von Lohengramm | Legend of the Galactic Heroes |
+| Siegfried Kircheis | Legend of the Galactic Heroes |
+| Yang Wen-li | Legend of the Galactic Heroes |
+| Han Xiao | The Legendary Mechanic |
+| Shiroe | Log Horizon |
+| Adam | Lord of the Mysteries |
+| Alger Wilson | Lord of the Mysteries |
+| Amon | Lord of the Mysteries |
+| Antigonus | Lord of the Mysteries |
+| Arrodes | Lord of the Mysteries |
+| Audrey Hall | Lord of the Mysteries |
+| Bethel Abraham | Lord of the Mysteries |
+| Cattleya | Lord of the Mysteries |
+| Cwohae | Lord of the Mysteries |
+| Derrick Berg | Lord of the Mysteries |
+| Emlyn White | Lord of the Mysteries |
+| Evernight Goddess | Lord of the Mysteries |
+| Fors Wall | Lord of the Mysteries |
+| George III | Lord of the Mysteries |
+| Hermes | Lord of the Mysteries |
+| Hidden Sage | Lord of the Mysteries |
+| Ince Zangwill | Lord of the Mysteries |
+| Klein Moretti | Lord of the Mysteries |
+| Leonard Mitchell | Lord of the Mysteries |
+| Lumian Lee | Lord of the Mysteries |
+| Medici | Lord of the Mysteries |
+| Ouroboros | Lord of the Mysteries |
+| Roselle Gustav | Lord of the Mysteries |
+| Zaratul | Lord of the Mysteries |
+| Sauron | The Lord of the Rings |
+| Francis Crawford of Lymond | The Lymond Chronicles |
+| Kruppe | Malazan Book of the Fallen |
+| Quick Ben | Malazan Book of the Fallen |
+| Shadowthrone | Malazan Book of the Fallen |
+| Tehol Beddict | Malazan Book of the Fallen |
+| Chu Feng | Martial God Asura |
+| Yang Kai | Martial Peak |
+| Li Chejing | The Mirror Legacy |
+| Anos Voldigoad | The Misfit of Demon King Academy |
+| Lan Wangji | Mo Dao Zu Shi |
+| Nie Huaisang | Mo Dao Zu Shi |
+| Wei Wuxian | Mo Dao Zu Shi |
+| Araragi Koyomi | Monogatari |
+| Gaen Izuko | Monogatari |
+| Hanekawa Tsubasa | Monogatari |
+| Kaiki Deishuu | Monogatari |
+| Zorian Kazinski | Mother of Learning |
+| Rudeus Greyrat | Mushoku Tensei |
+| Chen Ge | My House of Horrors |
+| Kain | My Level Zero System |
+| Li Fan | My Longevity Simulation |
+| Li Changshou | My Senior Brother Is Too Steady |
+| Hikigaya Hachiman | My Teen Romantic Comedy SNAFU (Oregairu) |
+| Yukinoshita Haruno | My Teen Romantic Comedy SNAFU (Oregairu) |
+| Yukinoshita Yukino | My Teen Romantic Comedy SNAFU (Oregairu) |
+| Ning Zhuo | Mysteries of Immortal Puppet Master |
+| Lu Chen | Nine Bestowments |
+| Mei Changsu | Nirvana in Fire |
+| Anton Chigurh | No Country for Old Men |
+| Artosh | No Game No Life |
+| Azril | No Game No Life |
+| Chlammy Zell | No Game No Life |
+| Emir-Eins | No Game No Life |
+| Fiel Nirvalen | No Game No Life |
+| Holou | No Game No Life |
+| Izuna Hatsuse | No Game No Life |
+| Jibril | No Game No Life |
+| Riku Dola | No Game No Life |
+| Schwi Dola | No Game No Life |
+| Shiro | No Game No Life |
+| Sora | No Game No Life |
+| Stephanie Dola | No Game No Life |
+| Tet | No Game No Life |
+| Ian Dunross | Noble House |
+| Han Sooyoung | Omniscient Reader's Viewpoint |
+| Kim Dokja | Omniscient Reader's Viewpoint |
+| Secretive Plotter | Omniscient Reader's Viewpoint |
+| Yoo Joonghyuk | Omniscient Reader's Viewpoint |
+| Wang Lu | Once Upon a Spirit Blade Mountain |
+| Ainz Ooal Gown | Overlord |
+| Albedo | Overlord |
+| Demiurge | Overlord |
+| Fluder Paradyne | Overlord |
+| Jircniv | Overlord |
+| Renner | Overlord |
+| Luther Roy | The Paradoxical Miracle |
+| Aloysius Pendergast | Pendergast novels |
+| Philo Vance | Philo Vance novels |
+| Zhou Ming | Player Lackeys All Over the World |
+| Su Ming | Pursuit of the Truth |
+| Mo Tan | Quadruple Split |
+| Aldebaran | Re:Zero |
+| Anastasia Hoshin | Re:Zero |
+| Crusch Karsten | Re:Zero |
+| Echidna | Re:Zero |
+| Emilia | Re:Zero |
+| Garfiel | Re:Zero |
+| Natsuki Subaru | Re:Zero |
+| Otto Suwen | Re:Zero |
+| Petelgeuse Romanee-Conti | Re:Zero |
+| Regulus Corneas | Re:Zero |
+| Roswaal | Re:Zero |
+| Todd Fang | Re:Zero |
+| Vincent Vollachia | Re:Zero |
+| Han Li | A Record of a Mortal's Journey to Immortality |
+| Keyaruga | Redo of Healer |
+| Lee Kiyoung | Regressor Instruction Manual |
+| Wang Lin | Renegade Immortal |
+| Chung Myung | Return of the Mount Hua Sect |
+| Ba Gui | Reverend Insanity |
+| Bai Ning Bing | Reverend Insanity |
+| Bo Qing | Reverend Insanity |
+| Chang Shan Yin | Reverend Insanity |
+| Chou Jiu | Reverend Insanity |
+| Di Zang Sheng | Reverend Insanity |
+| Dong Fang Chang Fan | Reverend Insanity |
+| Duke Long | Reverend Insanity |
+| Fairy Zi Wei | Reverend Insanity |
+| Fang Di Chang | Reverend Insanity |
+| Fang Yuan | Reverend Insanity |
+| Feng Jin Huang | Reverend Insanity |
+| Feng Jiu Ge | Reverend Insanity |
+| Feng Tian Yu | Reverend Insanity |
+| Gao Wan | Reverend Insanity |
+| Ge Yao | Reverend Insanity |
+| Genesis Lotus Immortal Venerable | Reverend Insanity |
+| Giant Sun Immortal Venerable | Reverend Insanity |
+| Great Dream Immortal Venerable | Reverend Insanity |
+| Gu Yue Bo | Reverend Insanity |
+| Gu Yue Fang Zheng | Reverend Insanity |
+| Gu Yue Mo Chen | Reverend Insanity |
+| Gu Yue Mo Yan | Reverend Insanity |
+| Gu Yue Qing Shu | Reverend Insanity |
+| Hei Lou Lan | Reverend Insanity |
+| Hu Mei Er | Reverend Insanity |
+| Jia Fu | Reverend Insanity |
+| Jia Gui | Reverend Insanity |
+| Jia Jin Sheng | Reverend Insanity |
+| Lang Ya Land Spirit | Reverend Insanity |
+| Limitless Demon Venerable | Reverend Insanity |
+| Long Qing Tian | Reverend Insanity |
+| Lu Wei Yin | Reverend Insanity |
+| Ma Hong Yun | Reverend Insanity |
+| Mao Li Qiu | Reverend Insanity |
+| Mo Bei | Reverend Insanity |
+| Mo Wu Tian | Reverend Insanity |
+| Mo Yao | Reverend Insanity |
+| Old Man Wang | Reverend Insanity |
+| Paradise Earth Immortal Venerable | Reverend Insanity |
+| Primordial Origin Immortal Venerable | Reverend Insanity |
+| Qi Sea Ancestor | Reverend Insanity |
+| Qin Bai Sheng | Reverend Insanity |
+| Qin Ding Ling | Reverend Insanity |
+| Reckless Savage Demon Venerable | Reverend Insanity |
+| Red Lotus Demon Venerable | Reverend Insanity |
+| Ren Zu | Reverend Insanity |
+| Shang Xin Ci | Reverend Insanity |
+| Shang Yan Fei | Reverend Insanity |
+| Shen Cui | Reverend Insanity |
+| Shen Shang | Reverend Insanity |
+| Spectral Soul Demon Venerable | Reverend Insanity |
+| Star Constellation Immortal Venerable | Reverend Insanity |
+| Tai Bai Yun Sheng | Reverend Insanity |
+| Tao Zhu | Reverend Insanity |
+| Thieving Heaven Demon Venerable | Reverend Insanity |
+| Tie Ruo Nan | Reverend Insanity |
+| Tie Xue Leng | Reverend Insanity |
+| Wang Da | Reverend Insanity |
+| Wei Ling Yang | Reverend Insanity |
+| Wu Shen Tong | Reverend Insanity |
+| Wu Shuai | Reverend Insanity |
+| Wu Yi Hai | Reverend Insanity |
+| Wu Yong | Reverend Insanity |
+| Xiao Mang | Reverend Insanity |
+| Xie Han Mo | Reverend Insanity |
+| Xu Hao | Reverend Insanity |
+| Xu Tuo | Reverend Insanity |
+| Yan Jun | Reverend Insanity |
+| Ying Ming | Reverend Insanity |
+| Ying Wu Xie | Reverend Insanity |
+| Zhan Bu Du | Reverend Insanity |
+| Zhang San San | Reverend Insanity |
+| Alya | Roshidere |
+| Kuze Masachika | Roshidere |
+| Miyamae Nonoa | Roshidere |
+| Suou Yuki | Roshidere |
+| Hans von Zettour | The Saga of Tanya the Evil |
+| Tanya Degurechaff | The Saga of Tanya the Evil |
+| James Talloran | SCP Foundation |
+| Marion Wheeler | SCP Foundation |
+| Murphy Lawden | SCP Foundation |
+| Anasurimbor Kellhus | The Second Apocalypse (The Prince of Nothing) |
+| Anvil | Shadow Slave |
+| Ariel | Shadow Slave |
+| Cassie | Shadow Slave |
+| Ki Song | Shadow Slave |
+| Mordret | Shadow Slave |
+| Nephis | Shadow Slave |
+| Sunless | Shadow Slave |
+| Charles Augustus Milverton | Sherlock Holmes (Arthur Conan Doyle) |
+| Dr. John Watson | Sherlock Holmes (Arthur Conan Doyle) |
+| Inspector Lestrade | Sherlock Holmes (Arthur Conan Doyle) |
+| Irene Adler | Sherlock Holmes (Arthur Conan Doyle) |
+| Mycroft Holmes | Sherlock Holmes (Arthur Conan Doyle) |
+| Professor Moriarty | Sherlock Holmes (Arthur Conan Doyle) |
+| Sebastian Moran | Sherlock Holmes (Arthur Conan Doyle) |
+| Sherlock Holmes | Sherlock Holmes (Arthur Conan Doyle) |
+| Gu Wen | Sinmonger |
+| Tea Immortal | Sinmonger |
+| Tian Yi | Sinmonger |
+| Sung Jinwoo | Solo Leveling |
+| Colonel Timo | Solo Max-Level Newbie |
+| Kang Jinhyuk | Solo Max-Level Newbie |
+| Player Unknown | Solo Max-Level Newbie |
+| Petyr Baelish (Littlefinger) | A Song of Ice and Fire |
+| Tyrion Lannister | A Song of Ice and Fire |
+| Tywin Lannister | A Song of Ice and Fire |
+| Varys | A Song of Ice and Fire |
+| Tang San | Soul Land |
+| Kim Gong-ja | SSS-Class Suicide Hunter |
+| Grand Admiral Thrawn | Star Wars: Thrawn novels |
+| Zhuo Yifan | The Steward Demonic Emperor |
+| Raul Evans | The Strongest Hero Who Craves Revenge (Fukushuu wo Koinegau Saikyou Yuusha) |
+| Kirito | Sword Art Online |
+| Qin Mu | Tales of Herding Gods |
+| Lin Qin | Ten Days Ultimatum |
+| Qi Xia | Ten Days Ultimatum |
+| Qiao Jiajin | Ten Days Ultimatum |
+| Li Qing | The Terrible Eternal Path |
+| Chu Xuan | Terror Infinity |
+| Zheng Zha | Terror Infinity |
+| Rimuru Tempest | That Time I Got Reincarnated as a Slime |
+| Ning Ye | The Thousand Mechanisms Palace |
+| Luo Ji | The Three-Body Problem |
+| Feng Bujue | Thriller Paradise |
+| Han Jue | Top Tier Providence |
+| Cale Henituse | Trash of the Count's Family |
+| Bai Zhi | Underworld Player |
+| Aaron Smith-Teller | Unsong |
+| Albion | Unsong |
+| Comet King | Unsong |
+| Thamiel | Unsong |
+| Uriel | Unsong |
+| Angel of Wisdom | Vile Dominion |
+| Elemental Emperor | Vile Dominion |
+| He Fan | Vile Dominion |
+| Huang Weimin | Vile Dominion |
+| Immortal Chen | Vile Dominion |
+| Ji Changchen | Vile Dominion |
+| Jin Bo | Vile Dominion |
+| Jin Huang | Vile Dominion |
+| Jin Long | Vile Dominion |
+| Kong Xuan | Vile Dominion |
+| Li Gang | Vile Dominion |
+| Lin Fan | Vile Dominion |
+| Meng Xian | Vile Dominion |
+| Ren Ying | Vile Dominion |
+| Timeless Demon God | Vile Dominion |
+| Wang Xueyao | Vile Dominion |
+| Zudas | Vile Dominion |
+| Chen Xiao | Waking Up to Find Myself Burdened with 40 Murders |
+| Bai Xiaochun | A Will Eternal |
+| Gu Qingshan | World's Apocalypse Online |
+| Coil | Worm |
+| Contessa | Worm |
+| Dinah Alcott | Worm |
+| Jack Slash | Worm |
+| Number Man | Worm |
+| Tattletale | Worm |
+| Taylor Hebert | Worm |
+| Xue Huai | Your Excellency, the Prime Minister |
+| Ii-chan | Zaregoto |
+| Kunagisa Tomo | Zaregoto |
+| Bai Ding Zhe | Undiscovered |
+| Bai Yu | Undiscovered |
+| Bai Zhe | Undiscovered |
+| Chen Changsheng | Undiscovered |
+| Chen Jie | Undiscovered |
+| Devil Advisor | Undiscovered |
+| Duan Lou | Undiscovered |
+| Gao Chuan | Undiscovered |
+| Gu Shiyan | Undiscovered |
+| Heiti Taizheng | Undiscovered |
+| Jiang Shen | Undiscovered |
+| Lin Yu | Undiscovered |
+| Long Chian | Undiscovered |
+| Ocrevius | Undiscovered |
+| Qi Jia | Undiscovered |
+| Ro Zha | Undiscovered |
+| Sou Loang | Undiscovered |
+| Tan Mo | Undiscovered |
+| Tarantulian Demon | Undiscovered |
+| The Founder | Undiscovered |
+| Vereiya | Undiscovered |
+| Wang Wei | Undiscovered |
+| Xie Wuming | Undiscovered |
+| Zha Hiangtan | Undiscovered |
+| Zi Chen | Undiscovered |

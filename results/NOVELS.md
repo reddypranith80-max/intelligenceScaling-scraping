@@ -1,0 +1,166 @@
+# Every novel discussed in r/IntelligenceScaling
+
+Source: the full r/IntelligenceScaling archive, 44,474 posts and 710,836 comments, 2023-11-10 to 2026-11-13 (UTC).
+Every name below is mentioned in the archive at least once, and its novel was checked against what the posts and comments themselves say.
+
+## Web novels (81)
+
+- 18 Levels of Hell: Lying Is Forbidden Here
+- Aspiring to the Immortal Path
+- The Beginning After the End
+- Being a Talent in Chusheng Demon Sect
+- Blackstone Code
+- Blood Gates
+- The Cicada's Song Accompanies Yangxi
+- Court of the Sword-Treading
+- Dafeng's Night Squad
+- The Daily Life of the Immortal King
+- Dao of the Bizarre Immortal
+- Dedicate One's Mind
+- The Demon World I Designed
+- Detective Training Manual
+- Divine Throne of Primordial Blood
+- Dragon Talisman
+- Dungeon Defense
+- Emperor's Domination
+- Ever Night
+- Everlasting Immortal Firmament
+- The Extra's Academy Survival Guide
+- Forty Millenniums of Cultivation
+- The Genius Who Reads Through the World
+- God's Imitator
+- The Grandmaster Strategist
+- Heaven Official's Blessing
+- Heavenly Genius
+- Heavenly Saint Thief
+- History's Strongest Senior Brother
+- I Am the Fated Villain
+- I Shall Seal the Heavens
+- The King's Avatar
+- Kingdom's Bloodline
+- The Legendary Mechanic
+- Lord of the Mysteries
+- Martial God Asura
+- Martial Peak
+- The Mirror Legacy
+- Mo Dao Zu Shi
+- Mother of Learning
+- My House of Horrors
+- My Level Zero System
+- My Longevity Simulation
+- My Senior Brother Is Too Steady
+- Mysteries of Immortal Puppet Master
+- Nine Bestowments
+- Nirvana in Fire
+- Omniscient Reader's Viewpoint
+- Once Upon a Spirit Blade Mountain
+- Player Lackeys All Over the World
+- Pursuit of the Truth
+- Quadruple Split
+- A Record of a Mortal's Journey to Immortality
+- Regressor Instruction Manual
+- Renegade Immortal
+- Return of the Mount Hua Sect
+- Reverend Insanity
+- SCP Foundation
+- Shadow Slave
+- Sinmonger
+- Solo Leveling
+- Solo Max-Level Newbie
+- Soul Land
+- SSS-Class Suicide Hunter
+- The Steward Demonic Emperor
+- Tales of Herding Gods
+- Ten Days Ultimatum
+- The Terrible Eternal Path
+- Terror Infinity
+- The Thousand Mechanisms Palace
+- Thriller Paradise
+- Top Tier Providence
+- Trash of the Count's Family
+- Underworld Player
+- Unsong
+- Vile Dominion
+- Waking Up to Find Myself Burdened with 40 Murders
+- A Will Eternal
+- World's Apocalypse Online
+- Worm
+- Your Excellency, the Prime Minister
+
+## Community-written web fiction (6)
+
+- An Ordinary Path through an Incredulous Life
+- The Blind Observer
+- The Endless Food Chain
+- Endless Wonders
+- Kei and Satoshi
+- The Paradoxical Miracle
+
+## Light novels (28)
+
+- Alderamin on the Sky
+- The Apothecary Diaries
+- Classroom of the Elite
+- Death Note Another Note: The Los Angeles BB Murder Cases
+- The Detective Is Already Dead
+- Durarara!!
+- The Eminence in Shadow
+- The Empty Box and Zeroth Maria (Hakomari)
+- Failure Frame
+- Fate/Zero
+- The Genius Prince's Guide to Raising a Nation Out of Debt
+- Hyouka
+- The Irregular at Magic High School
+- Log Horizon
+- The Misfit of Demon King Academy
+- Monogatari
+- Mushoku Tensei
+- My Teen Romantic Comedy SNAFU (Oregairu)
+- No Game No Life
+- Overlord
+- Re:Zero
+- Redo of Healer
+- Roshidere
+- The Saga of Tanya the Evil
+- The Strongest Hero Who Craves Revenge (Fukushuu wo Koinegau Saikyou Yuusha)
+- Sword Art Online
+- That Time I Got Reincarnated as a Slime
+- Zaregoto
+
+## Other published novels (35)
+
+- Agatha Christie novels
+- American Psycho
+- Arsène Lupin novels
+- Artemis Fowl
+- Blood Meridian
+- C. Auguste Dupin stories (Edgar Allan Poe)
+- The Count of Monte Cristo
+- Cthulhu Mythos (H. P. Lovecraft)
+- The Devotion of Suspect X (Detective Galileo)
+- Discworld
+- Dune
+- Ender's Game
+- Erast Fandorin novels
+- Father Brown stories
+- Fight Club
+- Forst series (Remigiusz Mróz)
+- Hannibal Lecter novels (Thomas Harris)
+- Harry Potter
+- It (Stephen King)
+- Jack Reacher novels
+- Jirai Glico
+- Kyokou Suiri (In/Spectre)
+- Legend of the Galactic Heroes
+- The Lord of the Rings
+- The Lymond Chronicles
+- Malazan Book of the Fallen
+- No Country for Old Men
+- Noble House
+- Pendergast novels
+- Philo Vance novels
+- The Second Apocalypse (The Prince of Nothing)
+- Sherlock Holmes (Arthur Conan Doyle)
+- A Song of Ice and Fire
+- Star Wars: Thrawn novels
+- The Three-Body Problem

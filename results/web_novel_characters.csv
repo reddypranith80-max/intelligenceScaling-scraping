@@ -1,470 +1,324 @@
-﻿character,work,group,note,mentions,posts,comments,y2023,y2024,y2025,y2026,first,last,top_cowork,aliases
-Fang Yuan,Reverend Insanity,repo-labelled,,9507,1231,8276,8,1098,5264,3137,2023-11-10,2026-11-03,Reverend Insanity (491); 18 Levels of Hell (186); Lord of the Mysteries (87),"!Yuan, fang yuan, yuan fang"
-Chen Ran,18 Levels of Hell,repo-labelled,,5608,765,4843,0,0,701,4907,2025-11-07,2026-11-03,18 Levels of Hell (681); Reverend Insanity (64); Heavenly Genius (64),chen ran
-Klein Moretti,Lord of the Mysteries,repo-labelled,,1164,151,1013,7,149,579,429,2023-11-10,2026-11-02,Lord of the Mysteries (173); Reverend Insanity (40); 18 Levels of Hell (14),"!Klein, klein moretti"
-Ang Xiao,Struggling to Survive in the Demonic Sect,repo-labelled,,1052,146,906,0,0,276,776,2025-10-18,2026-11-03,18 Levels of Hell (131); Heavenly Genius (55); Vile Dominion (37),ang xiao
-Li Gang (Vile Dominion),Vile Dominion,repo-labelled,,833,119,714,0,0,403,430,2025-05-23,2026-11-01,Vile Dominion (102); 18 Levels of Hell (49); Reverend Insanity (26),"li gang, li gang (vile dominion)"
-Li Gang,Vile Dominion,variant,spelling/partial form of Li Gang (Vile Dominion),829,116,713,0,0,401,428,2025-09-19,2026-11-01,Vile Dominion (98); 18 Levels of Hell (47); Reverend Insanity (24),li gang
-Niu Youdao,Heavenly Genius,repo-labelled,,711,121,590,0,0,0,711,2026-02-03,2026-11-01,Heavenly Genius (122); 18 Levels of Hell (69); The Demon World I Designed (27),"niu youdao, youdao"
-Kang Jinhyuk,Solo Max-Level Newbie,repo-labelled,,377,61,316,0,14,110,253,2024-06-08,2026-10-31,Solo Max-Level Newbie (62); 18 Levels of Hell (38); Heavenly Genius (20),"jinhyeok, jinhyuk, kang jinhyeok, kang jinhyuk"
-Spectral Soul Demon Venerable,Reverend Insanity,extended search,,377,64,313,0,17,211,149,2024-01-06,2026-11-01,Reverend Insanity (28); Lord of the Mysteries (5); Vile Dominion (5),spectral soul
-Lu Yang,(unidentified web novel),repo-labelled,,355,39,316,0,0,86,269,2025-09-23,2026-11-01,18 Levels of Hell (35); Heavenly Genius (23); Vile Dominion (15),lu yang
-Adam,Lord of the Mysteries,extended search,ambiguous name: count may include unrelated uses,338,45,293,2,16,200,120,2023-11-13,2026-11-03,Lord of the Mysteries (77); Reverend Insanity (8); Unsong (3),"!Adam, adam, adam grisha"
-Qiu Yinong,18 Levels of Hell,repo-labelled,,337,60,277,0,0,31,306,2025-11-14,2026-11-01,18 Levels of Hell (76); Vile Dominion (6); Heavenly Genius (4),"qiu yinong, yinong"
-Wisdom Gu,Reverend Insanity,repo-labelled,,313,18,295,0,25,140,148,2024-04-28,2026-10-27,Reverend Insanity (15); Worm (9); Gu Zhen Ren (2),wisdom gu
-Amon,Lord of the Mysteries,extended search,ambiguous name: count may include unrelated uses,311,48,263,2,28,179,102,2023-11-13,2026-10-30,Lord of the Mysteries (70); Reverend Insanity (11); Shadow Slave (4),"!Amon, amon"
-Red Lotus Demon Venerable,Reverend Insanity,extended search,ambiguous name: count may include unrelated uses,292,29,263,0,17,163,112,2024-06-08,2026-11-02,Reverend Insanity (22); Lord of the Mysteries (7); Vile Dominion (3),red lotus
-Star Constellation Immortal Venerable,Reverend Insanity,extended search,,286,36,250,0,41,153,92,2024-01-06,2026-10-30,Reverend Insanity (37); Worm (8); Lord of the Mysteries (5),star constellation
-Sinful Hospital,18 Levels of Hell,not a character,place (18 Levels of Hell),274,52,222,0,0,0,274,2026-01-13,2026-10-30,18 Levels of Hell (60); Reverend Insanity (3); Heavenly Genius (2),sinful hospital
-Qi Xia,Ten Days Ultimatum,repo-labelled,,267,47,220,0,0,53,214,2025-05-03,2026-10-27,Ten Days Ultimatum (30); 18 Levels of Hell (24); Vile Dominion (13),qi xia
-Shu Renjun,18 Levels of Hell,repo-labelled,,264,41,223,0,0,5,259,2025-12-09,2026-11-01,18 Levels of Hell (72); Heavenly Genius (11); Vile Dominion (10),"renjun, shu renjun"
-Chen Yang,18 Levels of Hell,repo-labelled,,264,31,233,0,0,3,261,2025-12-21,2026-11-01,18 Levels of Hell (36); Vile Dominion (5); Heavenly Genius (4),chen yang
-Cai Zhiyuan,God's Imitator,repo-labelled,,262,52,210,0,0,0,262,2026-03-03,2026-10-28,18 Levels of Hell (43); Heavenly Genius (20); Solo Max-Level Newbie (13),"cai zhiyuan, cai zhuyuan, zhiyuan"
-Lin Sizhi,God's Imitator,repo-labelled,,239,40,199,0,0,2,237,2025-12-29,2026-10-28,18 Levels of Hell (34); God's Imitator (13); Heavenly Genius (10),"lin sizhi, sizhi"
-Shen Jihan,(unidentified web novel),repo-labelled,,233,36,197,0,0,0,233,2026-01-31,2026-11-01,18 Levels of Hell (6); Reverend Insanity (2); The Demon World I Designed (2),"jihan, shen jihan"
-Bai Ning Bing,Reverend Insanity,repo-labelled,,230,30,200,0,21,132,77,2024-01-06,2026-10-28,Reverend Insanity (27); Worm (13); Lord of the Mysteries (3),"bai ning bing, ning bing"
-Li Qing,The Terrible Eternal Path,repo-labelled,,220,27,193,0,0,55,165,2025-07-13,2026-10-29,The Terrible Eternal Path (21); Vile Dominion (13); 18 Levels of Hell (12),li qing
-Mo Yao,(unidentified web novel),repo-labelled,,207,9,198,0,7,98,102,2024-07-08,2026-10-17,Reverend Insanity (8); Worm (3); 18 Levels of Hell (3),mo yao
-Jin Huang,Vile Dominion,repo-labelled,,204,24,180,0,0,146,58,2025-10-07,2026-10-27,Vile Dominion (19); 18 Levels of Hell (9); Reverend Insanity (4),jin huang
-Diwu Zhiyi,(unidentified web novel),repo-labelled,,202,53,149,0,0,1,201,2025-12-29,2026-10-30,18 Levels of Hell (51); Heavenly Genius (5); Vile Dominion (5),"di wu zhi yi, diwu zhiyi, wu zhi yi"
-Chusheng Demon Sect,Struggling to Survive in the Demonic Sect,not a character,faction (Struggling to Survive in the Demonic Sect),192,54,138,0,0,42,150,2025-09-23,2026-10-31,18 Levels of Hell (87); Heavenly Genius (51); Vile Dominion (41),"chusheng demon sect, chusheng sect"
-Tian Yi,Sinmonger,repo-labelled,,168,30,138,0,0,0,168,2026-03-27,2026-10-30,Sinmonger (31); 18 Levels of Hell (11); Heavenly Genius (7),"tian yi, tianyi"
-Heavenly Court,Reverend Insanity,not a character,faction (Reverend Insanity),166,14,152,0,15,81,70,2024-01-06,2026-10-20,Reverend Insanity (14); Worm (5); Gu Zhen Ren (3),heavenly court
-Lin Xuan,18 Levels of Hell,repo-labelled,,164,32,132,0,0,0,164,2026-01-13,2026-11-01,18 Levels of Hell (35); Vile Dominion (2); Solo Max-Level Newbie (2),lin xuan
-Giant Sun Immortal Venerable,Reverend Insanity,extended search,ambiguous name: count may include unrelated uses,163,14,149,0,5,80,78,2024-06-08,2026-11-02,Reverend Insanity (10); Lord of the Mysteries (2); Worm (2),giant sun
-Lin Ou,18 Levels of Hell,repo-labelled,,161,26,135,0,0,0,161,2026-01-31,2026-11-01,18 Levels of Hell (50); Reverend Insanity (3); Vile Dominion (3),lin ou
-Fate Gu,Reverend Insanity,discovered,"work inferred from co-mentions (22), not verified",151,15,136,0,4,98,49,2024-01-20,2026-11-02,Reverend Insanity (17); Worm (5); Vile Dominion (2),fate gu
-Pun Yunchuan,The Demon World I Designed,repo-labelled,,146,39,107,0,0,0,146,2026-05-03,2026-10-27,The Demon World I Designed (25); Heavenly Genius (19); 18 Levels of Hell (19),"pun yunchuan, yunchuan"
-Colonel Timo,God's Imitator,repo-labelled,,143,21,122,0,0,14,129,2025-08-30,2026-10-23,Solo Max-Level Newbie (29); Heavenly Genius (28); 18 Levels of Hell (26),"colonel timo, timo"
-The Fool (Klein),Lord of the Mysteries,extended search,,132,18,114,0,10,65,57,2024-09-11,2026-11-02,Lord of the Mysteries (15); Reverend Insanity (2); Shadow Slave (1),"mr fool, mr. fool, the fool"
-Lu Chen,Nine Bestowments,repo-labelled,,126,21,105,0,0,0,126,2026-05-28,2026-11-01,Nine Bestowments (33); 18 Levels of Hell (14); Heavenly Genius (13),lu chen
-Mu Zixuan,Court of the Sword-Treading,repo-labelled,,119,20,99,0,0,0,119,2026-07-04,2026-10-31,Nine Bestowments (21); 18 Levels of Hell (20); Heavenly Genius (19),"mu zixuan, zixuan"
-Yue Guanshan,(unidentified web novel),repo-labelled,,118,24,94,0,0,0,118,2026-02-16,2026-11-01,18 Levels of Hell (31); Reverend Insanity (1); Solo Max-Level Newbie (1),"guanshan, yue guanshan"
-Xing Su,Reverend Insanity,repo-labelled,,116,9,107,0,23,71,22,2024-06-15,2026-09-26,Reverend Insanity (5); Lord of the Mysteries (2); Worm (1),xing su
-Gu Yue,Reverend Insanity,repo-labelled,,116,17,99,0,3,46,67,2024-02-05,2026-10-19,Reverend Insanity (14); Worm (13); Gu Zhen Ren (2),gu yue
-Xue Yin,(unidentified web novel),repo-labelled,,110,25,85,0,0,0,110,2026-04-15,2026-10-29,Heavenly Genius (2); 18 Levels of Hell (1),xue yin
-Sunny (Sunless),Shadow Slave,extended search,ambiguous name: count may include unrelated uses,108,16,92,0,1,71,36,2024-09-11,2026-10-22,Shadow Slave (13); Lord of the Mysteries (5); 18 Levels of Hell (1),"!Sunny, sunless"
-Wang Lu,Once Upon a Spirit Blade Mountain,repo-labelled,,102,11,91,0,5,67,30,2024-07-04,2026-10-30,Solo Max-Level Newbie (5); Vile Dominion (5); 18 Levels of Hell (5),wang lu
-Mo Tan,(unidentified web novel),repo-labelled,,102,19,83,0,0,0,102,2026-06-19,2026-11-02,18 Levels of Hell (10); Nine Bestowments (9); Heavenly Genius (7),mo tan
-Gui Yu,(unidentified web novel),repo-labelled,,98,18,80,0,0,8,90,2025-12-05,2026-10-26,18 Levels of Hell (21); Heavenly Genius (1); Reverend Insanity (1),gui yu
-Spring Autumn Cicada (Gu),Reverend Insanity,not a character,item / Gu (Reverend Insanity),98,12,86,0,9,54,35,2024-01-06,2026-10-19,Reverend Insanity (9); Worm (5); Lord of the Mysteries (4),spring autumn cicada
-Fang Zheng,Reverend Insanity,repo-labelled,,95,13,82,0,11,56,28,2024-11-18,2026-10-28,Reverend Insanity (10); Worm (4); Lord of the Mysteries (2),fang zheng
-Kim Dokja,Omniscient Reader's Viewpoint,repo-labelled,,92,7,85,0,0,68,24,2025-02-11,2026-09-24,Omniscient Reader's Viewpoint (4); Reverend Insanity (2); Lord of the Mysteries (2),"dokja, kim dokja"
-Ren Zu,(unidentified web novel),repo-labelled,,86,3,83,0,1,37,48,2024-07-17,2026-11-02,Reverend Insanity (10); Gu Zhen Ren (3); Worm (2),ren zu
-Duke Long,Reverend Insanity,extended search,ambiguous name: count may include unrelated uses,83,4,79,0,5,41,37,2024-01-20,2026-10-30,Reverend Insanity (4); 18 Levels of Hell (2); Gu Zhen Ren (1),duke long
-Zhen Ren,?,not a character,"part of author name ""Gu Zhen Ren""",83,13,70,0,12,38,33,2024-02-10,2026-10-26,Reverend Insanity (72); Gu Zhen Ren (72); 18 Levels of Hell (2),zhen ren
-Chen Qing,The Demon World I Designed,repo-labelled,,79,10,69,0,0,0,79,2026-02-19,2026-10-27,The Demon World I Designed (13); 18 Levels of Hell (11); Heavenly Genius (8),chen qing
-Ning Yu,(unidentified web novel),repo-labelled,,74,3,71,0,0,0,74,2026-09-09,2026-10-31,18 Levels of Hell (3),ning yu
-Xuan Luo,(unidentified web novel),repo-labelled,,64,9,55,0,0,0,64,2026-07-23,2026-10-23,Heavenly Genius (2),xuan luo
-Wang Wei,poet / common name,excluded (not web novel),,64,7,57,0,7,24,33,2024-07-04,2026-10-23,Reverend Insanity (3); Lord of the Mysteries (3); 18 Levels of Hell (3),wang wei
-Gu Chensha,(unidentified web novel),discovered,work from my own identification,64,8,56,0,0,1,63,2025-12-28,2026-10-31,18 Levels of Hell (2); Heavenly Genius (1); Perfect World (1),gu chensha
-Jia Jin Sheng,Reverend Insanity,discovered,"work inferred from co-mentions (14), not verified",58,12,46,0,1,19,38,2024-11-29,2026-10-13,Reverend Insanity (8); Worm (5); Gu Zhen Ren (1),jia jin sheng
-Shadow Sect,Reverend Insanity,not a character,faction (Reverend Insanity),57,1,56,0,1,34,22,2024-01-06,2026-10-01,Reverend Insanity (3); 18 Levels of Hell (2); Worm (1),shadow sect
-Wu Yong (RI),Reverend Insanity,extended search,ambiguous name: count may include unrelated uses,57,4,53,0,2,23,32,2024-06-08,2026-10-19,Reverend Insanity (5); Lord of the Mysteries (2); Worm (2),wu yong
-Chen Ren,18 Levels of Hell,variant,spelling/partial form of Chen Ran,56,10,46,0,0,7,49,2025-11-18,2026-10-10,18 Levels of Hell (6),chen ren
-Jiang Zhe,The Grandmaster Strategist,repo-labelled,,55,16,39,0,1,18,36,2024-10-03,2026-11-02,18 Levels of Hell (12); The Grandmaster Strategist (8); Solo Max-Level Newbie (4),jiang zhe
-Paradise Earth Immortal Venerable,Reverend Insanity,extended search,,52,6,46,0,1,24,27,2024-12-03,2026-11-02,Reverend Insanity (6); Lord of the Mysteries (1); Vile Dominion (1),paradise earth
-Ouroboros,Lord of the Mysteries,extended search,ambiguous name: count may include unrelated uses,52,11,41,0,5,20,27,2024-11-05,2026-11-02,Pact (1); Heavenly Genius (1),ouroboros
-Thieving Heaven Demon Venerable,Reverend Insanity,extended search,,51,3,48,0,0,19,32,2025-02-13,2026-10-30,Reverend Insanity (6); Gu Zhen Ren (2); Lord of the Mysteries (1),thieving heaven
-Bai Long,(unidentified web novel),discovered,work from my own identification,51,3,48,0,1,41,9,2024-10-24,2026-10-15,,bai long
-Geng Hao,(unidentified web novel),repo-labelled,,49,14,35,0,0,11,38,2025-12-22,2026-10-21,18 Levels of Hell (16); Ten Days Ultimatum (1); Reverend Insanity (1),geng hao
-Genesis Lotus Immortal Venerable,Reverend Insanity,extended search,,49,5,44,0,0,27,22,2025-03-08,2026-11-02,Reverend Insanity (4); Lord of the Mysteries (1); Vile Dominion (1),genesis lotus
-Yi Tian,Reverend Insanity,discovered,"work inferred from co-mentions (2), not verified",48,3,45,0,0,13,35,2025-03-11,2026-11-01,Worm (2); 18 Levels of Hell (1),yi tian
-Wu Shuai,(unidentified web novel),repo-labelled,,47,0,47,0,0,34,13,2025-01-20,2026-09-08,Reverend Insanity (5); Lord of the Mysteries (2); 18 Levels of Hell (2),wu shuai
-Reckless Savage Demon Venerable,Reverend Insanity,extended search,,44,4,40,0,4,13,27,2024-10-12,2026-11-01,Reverend Insanity (2),reckless savage
-Kan Ki,Japanese name,excluded (not web novel),,43,3,40,0,2,30,11,2024-05-29,2026-05-15,Solo Max-Level Newbie (1); Unsong (1),kan ki
-Long Hui,18 Levels of Hell,discovered,"work inferred from co-mentions (7), not verified",42,8,34,0,0,0,42,2026-01-11,2026-10-29,18 Levels of Hell (7),long hui
-Zi Wei Fairy,Reverend Insanity,extended search,ambiguous name: count may include unrelated uses,41,5,36,0,2,23,16,2024-06-08,2026-10-31,Reverend Insanity (5); Lord of the Mysteries (2); Gu Zhen Ren (1),zi wei
-Audrey Hall,Lord of the Mysteries,extended search,,41,11,30,0,2,27,12,2024-06-08,2026-10-19,Lord of the Mysteries (10); Shadow Slave (2); Solo Max-Level Newbie (1),"!Audrey, audrey hall"
-Duo Jie,18 Levels of Hell,discovered,"work inferred from co-mentions (7), not verified",41,10,31,0,0,0,41,2026-01-11,2026-10-29,18 Levels of Hell (7),duo jie
-Lin Qi,18 Levels of Hell,discovered,"work inferred from co-mentions (8), not verified",41,7,34,0,1,1,39,2024-07-03,2026-10-11,18 Levels of Hell (8); Heavenly Genius (3); Solo Max-Level Newbie (3),lin qi
-Dong Fang Chang,Reverend Insanity,discovered,"work inferred from co-mentions (3), not verified",41,4,37,0,1,29,11,2024-12-28,2026-10-31,Reverend Insanity (3); Lord of the Mysteries (1); Vile Dominion (1),dong fang chang
-Li Hailong,(unidentified web novel),repo-labelled,,40,10,30,0,0,0,40,2026-06-29,2026-11-01,18 Levels of Hell (7),li hailong
-Tie Ruo Nan,(unidentified web novel),repo-labelled,,40,9,31,0,1,20,19,2024-06-08,2026-10-19,Worm (5); Reverend Insanity (4); Lord of the Mysteries (1),tie ruo nan
-Limitless Demon Venerable,Reverend Insanity,extended search,,40,6,34,0,6,19,15,2024-05-08,2026-10-17,Reverend Insanity (5); Lord of the Mysteries (1); Vile Dominion (1),"limitless demon, limitless demon venerable"
-Long Chian,Sinmonger,discovered,"work inferred from co-mentions (2), not verified",40,8,32,0,0,31,9,2025-11-18,2026-08-07,Sinmonger (2); Vile Dominion (1); The Grandmaster Strategist (1),long chian
-Li Zhitong,(unidentified web novel),repo-labelled,,39,14,25,0,0,5,34,2025-12-23,2026-10-29,18 Levels of Hell (13),li zhitong
-Primordial Origin Immortal Venerable,Reverend Insanity,extended search,,39,7,32,0,2,14,23,2024-01-20,2026-10-17,Reverend Insanity (6); 18 Levels of Hell (1),primordial origin
-Fang Yuan (Gu Yue Fang Yuan),Reverend Insanity,extended search,,39,5,34,0,0,17,22,2025-01-06,2026-10-26,Reverend Insanity (6); 18 Levels of Hell (1); Worm (1),gu yue fang yuan
-Bai Xiuchi,18 Levels of Hell,discovered,"work inferred from co-mentions (11), not verified",39,6,33,0,0,4,35,2025-12-21,2026-10-29,18 Levels of Hell (11),bai xiuchi
-Bai Zhe,Vile Dominion,discovered,"work inferred from co-mentions (2), not verified",38,3,35,0,0,23,15,2025-08-18,2026-10-27,Vile Dominion (2); 18 Levels of Hell (2); Solo Max-Level Newbie (1),bai zhe
-Di Wu,(unidentified web novel),variant,spelling/partial form of Diwu Zhiyi,38,5,33,0,0,4,34,2025-11-30,2026-10-29,18 Levels of Hell (5),di wu
-Thales,Kingdom's Bloodline,variant,spelling/partial form of Thales Jadestar,36,4,32,0,0,26,10,2025-06-19,2026-10-25,Kingdom's Bloodline (5); Reverend Insanity (2); Lord of the Mysteries (2),thales
-Cheng Si,18 Levels of Hell,discovered,"work inferred from co-mentions (14), not verified",36,14,22,0,0,0,36,2026-03-29,2026-10-29,18 Levels of Hell (14),cheng si
-Hua Changsheng,18 Levels of Hell,discovered,"work inferred from co-mentions (15), not verified",36,13,23,0,0,0,36,2026-02-23,2026-10-30,18 Levels of Hell (15); Nine Bestowments (2); Sinmonger (1),hua changsheng
-Feng Jiu Ge,Reverend Insanity,extended search,,35,6,29,0,2,10,23,2024-06-08,2026-10-31,Reverend Insanity (4); Lord of the Mysteries (3); Solo Max-Level Newbie (1),"feng jiu ge, feng jiuge"
-Baili Qiangsheng,18 Levels of Hell,discovered,"work inferred from co-mentions (20), not verified",34,17,17,0,0,0,34,2026-03-07,2026-10-29,18 Levels of Hell (20); Vile Dominion (1); Heavenly Genius (1),baili qiangsheng
-Koro Sensei,Assassination Classroom,excluded (not web novel),,34,7,27,0,6,21,7,2024-10-04,2026-07-19,,koro sensei
-Sung Jinwoo,Solo Leveling,extended search,,33,0,33,0,3,23,7,2024-11-27,2026-10-22,Solo Leveling (3); Reverend Insanity (2); Solo Max-Level Newbie (2),"jinwoo, sung jin-woo, sung jinwoo"
-Li Guang,historical general,excluded (not web novel),,32,9,23,0,0,0,32,2026-06-12,2026-10-27,,li guang
-Hei Lou Lan,Reverend Insanity,extended search,,31,3,28,0,1,18,12,2024-10-20,2026-10-06,Reverend Insanity (4); Worm (1); Lord of the Mysteries (1),"hei lou lan, hei loulan"
-Thales Jadestar,Kingdom's Bloodline,extended search,ambiguous name: count may include unrelated uses,31,4,27,0,0,23,8,2025-06-19,2026-10-25,Kingdom's Bloodline (5); Reverend Insanity (2); Lord of the Mysteries (2),"!Thales, tales jadestar"
-Feng Qirui,18 Levels of Hell,discovered,"work inferred from co-mentions (11), not verified",31,6,25,0,0,0,31,2026-02-17,2026-11-01,18 Levels of Hell (11); Reverend Insanity (1),feng qirui
-Diwu Zeyi,18 Levels of Hell,discovered,"work inferred from co-mentions (7), not verified",30,7,23,0,0,10,20,2025-12-15,2026-10-11,18 Levels of Hell (7),diwu zeyi
-Qin Cheng,18 Levels of Hell,discovered,"work inferred from co-mentions (4), not verified",30,4,26,0,0,0,30,2026-08-05,2026-10-28,18 Levels of Hell (4); God's Imitator (2); Sinmonger (1),qin cheng
-Qing Mao,?,not a character,place: Qing Mao Mountain (Reverend Insanity),30,6,24,0,2,16,12,2024-12-08,2026-08-29,Reverend Insanity (4); Worm (1); 18 Levels of Hell (1),qing mao
-Jia Fu,(unidentified web novel),repo-labelled,,29,5,24,0,0,7,22,2025-04-14,2026-09-29,Worm (6); Reverend Insanity (4),jia fu
-Evernight Goddess,Lord of the Mysteries,extended search,ambiguous name: count may include unrelated uses,28,0,28,0,1,19,8,2024-06-08,2026-10-12,Lord of the Mysteries (7); Solo Max-Level Newbie (1); 18 Levels of Hell (1),evernight
-Shang Xin Ci,Reverend Insanity,discovered,"work inferred from co-mentions (7), not verified",28,2,26,0,0,15,13,2025-01-09,2026-08-31,Reverend Insanity (6); Worm (1),shang xin ci
-Zi Chen,Nine Bestowments,discovered,"work inferred from co-mentions (5), not verified",28,1,27,0,0,0,28,2026-05-28,2026-08-04,Nine Bestowments (5); Heavenly Genius (4); 18 Levels of Hell (2),zi chen
-Alger Wilson,Lord of the Mysteries,extended search,,27,8,19,0,1,19,7,2024-06-08,2026-10-19,Lord of the Mysteries (4); Solo Max-Level Newbie (1),"!Alger, alger wilson"
-Wang Lin,Renegade Immortal,extended search,ambiguous name: count may include unrelated uses,27,3,24,0,0,8,19,2025-06-13,2026-10-20,Renegade Immortal (5); Omniscient Reader's Viewpoint (1); Against the Gods (1),wang lin
-Ma Hong Yun,Reverend Insanity,extended search,,26,1,25,0,0,16,10,2025-02-13,2026-10-31,Reverend Insanity (1); Lord of the Mysteries (1),"ma hong yun, ma hongyun"
-Shen Cui,Reverend Insanity,discovered,"work inferred from co-mentions (6), not verified",26,4,22,0,1,17,8,2024-12-06,2026-09-22,Reverend Insanity (4); Worm (2); 18 Levels of Hell (1),shen cui
-Ro Zha,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,26,3,23,0,0,0,26,2026-07-10,2026-10-22,18 Levels of Hell (1),ro zha
-Super Saiyan,Dragon Ball term,excluded (not web novel),,26,2,24,0,1,14,11,2024-04-04,2026-09-14,18 Levels of Hell (1),super saiyan
-Tai Bai,Reverend Insanity,discovered,"work inferred from co-mentions (6), not verified",25,2,23,0,1,16,8,2024-12-30,2026-09-15,Reverend Insanity (5); Worm (1),tai bai
-Coil (Thomas Calvert),Worm,extended search,ambiguous name: count may include unrelated uses,23,6,17,0,0,14,9,2025-01-02,2026-10-02,Worm (3); Ward (1),"!Coil, thomas calvert"
-Cassie,Shadow Slave,extended search,ambiguous name: count may include unrelated uses,23,3,20,0,0,12,11,2025-01-17,2026-10-22,Shadow Slave (4); Lord of the Mysteries (1),"!Cassie, cassie"
-Feng Bujue,18 Levels of Hell,discovered,"work inferred from co-mentions (3), not verified",23,2,21,0,0,14,9,2025-05-14,2026-09-27,18 Levels of Hell (3); Kingdom's Bloodline (1); Vile Dominion (1),feng bujue
-Ying Siliang,18 Levels of Hell,discovered,"work inferred from co-mentions (5), not verified",22,3,19,0,0,0,22,2026-03-01,2026-10-28,18 Levels of Hell (5),ying siliang
-Chen Xiao,Heavenly Genius,discovered,"work inferred from co-mentions (3), not verified",22,7,15,0,0,2,20,2025-12-17,2026-05-18,Heavenly Genius (3); Vile Dominion (2); 18 Levels of Hell (1),chen xiao
-Comet King,Unsong,extended search,,21,5,16,0,0,7,14,2025-12-09,2026-10-18,Unsong (9); Reverend Insanity (1); Solo Max-Level Newbie (1),comet king
-Xiao Mang,Reverend Insanity,discovered,"work inferred from co-mentions (3), not verified",21,2,19,0,0,3,18,2025-04-11,2026-04-21,Worm (2); Reverend Insanity (1),xiao mang
-Ba Gui,Reverend Insanity,discovered,"work inferred from co-mentions (2), not verified",21,0,21,0,0,1,20,2025-05-30,2026-06-19,Worm (2),ba gui
-Bai Ding Zhe,Sinmonger,discovered,"work inferred from co-mentions (2), not verified",21,2,19,0,0,18,3,2025-10-08,2026-06-28,Sinmonger (2); Solo Max-Level Newbie (2); Vile Dominion (1),bai ding zhe
-Yang Wenli,Legend of the Galactic Heroes (novel),excluded (not web novel),,21,4,17,0,1,11,9,2024-07-03,2026-09-14,,yang wenli
-Regressor Instruction Manual,Regressor Instruction Manual,not a character,work title (no character name searched),20,7,13,0,1,9,10,2024-10-03,2026-09-15,Regressor Instruction Manual (20); Solo Max-Level Newbie (4); Vile Dominion (3),regressor instruction manual
-Shinji Shiba,Japanese name,excluded (not web novel),,20,9,11,0,1,14,5,2024-07-21,2026-10-19,Reverend Insanity (3); Solo Max-Level Newbie (1),shinji shiba
-Yuan Shu,Three Kingdoms,excluded (not web novel),,20,8,12,0,1,14,5,2024-08-27,2026-10-17,,yuan shu
-Bai Xuichi,?,variant,spelling/partial form of Bai Xiuchi,20,0,20,0,0,3,17,2025-12-21,2026-09-01,18 Levels of Hell (6),bai xuichi
-Lin Jiabei,18 Levels of Hell,discovered,"work inferred from co-mentions (9), not verified",20,7,13,0,0,0,20,2026-02-14,2026-10-28,18 Levels of Hell (9); Sinmonger (1); Vile Dominion (1),lin jiabei
-Yang Gu,Reverend Insanity,discovered,"work inferred from co-mentions (3), not verified",20,0,20,0,1,9,10,2024-11-07,2026-07-06,Worm (3); Pact (1),yang gu
-Sherlock Moriarty (Klein alias),Lord of the Mysteries,extended search,,19,2,17,0,2,14,3,2024-01-08,2026-11-01,Lord of the Mysteries (4),sherlock moriarty
-Lumian Lee (Circle of Inevitability),Lord of the Mysteries,extended search,ambiguous name: count may include unrelated uses,19,2,17,0,1,14,4,2024-06-08,2026-10-03,Lord of the Mysteries (7); Solo Max-Level Newbie (1); 18 Levels of Hell (1),lumian
-Guren Saijou,Japanese name,excluded (not web novel),,19,5,14,0,3,8,8,2024-07-03,2026-10-29,18 Levels of Hell (1),guren saijou
-Chou Jiu,Reverend Insanity,discovered,"work inferred from co-mentions (2), not verified",19,2,17,0,0,3,16,2025-04-11,2026-08-29,Reverend Insanity (1); Worm (1),chou jiu
-Sun Quan,Three Kingdoms,excluded (not web novel),,19,4,15,0,1,10,8,2024-08-27,2026-09-24,,sun quan
-Qiu Hua,18 Levels of Hell,discovered,"work inferred from co-mentions (5), not verified",19,4,15,0,0,0,19,2026-03-24,2026-10-29,18 Levels of Hell (5),qiu hua
-Li Yao,Vile Dominion,discovered,"work inferred from co-mentions (3), not verified",19,1,18,0,0,14,5,2025-02-05,2026-09-07,Vile Dominion (3); Solo Max-Level Newbie (2); Lord of the Mysteries (1),li yao
-Zawa Zawa,Kaiji sound effect,excluded (not web novel),,19,2,17,0,0,8,11,2025-10-09,2026-07-04,18 Levels of Hell (1),zawa zawa
-Hermes,Lord of the Mysteries,extended search,ambiguous name: count may include unrelated uses,18,3,15,0,0,9,9,2025-06-13,2026-09-22,,!Hermes
-Split Souls,Reverend Insanity,not a character,technique (Reverend Insanity),18,1,17,0,1,4,13,2024-12-05,2026-10-17,Reverend Insanity (2),split souls
-Fake Kira,Death Note,excluded (not web novel),,18,3,15,0,1,7,10,2024-12-31,2026-08-18,,fake kira
-Zhang Liao,Three Kingdoms,excluded (not web novel),,18,7,11,0,1,10,7,2024-08-27,2026-09-18,,zhang liao
-Wang Xueyao,Vile Dominion,discovered,"work inferred from co-mentions (5), not verified",18,3,15,0,0,9,9,2025-10-05,2026-10-09,Vile Dominion (5); God's Imitator (1),wang xueyao
-Dong Zhuo,Three Kingdoms,excluded (not web novel),,18,7,11,0,0,9,9,2025-03-05,2026-09-24,,dong zhuo
-Zhang Fei,Three Kingdoms,excluded (not web novel),,18,6,12,0,2,6,10,2024-08-09,2026-10-22,,zhang fei
-Zhao Yun,Three Kingdoms,excluded (not web novel),,18,4,14,0,1,14,3,2024-11-22,2026-09-24,,zhao yun
-Ling Chi,18 Levels of Hell,discovered,"work inferred from co-mentions (4), not verified",18,3,15,0,0,0,18,2026-04-12,2026-10-30,18 Levels of Hell (4),ling chi
-Xiao Meng,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,18,2,16,0,0,7,11,2025-02-10,2026-09-28,,xiao meng
-Zhang Fan,18 Levels of Hell,discovered,"work inferred from co-mentions (6), not verified",18,5,13,0,0,0,18,2026-04-12,2026-10-30,18 Levels of Hell (6),zhang fan
-Lin Xiuyuan,18 Levels of Hell,discovered,"work inferred from co-mentions (5), not verified",18,7,11,0,0,0,18,2026-01-27,2026-10-01,18 Levels of Hell (5),lin xiuyuan
-Yin Yang,term,excluded (not web novel),,18,0,18,0,0,16,2,2025-02-15,2026-05-01,,yin yang
-Zha Hiangtan,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,17,4,13,0,0,16,1,2025-10-24,2026-08-07,Nirvana in Fire (1),zha hiangtan
-Lin Qie,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,17,1,16,0,0,8,9,2025-09-19,2026-03-22,Reverend Insanity (1); Vile Dominion (1),lin qie
-Ning Zhuo,Reverend Insanity,discovered,"work inferred from co-mentions (3), not verified",17,2,15,0,0,12,5,2025-01-14,2026-09-21,Reverend Insanity (2); Gu Zhen Ren (1),ning zhuo
-Amadeus (Black Knight),A Practical Guide to Evil,extended search,ambiguous name: count may include unrelated uses,16,3,13,0,1,15,0,2024-11-29,2025-12-28,,"amadeus of the green stretch, black knight"
-Shao Pingbo,Heavenly Genius,extended search,,16,3,13,0,0,0,16,2026-04-29,2026-10-21,Heavenly Genius (5); Solo Max-Level Newbie (2); Ten Days Ultimatum (1),shao pingbo
-Jun Xiaoyao,Chinese villain web novel (Jun Xiaoyao),discovered,work from my own identification,16,0,16,0,0,0,16,2026-04-14,2026-10-18,Reverend Insanity (1),jun xiaoyao
-Gu Yue Bo,Reverend Insanity,discovered,"work inferred from co-mentions (6), not verified",16,6,10,0,1,1,14,2024-12-30,2026-09-17,Worm (4); Reverend Insanity (2),gu yue bo
-Tao Zhu,Reverend Insanity,discovered,"work inferred from co-mentions (2), not verified",16,0,16,0,0,12,4,2025-11-01,2026-10-23,Reverend Insanity (2); 18 Levels of Hell (1),tao zhu
-Kessel V,Kingdom's Bloodline,extended search,ambiguous name: count may include unrelated uses,15,0,15,0,0,12,3,2025-09-10,2026-08-05,,kessel
-Shiba Taizen,Japanese,excluded (not web novel),,15,4,11,0,0,5,10,2025-03-03,2026-10-21,,shiba taizen
-Mao Mao,The Apothecary Diaries (light novel),excluded (not web novel),,15,2,13,0,1,8,6,2024-07-09,2026-10-02,,mao mao
-Feng Jin Huang,Reverend Insanity,discovered,"work inferred from co-mentions (3), not verified",15,1,14,0,0,5,10,2025-01-29,2026-09-25,Reverend Insanity (2); Worm (1),feng jin huang
-Ying Wu Xie,Reverend Insanity,discovered,"work inferred from co-mentions (3), not verified",15,3,12,0,0,3,12,2025-06-04,2026-10-31,Reverend Insanity (2); Worm (1),ying wu xie
-Qui Yinong,18 Levels of Hell,variant,spelling/partial form of Qiu Yinong,15,1,14,0,0,0,15,2026-01-11,2026-11-01,18 Levels of Hell (2); Nine Bestowments (1),qui yinong
-Wang Yongxin,18 Levels of Hell,discovered,"work inferred from co-mentions (2), not verified",15,3,12,0,0,0,15,2026-03-16,2026-10-28,18 Levels of Hell (2); Vile Dominion (1); God's Imitator (1),wang yongxin
-Shinza Bansho,Japanese,excluded (not web novel),,15,3,12,0,1,8,6,2024-12-30,2026-09-19,Reverend Insanity (2); Lord of the Mysteries (1),shinza bansho
-Su Chen,Vile Dominion,discovered,"work inferred from co-mentions (2), not verified",15,3,12,0,0,12,3,2025-02-05,2026-08-03,Vile Dominion (2); My House of Horrors (2); Regressor Instruction Manual (2),su chen
-Riko Rinda,Japanese,excluded (not web novel),,15,3,12,0,0,4,11,2025-09-02,2026-10-12,,riko rinda
-Cattleya,Lord of the Mysteries,extended search,,14,3,11,0,1,13,0,2024-06-08,2025-11-24,Lord of the Mysteries (2); Solo Max-Level Newbie (1),cattleya
-Nephis (Changing Star),Shadow Slave,extended search,,14,3,11,0,0,10,4,2025-08-09,2026-10-22,Lord of the Mysteries (4); Shadow Slave (3),"changing star, nephis"
-Albion,Unsong,extended search,ambiguous name: count may include unrelated uses,14,2,12,0,0,14,0,2025-03-07,2025-12-24,Unsong (6),"!Albion, albion"
-Chen Ge,My House of Horrors,extended search,,14,3,11,0,0,13,1,2025-01-12,2026-07-19,My House of Horrors (6); A Will Eternal (1); Lord of the Mysteries (1),chen ge
-Hong Kong,place,excluded (not web novel),,14,2,12,0,0,12,2,2025-01-07,2026-10-03,,hong kong
-Chen Mou,Reverend Insanity,discovered,"work inferred from co-mentions (4), not verified",14,3,11,0,0,9,5,2025-03-24,2026-09-24,Reverend Insanity (2); Gu Zhen Ren (2),chen mou
-Fan Yuan,Reverend Insanity,variant,spelling/partial form of Fang Yuan,14,1,13,0,2,3,9,2024-09-12,2026-09-11,Reverend Insanity (1),fan yuan
-Ching Chong,slur,excluded (not web novel),,14,2,12,0,3,4,7,2024-07-23,2026-04-24,,ching chong
-Rain Dance,term,excluded (not web novel),,14,0,14,0,0,3,11,2025-12-12,2026-09-05,,rain dance
-Suiyin,The Grandmaster Strategist,extended search,,13,1,12,0,0,12,1,2025-09-14,2026-09-07,Kingdom's Bloodline (3); Lord of the Mysteries (3); The Grandmaster Strategist (2),suiyin
-Mo Chen,Reverend Insanity,discovered,"work inferred from co-mentions (4), not verified",13,4,9,0,0,8,5,2025-06-06,2026-09-17,Worm (3); Reverend Insanity (1),mo chen
-Mo Yan,Reverend Insanity,discovered,"work inferred from co-mentions (7), not verified",13,3,10,0,0,1,12,2025-07-27,2026-09-29,Worm (4); Reverend Insanity (3),mo yan
-Lou Lan,Heavenly Genius,discovered,"work inferred from co-mentions (4), not verified",13,3,10,0,1,3,9,2024-06-08,2026-05-18,Heavenly Genius (4); Vile Dominion (4); Solo Max-Level Newbie (4),lou lan
-Chu Yinian,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,13,2,11,0,0,0,13,2026-08-14,2026-11-01,18 Levels of Hell (1),chu yinian
-Gu Shiyan,18 Levels of Hell,discovered,"work inferred from co-mentions (2), not verified",13,1,12,0,0,0,13,2026-07-15,2026-08-23,18 Levels of Hell (2); Vile Dominion (1); The Demon World I Designed (1),gu shiyan
-Chen Jie,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,13,5,8,0,0,0,13,2026-06-07,2026-09-09,,chen jie
-Niu Yudao,Heavenly Genius,variant,spelling/partial form of Niu Youdao,13,1,12,0,0,0,13,2026-03-09,2026-09-23,Heavenly Genius (4); 18 Levels of Hell (1); The Demon World I Designed (1),niu yudao
-Thamiel,Unsong,extended search,,12,1,11,0,0,8,4,2025-11-22,2026-10-18,Unsong (6),thamiel
-Gu Changge,Chinese villain web novels,extended search,,12,5,7,0,1,7,4,2024-10-03,2026-10-30,Reverend Insanity (2); The Grandmaster Strategist (1); Regressor Instruction Manual (1),gu changge
-Yuan Shao,Three Kingdoms,excluded (not web novel),,12,9,3,0,1,9,2,2024-08-27,2026-06-10,,yuan shao
-Li Mu,historical general / Kingdom,excluded (not web novel),,12,1,11,0,0,3,9,2025-12-22,2026-08-17,,li mu
-Cui Yu,18 Levels of Hell,discovered,"work inferred from co-mentions (4), not verified",12,4,8,0,0,0,12,2026-06-06,2026-10-28,18 Levels of Hell (4),cui yu
-Shen Lang,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,12,4,8,0,0,7,5,2025-04-11,2026-10-05,,shen lang
-Change Poker,game,excluded (not web novel),,12,2,10,0,0,1,11,2025-02-28,2026-10-02,,change poker
-Shiro Nai,Japanese,excluded (not web novel),,12,11,1,0,2,10,0,2024-08-09,2025-12-07,Unsong (2),shiro nai
-Xi Jinping,real person,excluded (not web novel),,12,0,12,0,1,5,6,2024-07-10,2026-10-27,Lord of the Mysteries (1),xi jinping
-Zhuo Yi,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,12,2,10,0,0,0,12,2026-06-15,2026-09-25,,zhuo yi
-Medici,Lord of the Mysteries,extended search,ambiguous name: count may include unrelated uses,11,1,10,0,1,9,1,2024-06-08,2026-07-20,Lord of the Mysteries (3); Solo Max-Level Newbie (1),!Medici
-Gao Lan,18 Levels of Hell,discovered,"work inferred from co-mentions (2), not verified",11,7,4,0,0,5,6,2025-11-29,2026-07-05,18 Levels of Hell (2),gao lan
-Jia Gui,Reverend Insanity,discovered,"work inferred from co-mentions (5), not verified",11,1,10,0,0,2,9,2025-06-08,2026-09-17,Reverend Insanity (3); Worm (2),jia gui
-Cao Xiu,Three Kingdoms,excluded (not web novel),,11,6,5,0,0,0,11,2026-03-15,2026-10-29,18 Levels of Hell (4),cao xiu
-Li Renshu,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,11,2,9,0,0,0,11,2026-03-16,2026-08-14,God's Imitator (1),li renshu
-Jun Ho,Korean name,excluded (not web novel),,11,4,7,0,0,7,4,2025-02-04,2026-09-22,,jun ho
-Mona Lisa,painting,excluded (not web novel),,11,3,8,0,2,5,4,2024-12-05,2026-08-07,,mona lisa
-Bo Qing,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,11,0,11,0,0,5,6,2025-05-19,2026-09-27,Reverend Insanity (1),bo qing
-Gu Qingshan,Solo Max-Level Newbie,discovered,"work inferred from co-mentions (2), not verified",11,0,11,0,0,9,2,2025-10-05,2026-10-23,Solo Max-Level Newbie (2); Vile Dominion (2); Lord of the Mysteries (1),gu qingshan
-Indian Poker,game,excluded (not web novel),,11,3,8,0,0,9,2,2025-01-06,2026-11-03,18 Levels of Hell (1),indian poker
-Mu Zhixuan,Court of the Sword-Treading,variant,spelling/partial form of Mu Zixuan,11,1,10,0,0,0,11,2026-08-14,2026-10-24,,mu zhixuan
-Lin Fan,Chinese web novel protagonist name,discovered,work from my own identification,11,4,7,0,0,3,8,2025-08-14,2026-10-25,Lord of the Mysteries (1); Vile Dominion (1); God's Imitator (1),lin fan
-Ri Boku,Kingdom (manga),excluded (not web novel),,11,1,10,0,0,11,0,2025-01-14,2025-10-01,,ri boku
-Mordret,Shadow Slave,extended search,,10,2,8,0,0,10,0,2025-08-26,2025-11-12,Shadow Slave (2); Reverend Insanity (1); Lord of the Mysteries (1),mordret
-Chu Xuan,Terror Infinity,extended search,,10,2,8,0,0,1,9,2025-12-26,2026-10-04,Terror Infinity (3),chu xuan
-Yao Yuan,God's Imitator,extended search,,10,2,8,0,0,0,10,2026-08-05,2026-10-13,18 Levels of Hell (4); God's Imitator (2); Heavenly Genius (2),yao yuan
-Guan Yu,Three Kingdoms,excluded (not web novel),,10,3,7,0,0,8,2,2025-01-05,2026-09-18,,guan yu
-Lu Wei Yin,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,10,0,10,0,0,5,5,2025-12-20,2026-06-19,Reverend Insanity (1),lu wei yin
-Feng Bijue,?,variant,spelling/partial form of Feng Bujue,10,2,8,0,0,0,10,2026-01-11,2026-04-10,Vile Dominion (2); Heavenly Genius (2); 18 Levels of Hell (2),feng bijue
-Xin Shuguang,18 Levels of Hell,discovered,"work inferred from co-mentions (3), not verified",10,0,10,0,0,0,10,2026-02-04,2026-08-04,18 Levels of Hell (3); Heavenly Genius (3); The Demon World I Designed (2),xin shuguang
-Yang Xiu,Three Kingdoms,excluded (not web novel),,10,1,9,0,0,7,3,2025-04-28,2026-03-06,,yang xiu
-Lin Jiabao,18 Levels of Hell,discovered,"work inferred from co-mentions (4), not verified",10,5,5,0,0,1,9,2025-12-29,2026-09-01,18 Levels of Hell (4); Vile Dominion (1); Heavenly Genius (1),lin jiabao
-Wu Yi Hai,Reverend Insanity,discovered,"work inferred from co-mentions (2), not verified",10,2,8,0,0,2,8,2025-05-16,2026-10-18,Reverend Insanity (1); Worm (1),wu yi hai
-Cao Haichuan,18 Levels of Hell,discovered,"work inferred from co-mentions (2), not verified",10,6,4,0,0,0,10,2026-03-16,2026-10-25,18 Levels of Hell (2); God's Imitator (2); Vile Dominion (1),cao haichuan
-Xie Wuming,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,10,2,8,0,0,0,10,2026-08-08,2026-10-04,,xie wuming
-Chang Shan Yin,Reverend Insanity,discovered,"work inferred from co-mentions (3), not verified",10,1,9,0,0,6,4,2025-04-27,2026-03-05,Reverend Insanity (2); Worm (1),chang shan yin
-Jin Mori,The God of High School (webtoon),excluded (not web novel),,10,0,10,0,0,2,8,2025-02-02,2026-08-06,,jin mori
-Sun Wukong,Journey to the West (classic),excluded (not web novel),,10,1,9,0,0,8,2,2025-02-18,2026-04-15,,sun wukong
-Chan Ran,18 Levels of Hell,variant,spelling/partial form of Chen Ran,10,2,8,0,0,0,10,2026-01-14,2026-10-29,18 Levels of Hell (2),chan ran
-Gao Chuan,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,10,0,10,0,0,10,0,2025-02-09,2025-08-28,,gao chuan
-Uriel,Unsong,extended search,ambiguous name: count may include unrelated uses,9,4,5,0,0,7,2,2025-05-12,2026-02-16,Unsong (4),"!Uriel, uriel"
-Di Wu Zhi,(unidentified web novel),variant,spelling/partial form of Diwu Zhiyi,9,0,9,0,0,1,8,2025-12-23,2026-09-13,,di wu zhi
-Ji Changchen,Vile Dominion,discovered,"work inferred from co-mentions (2), not verified",9,0,9,0,0,8,1,2025-10-25,2026-01-09,Vile Dominion (2),ji changchen
-Si Jincheng,18 Levels of Hell,discovered,"work inferred from co-mentions (5), not verified",9,3,6,0,0,0,9,2026-07-29,2026-10-21,18 Levels of Hell (5),si jincheng
-Kong Xuan,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,9,0,9,0,0,8,1,2025-11-16,2026-03-05,Vile Dominion (1); 18 Levels of Hell (1),kong xuan
-Wei Xinjian,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,9,0,9,0,0,0,9,2026-10-25,2026-10-25,,wei xinjian
-Pu Yunchuan,The Demon World I Designed,variant,spelling/partial form of Pun Yunchuan,9,1,8,0,0,0,9,2026-06-01,2026-06-13,18 Levels of Hell (1),pu yunchuan
-Zhang Meili,18 Levels of Hell,discovered,"work inferred from co-mentions (2), not verified",9,2,7,0,0,0,9,2026-07-03,2026-10-29,18 Levels of Hell (2),zhang meili
-Fake Chen Ran,18 Levels of Hell,variant,spelling/partial form of Chen Ran,9,1,8,0,0,5,4,2025-12-23,2026-05-31,,fake chen ran
-Jiang Shen,Reverend Insanity,discovered,"work inferred from co-mentions (2), not verified",9,1,8,0,0,2,7,2025-12-22,2026-05-29,Worm (2),jiang shen
-Fang Yuang,Reverend Insanity,variant,spelling/partial form of Fang Yuan,9,2,7,0,0,5,4,2025-01-26,2026-07-25,,fang yuang
-Hong Yun,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,9,0,9,0,0,6,3,2025-03-25,2026-09-14,,hong yun
-Lin Yu,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,9,1,8,0,0,0,9,2026-03-08,2026-09-11,18 Levels of Hell (1),lin yu
-Fang Juan,Reverend Insanity,variant,spelling/partial form of Fang Yuan,9,2,7,0,5,4,0,2024-10-22,2025-07-10,,fang juan
-Gu Qing Shan,?,variant,spelling/partial form of Gu Qingshan,9,1,8,0,0,9,0,2025-09-28,2025-12-26,Kingdom's Bloodline (1); Vile Dominion (1); The Grandmaster Strategist (1),gu qing shan
-Ning Qiushui,Terror Infinity,discovered,"work inferred from co-mentions (2), not verified",9,2,7,0,0,5,4,2025-11-25,2026-04-28,Terror Infinity (2); Ten Days Ultimatum (1),ning qiushui
-Jia Sheng,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,9,1,8,0,0,4,5,2025-06-25,2026-09-13,Solo Leveling (1); Vile Dominion (1); The Grandmaster Strategist (1),jia sheng
-Roselle Gustav,Lord of the Mysteries,extended search,,8,1,7,0,0,2,6,2025-08-07,2026-10-27,Lord of the Mysteries (2); The Demon World I Designed (1),roselle
-George III,Lord of the Mysteries,extended search,,8,0,8,0,0,7,1,2025-10-10,2026-09-30,,george iii
-Ince Zangwill,Lord of the Mysteries,extended search,,8,1,7,0,0,4,4,2025-07-12,2026-10-18,Lord of the Mysteries (1),zangwill
-Wei Wuxian,Mo Dao Zu Shi,extended search,,8,0,8,0,0,0,8,2026-09-16,2026-10-04,,"wei wuxian, wei ying"
-Ariel,Shadow Slave,variant,spelling/partial form of Ariel (Shadow Slave),8,0,8,0,0,6,2,2025-04-04,2026-09-15,Shadow Slave (1),ariel
-Liu Biao,Three Kingdoms,excluded (not web novel),,8,4,4,0,1,7,0,2024-08-27,2025-11-29,,liu biao
-Liu Xing,18 Levels of Hell,discovered,"work inferred from co-mentions (7), not verified",8,7,1,0,0,0,8,2026-03-05,2026-07-04,18 Levels of Hell (7),liu xing
-Luo Lan,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,8,2,6,0,0,6,2,2025-11-24,2026-04-01,Sinmonger (1); Vile Dominion (1); The Grandmaster Strategist (1),luo lan
-Rain Code,game,excluded (not web novel),,8,4,4,0,3,0,5,2024-07-07,2026-10-28,,rain code
-Li Xintong,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,8,2,6,0,0,0,8,2026-02-23,2026-10-04,18 Levels of Hell (1),li xintong
-Di Zang Sheng,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,8,0,8,0,0,7,1,2025-06-04,2026-01-11,,di zang sheng
-Xin Ci,?,variant,spelling/partial form of Shang Xin Ci,8,1,7,0,0,6,2,2025-05-25,2026-08-22,Worm (3),xin ci
-Dao Tianqi,18 Levels of Hell,discovered,"work inferred from co-mentions (2), not verified",8,3,5,0,0,0,8,2026-04-29,2026-10-10,18 Levels of Hell (2); Heavenly Genius (1),dao tianqi
-Wu Xin,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,8,1,7,0,0,8,0,2025-10-27,2025-12-15,,wu xin
-Xie Han Mo,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,8,2,6,0,0,4,4,2025-01-09,2026-09-24,,xie han mo
-Hei Luo Lan,Reverend Insanity,variant,spelling/partial form of Hei Lou Lan,8,2,6,0,2,6,0,2024-11-25,2025-06-04,,hei luo lan
-Qi Jia,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,8,0,8,0,0,4,4,2025-11-30,2026-10-21,18 Levels of Hell (1); Vile Dominion (1),qi jia
-Xuan Lou,(unidentified web novel),variant,spelling/partial form of Xuan Luo,8,0,8,0,0,0,8,2026-07-23,2026-10-21,,xuan lou
-Saiki Kusuo,manga,excluded (not web novel),,8,1,7,0,0,7,1,2025-01-19,2026-08-31,,saiki kusuo
-Chen Yifan,Vile Dominion,discovered,"work inferred from co-mentions (2), not verified",8,2,6,0,0,1,7,2025-12-09,2026-05-08,Vile Dominion (2); Heavenly Genius (2); 18 Levels of Hell (2),chen yifan
-Mao Li Qiu,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,8,1,7,0,0,3,5,2025-06-04,2026-08-22,,mao li qiu
-Bai Gu,Reverend Insanity,discovered,"work inferred from co-mentions (4), not verified",8,1,7,0,0,4,4,2025-02-11,2026-06-19,Reverend Insanity (3); Worm (1),bai gu
-Gehrman Sparrow,Lord of the Mysteries,extended search,,7,0,7,0,0,4,3,2025-06-13,2026-04-06,,"gehrman, gehrman sparrow"
-Alexandria (Worm),Worm,extended search,ambiguous name: count may include unrelated uses,7,3,4,0,0,4,3,2025-03-31,2026-09-02,,!Alexandria
-Su Ming,Pursuit of the Truth,extended search,,7,0,7,0,0,3,4,2025-04-21,2026-03-11,Pursuit of the Truth (1),su ming
-Zhang Yuan,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,0,7,0,0,1,6,2025-12-24,2026-09-29,,zhang yuan
-Fu Chen,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,3,4,0,0,0,7,2026-04-26,2026-09-24,God's Imitator (1),fu chen
-Feng Tian Yu,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,2,5,0,0,3,4,2025-04-11,2026-04-21,Reverend Insanity (1),feng tian yu
-Fei Xin,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,1,6,0,0,2,5,2025-12-22,2026-09-18,,fei xin
-Zhang Jinhua,18 Levels of Hell,discovered,"work inferred from co-mentions (7), not verified",7,7,0,0,0,0,7,2026-06-28,2026-07-04,18 Levels of Hell (7),zhang jinhua
-Gui Yue,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,0,7,0,0,3,4,2025-12-22,2026-03-10,,gui yue
-Liaoyuan Huo,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,3,4,0,1,6,0,2024-11-22,2025-11-29,,liaoyuan huo
-Mo Wu Tian,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,2,5,0,0,3,4,2025-04-11,2026-08-29,Reverend Insanity (1),mo wu tian
-Yuan Shang,Three Kingdoms,excluded (not web novel),,7,5,2,0,0,5,2,2025-04-20,2026-11-01,18 Levels of Hell (1),yuan shang
-Li Xin,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,0,7,0,0,3,4,2025-12-23,2026-09-13,,li xin
-Shi Huang,Qin Shi Huang (historical),excluded (not web novel),,7,5,2,0,0,6,1,2025-04-13,2026-09-23,,shi huang
-Qin Bai Sheng,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,0,7,0,0,4,3,2025-07-27,2026-08-09,18 Levels of Hell (1),qin bai sheng
-Wu Zeyi,?,variant,spelling/partial form of Diwu Zeyi,7,1,6,0,0,7,0,2025-11-21,2025-12-26,18 Levels of Hell (1),wu zeyi
-Meng Tianhong,18 Levels of Hell,discovered,"work inferred from co-mentions (2), not verified",7,0,7,0,0,6,1,2025-12-16,2026-02-07,18 Levels of Hell (2),meng tianhong
-Ba Ku,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,0,7,0,0,0,7,2026-01-30,2026-03-26,,ba ku
-Ren Chan,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,0,7,0,0,0,7,2026-03-25,2026-09-15,,ren chan
-Liu Bie,Three Kingdoms (Liu Bei typo),excluded (not web novel),,7,2,5,0,1,6,0,2024-08-27,2025-08-22,,liu bie
-Ren Ying,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,1,6,0,0,3,4,2025-12-27,2026-09-14,Vile Dominion (1),ren ying
-Wu Yi,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,0,7,0,0,0,7,2026-09-28,2026-10-23,18 Levels of Hell (1),wu yi
-Jin Sakai,Ghost of Tsushima,excluded (not web novel),,7,2,5,0,0,7,0,2025-05-01,2025-07-09,,jin sakai
-Lin Shizi,God's Imitator,variant,spelling/partial form of Lin Sizhi,7,1,6,0,0,0,7,2026-03-17,2026-10-11,The Demon World I Designed (1); Solo Max-Level Newbie (1); God's Imitator (1),lin shizi
-Gua Jia,Three Kingdoms (Guo Jia typo),excluded (not web novel),,7,1,6,0,0,3,4,2025-03-14,2026-10-27,,gua jia
-Mao Zedong,real person,excluded (not web novel),,7,1,6,0,1,3,3,2024-07-06,2026-06-13,,mao zedong
-Shang Xi Ci,?,variant,spelling/partial form of Shang Xin Ci,7,0,7,0,0,7,0,2025-06-09,2025-09-20,,shang xi ci
-Wang Ling,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,7,0,7,0,0,6,1,2025-07-16,2026-09-25,Shadow Slave (1); Lord of the Mysteries (1),wang ling
-Chapman Lampard,Kingdom's Bloodline,extended search,,6,1,5,0,0,2,4,2025-11-10,2026-10-19,Kingdom's Bloodline (3),chapman lampard
-Mei Changsu,Nirvana in Fire,extended search,,6,0,6,0,0,3,3,2025-09-23,2026-10-17,Nirvana in Fire (2); 18 Levels of Hell (1),"mei chang su, mei changsu"
-Catherine Foundling,A Practical Guide to Evil,extended search,,6,0,6,0,0,2,4,2025-09-03,2026-10-24,A Practical Guide to Evil (5); Sinmonger (1); Renegade Immortal (1),"catherine foundling, practical guide to evil"
-Yuan Tan,Three Kingdoms,excluded (not web novel),,6,5,1,0,1,5,0,2024-08-27,2025-11-29,,yuan tan
-Chu Feng,Peerless Martial God / web novels,discovered,work from my own identification,6,3,3,1,2,3,0,2023-12-11,2025-10-24,Against the Gods (1); Lord of the Mysteries (1); Battle Through the Heavens (1),chu feng
-Long Qing Tian,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,6,2,4,0,0,3,3,2025-04-11,2026-04-21,Reverend Insanity (1),long qing tian
-Qin Yao,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,6,2,4,0,0,0,6,2026-04-26,2026-10-26,God's Imitator (1),qin yao
-Yuan Gang,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,6,0,6,0,0,0,6,2026-04-02,2026-08-13,Heavenly Genius (1),yuan gang
-Wang Dan,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,6,0,6,0,0,0,6,2026-06-14,2026-08-18,,wang dan
-Lin Feng,18 Levels of Hell,discovered,"work inferred from co-mentions (3), not verified",6,5,1,1,1,2,2,2023-12-11,2026-07-08,18 Levels of Hell (3),lin feng
-Yang Yuting,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,6,2,4,0,0,0,6,2026-04-26,2026-10-14,God's Imitator (1),yang yuting
-Lin Shizhi,God's Imitator,variant,spelling/partial form of Lin Sizhi,6,1,5,0,0,0,6,2026-09-23,2026-10-21,,lin shizhi
-Xu Hao,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,6,1,5,0,0,0,6,2026-08-09,2026-10-30,,xu hao
-Shang Yan Fei,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,6,0,6,0,0,4,2,2025-07-04,2026-05-21,,shang yan fei
-Kie Hojo,Japanese,excluded (not web novel),,6,0,6,0,0,0,6,2026-03-17,2026-10-10,,kie hojo
-Fei Xue,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,6,3,3,0,0,0,6,2026-03-09,2026-06-14,Reverend Insanity (1),fei xue
-Duan Lou,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,6,2,4,0,0,0,6,2026-07-10,2026-09-02,,duan lou
-Mo Xi,18 Levels of Hell,discovered,"work inferred from co-mentions (2), not verified",6,3,3,0,0,2,4,2025-12-26,2026-10-16,18 Levels of Hell (2),mo xi
-Gu Chinsha,?,variant,spelling/partial form of Gu Chensha,6,4,2,0,0,0,6,2026-08-17,2026-09-22,,gu chinsha
-Ying Ming,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,6,0,6,0,0,0,6,2026-03-19,2026-03-20,Worm (1),ying ming
-Wu Zetian,real person,excluded (not web novel),,6,2,4,0,0,5,1,2025-07-11,2026-09-25,,wu zetian
-Lu Guang,historical,excluded (not web novel),,6,1,5,0,0,6,0,2025-01-15,2025-12-19,,lu guang
-Mo Bei,Reverend Insanity,discovered,"work inferred from co-mentions (5), not verified",6,3,3,0,0,1,5,2025-05-06,2026-09-13,Reverend Insanity (3); Worm (2),mo bei
-Tang Jie,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,6,0,6,0,0,6,0,2025-02-05,2025-10-20,Vile Dominion (1),tang jie
-Zhou Ming,Vile Dominion,discovered,"work inferred from co-mentions (2), not verified",6,0,6,0,0,6,0,2025-10-17,2025-11-14,Vile Dominion (2); Kingdom's Bloodline (2),zhou ming
-Cheng Gong,Three Kingdoms (Chen Gong typo),excluded (not web novel),,6,0,6,0,0,5,1,2025-02-06,2026-09-24,,cheng gong
-Han Jue,(unidentified web novel),discovered,work from my own identification,6,1,5,0,0,1,5,2025-12-28,2026-08-17,,han jue
-Huang Jin,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,6,1,5,0,1,1,4,2024-11-09,2026-10-30,Reverend Insanity (1); Vile Dominion (1),huang jin
-Bai Zhi,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,6,0,6,0,0,0,6,2026-05-02,2026-10-08,Nine Bestowments (1); Solo Max-Level Newbie (1),bai zhi
-Great Dream Immortal Venerable,Reverend Insanity,extended search,,5,2,3,0,0,1,4,2025-06-08,2026-09-23,Reverend Insanity (2),great dream
-Zaratul,Lord of the Mysteries,extended search,,5,0,5,0,0,3,2,2025-03-20,2026-10-27,Lord of the Mysteries (2); The Demon World I Designed (1),zaratul
-Contessa,Worm,extended search,,5,1,4,0,0,3,2,2025-04-11,2026-03-26,Worm (2),contessa
-Ariel (Shadow Slave),Shadow Slave,extended search,ambiguous name: count may include unrelated uses,5,0,5,0,0,5,0,2025-04-04,2025-11-15,Shadow Slave (1),!Ariel
-Li Qiye,Emperor's Domination,extended search,,5,1,4,0,1,4,0,2024-10-12,2025-11-10,Emperor's Domination (1),li qiye
-Lin Xiuan,18 Levels of Hell,variant,spelling/partial form of Lin Xuan,5,0,5,0,0,0,5,2026-05-21,2026-05-21,,lin xiuan
-Zuo Ci,Three Kingdoms,excluded (not web novel),,5,2,3,0,0,2,3,2025-11-29,2026-07-01,,zuo ci
-Zhang San San,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,2,3,0,0,3,2,2025-04-11,2026-04-21,Reverend Insanity (1),zhang san san
-Yan Jun,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,2,3,0,0,3,2,2025-04-11,2026-04-21,Reverend Insanity (1),yan jun
-Wu Shen Tong,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,2,3,0,0,3,2,2025-04-11,2026-04-21,Reverend Insanity (1),wu shen tong
-Gao Wan,Reverend Insanity,discovered,"work inferred from co-mentions (5), not verified",5,2,3,0,0,1,4,2025-07-27,2026-06-21,Worm (3); Reverend Insanity (2),gao wan
-Han Junwei,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,4,1,0,0,5,0,2025-08-13,2025-08-19,,han junwei
-Wei Ling Yang,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,0,5,0,0,5,0,2025-05-10,2025-06-04,,wei ling yang
-Gongsun Zan,Three Kingdoms,excluded (not web novel),,5,2,3,0,1,3,1,2024-08-27,2026-11-02,,gongsun zan
-Yu Xing,18 Levels of Hell,discovered,"work inferred from co-mentions (2), not verified",5,1,4,0,0,2,3,2025-12-17,2026-03-14,18 Levels of Hell (2); The Demon World I Designed (1),yu xing
-Si Sui,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,2,3,0,0,0,5,2026-04-29,2026-10-10,18 Levels of Hell (1),si sui
-Pun Yuchuan,The Demon World I Designed,variant,spelling/partial form of Pun Yunchuan,5,1,4,0,0,0,5,2026-05-07,2026-09-21,,pun yuchuan
-Shu Han,Three Kingdoms (state),excluded (not web novel),,5,0,5,0,0,1,4,2025-07-04,2026-09-24,,shu han
-Meng Xian,Vile Dominion,discovered,"work inferred from co-mentions (2), not verified",5,0,5,0,0,4,1,2025-10-08,2026-01-09,Vile Dominion (2),meng xian
-Shen Shang,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,0,5,0,0,2,3,2025-11-01,2026-10-03,,shen shang
-Gao Jia,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,0,5,0,0,1,4,2025-11-14,2026-02-21,,gao jia
-Qiu Yining,18 Levels of Hell,variant,spelling/partial form of Qiu Yinong,5,1,4,0,0,1,4,2025-12-17,2026-10-28,18 Levels of Hell (1),qiu yining
-San Cha,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,0,5,0,0,0,5,2026-01-11,2026-06-14,,san cha
-Dou Jie,?,variant,spelling/partial form of Duo Jie,5,1,4,0,0,0,5,2026-02-14,2026-03-24,18 Levels of Hell (2),dou jie
-Chen Xing,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,1,4,0,0,0,5,2026-03-10,2026-09-09,,chen xing
-Qi Yanqing,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,2,3,0,0,0,5,2026-09-07,2026-11-01,18 Levels of Hell (1),qi yanqing
-Chan Mou,?,variant,spelling/partial form of Chen Mou,5,0,5,0,2,3,0,2024-08-09,2025-12-28,Reverend Insanity (1); Gu Zhen Ren (1); The Terrible Eternal Path (1),chan mou
-Yang Siliang,?,variant,spelling/partial form of Ying Siliang,5,2,3,0,0,0,5,2026-03-29,2026-11-01,18 Levels of Hell (2),yang siliang
-Xue Huai,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,0,5,0,0,0,5,2026-08-04,2026-10-23,18 Levels of Hell (1),xue huai
-Tan Mo,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,0,5,0,0,0,5,2026-08-17,2026-11-01,18 Levels of Hell (1),tan mo
-Jiang Beili,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,1,4,0,0,0,5,2026-08-18,2026-11-01,18 Levels of Hell (1),jiang beili
-Yang Wen Li,?,variant,spelling/partial form of Yang Wenli,5,2,3,0,0,2,3,2025-08-08,2026-08-05,,yang wen li
-Liu Chong,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,3,2,0,0,4,1,2025-11-29,2026-07-30,,liu chong
-Chou Ji,?,variant,spelling/partial form of Chou Jiu,5,1,4,0,0,0,5,2026-02-07,2026-03-18,Reverend Insanity (1); Worm (1),chou ji
-Gu Hai,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,2,3,0,0,3,2,2025-08-19,2026-05-17,,gu hai
-Ge Yao,Reverend Insanity,discovered,"work inferred from co-mentions (2), not verified",5,2,3,0,0,5,0,2025-05-10,2025-11-05,Reverend Insanity (2),ge yao
-Yu Suzhen,Legend of the White Snake,excluded (not web novel),,5,0,5,0,0,1,4,2025-12-27,2026-07-19,,yu suzhen
-Jin Jang,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,1,4,0,0,0,5,2026-07-23,2026-07-25,,jin jang
-Gao Sheng,"(unknown, likely Chinese web novel)",discovered,no web-novel title mentioned alongside it,5,0,5,0,0,0,5,2026-05-22,2026-10-30,18 Levels of Hell (1),gao sheng
-Bethel Abraham (Mr. Door),Lord of the Mysteries,extended search,,4,0,4,0,1,0,3,2024-06-08,2026-04-06,Lord of the Mysteries (2); Solo Max-Level Newbie (1),"bethel abraham, mr door, mr. door"
-Han Sooyoung,Omniscient Reader's Viewpoint,extended search,,4,0,4,0,1,2,1,2024-12-17,2026-08-15,Lord of the Mysteries (1),han sooyoung
-Cale Henituse,Trash of the Count's Family,extended search,,4,0,4,0,1,3,0,2024-07-03,2025-12-02,,"cale henituse, henituse"
-Bai Xiaochun,A Will Eternal,extended search,,4,0,4,0,0,4,0,2025-10-11,2025-10-16,A Will Eternal (1); Lord of the Mysteries (1); Mother of Learning (1),bai xiaochun
-Ye Fan,Shrouded in Darkness,extended search,ambiguous name: count may include unrelated uses,4,1,3,0,0,3,1,2025-07-25,2026-01-09,Reverend Insanity (1),ye fan
-Chen Changsheng,Way of Choices,extended search,,4,0,4,0,0,0,4,2026-10-25,2026-10-26,,chen changsheng
-Zhou Mingrui (Klein),Lord of the Mysteries,extended search,,3,1,2,0,0,1,2,2025-09-25,2026-08-06,Lord of the Mysteries (1),zhou mingrui
-Secretive Plotter,Omniscient Reader's Viewpoint,extended search,,3,2,1,0,0,3,0,2025-04-11,2025-10-30,Omniscient Reader's Viewpoint (1); Reverend Insanity (1),secretive plotter
-Kim Gong-ja,SSS-Class Suicide Hunter,extended search,,3,1,2,0,0,0,3,2026-04-24,2026-09-24,Regressor Instruction Manual (1); God's Imitator (1); Lord of the Mysteries (1),"kim gong-ja, kim gongja"
-Grid (Overgeared),Overgeared,not a character,"work title ""Overgeared""",3,0,3,0,0,3,0,2025-05-19,2025-06-04,Overgeared (3),overgeared
-Lan Wangji,Mo Dao Zu Shi,extended search,,3,0,3,0,0,0,3,2026-09-16,2026-09-16,,"lan wangji, lan zhan"
-Ning Que,Ever Night,extended search,,3,2,1,0,0,0,3,2026-05-17,2026-06-01,Ever Night (2),ning que
-Linley Baruch,Coiling Dragon,extended search,,3,0,3,0,0,3,0,2025-09-19,2025-10-06,,linley
-Johan Johan,Monster,excluded (not web novel),,3,0,3,0,1,1,1,2024-11-27,2026-10-12,,johan johan
-Hu Mei Er,Reverend Insanity,extended search,,2,0,2,0,0,2,0,2025-07-04,2025-07-04,,hu mei er
-Dwayne Dantes (Klein alias),Lord of the Mysteries,extended search,,2,0,2,0,0,2,0,2025-06-13,2025-07-14,Lord of the Mysteries (1),dwayne dantes
-Taylor Hebert (Skitter / Weaver),Worm,extended search,,2,1,1,0,0,1,1,2025-06-25,2026-06-13,Worm (2),"skitter, taylor hebert"
-Cauldron,Worm,not a character,organisation (Worm),2,1,1,0,0,0,2,2026-01-12,2026-04-06,,!Cauldron
-Anvil (Shadow Slave),Shadow Slave,extended search,,2,1,1,0,0,1,1,2025-11-10,2026-08-15,Shadow Slave (1),!Anvil
-Aaron Smith-Teller,Unsong,extended search,,2,0,2,0,0,1,1,2025-12-26,2026-07-12,Unsong (2),"aaron smith-teller, smith-teller"
-Zorian Kazinski,Mother of Learning,extended search,,2,0,2,0,0,2,0,2025-10-11,2025-10-20,A Will Eternal (1); Lord of the Mysteries (1); Mother of Learning (1),zorian
-Arthur Leywin,The Beginning After the End,extended search,,2,0,2,0,0,0,2,2026-09-02,2026-10-03,,arthur leywin
-Zheng Zha,Terror Infinity,extended search,,2,0,2,0,0,0,2,2026-06-27,2026-06-27,,zheng zha
-Han Li,A Record of a Mortal's Journey to Immortality,extended search,ambiguous name: count may include unrelated uses,2,2,0,0,0,2,0,2025-01-08,2025-07-25,Reverend Insanity (1),han li
-Qin Mu,Tales of Herding Gods,extended search,,2,0,2,0,0,2,0,2025-10-27,2025-11-15,,qin mu
-Heaven Demon Venerable,Reverend Insanity,extended search,,2,0,2,0,0,2,0,2025-07-25,2025-12-10,,heaven demon venerable
-Lotus Immortal Venerable,Reverend Insanity,extended search,,2,0,2,0,0,2,0,2025-06-09,2025-06-09,,lotus immortal venerable
-Cwohae,Lord of the Mysteries,extended search,,2,0,2,0,0,2,0,2025-07-29,2025-08-02,Lord of the Mysteries (1),cwohae
-Qin Ding Ling,Reverend Insanity,extended search,,1,0,1,0,0,1,0,2025-04-28,2025-04-28,,qin ding ling
-Leonard Mitchell,Lord of the Mysteries,extended search,,1,1,0,0,1,0,0,2024-10-22,2024-10-22,Lord of the Mysteries (1),leonard mitchell
-Derrick Berg,Lord of the Mysteries,extended search,,1,0,1,0,0,1,0,2025-10-10,2025-10-10,,derrick berg
-Arrodes,Lord of the Mysteries,extended search,,1,0,1,0,0,1,0,2025-08-06,2025-08-06,Lord of the Mysteries (1),arrodes
-Hidden Sage,Lord of the Mysteries,extended search,,1,0,1,0,0,0,1,2026-10-11,2026-10-11,,hidden sage
-Mr. World (Klein alias),Lord of the Mysteries,extended search,,1,0,1,0,0,1,0,2025-11-09,2025-11-09,Lord of the Mysteries (1),"mr world, mr. world"
-Tattletale (Lisa Wilbourn),Worm,extended search,,1,0,1,0,0,1,0,2025-10-05,2025-10-05,,"lisa wilbourn, tattletale"
-Number Man,Worm,extended search,,1,0,1,0,0,0,1,2026-07-12,2026-07-12,Worm (1),number man
-Jack Slash,Worm,extended search,,1,0,1,0,0,1,0,2025-11-30,2025-11-30,,jack slash
-Dinah Alcott,Worm,extended search,,1,1,0,0,0,1,0,2025-10-01,2025-10-01,Worm (1),dinah alcott
-Ki Song,Shadow Slave,extended search,,1,0,1,0,0,1,0,2025-11-10,2025-11-10,Shadow Slave (1),ki song
-Professor Quirrell,Harry Potter and the Methods of Rationality,extended search,,1,1,0,0,0,1,0,2025-11-07,2025-11-07,,quirrell
-Yoo Joonghyuk,Omniscient Reader's Viewpoint,extended search,,1,0,1,0,0,1,0,2025-02-12,2025-02-12,,"joonghyuk, yoo jonghyuk, yoo joonghyuk"
-Chung Myung,Return of the Mount Hua Sect,extended search,,1,0,1,0,0,1,0,2025-05-19,2025-05-19,,"chung myung, chungmyung"
-Hua Cheng,Heaven Official's Blessing,extended search,,1,0,1,0,0,0,1,2026-07-30,2026-07-30,,hua cheng
-Meng Hao,I Shall Seal the Heavens,extended search,,1,0,1,0,0,1,0,2025-11-03,2025-11-03,,meng hao
-Tang San,Soul Land,extended search,,1,0,1,0,0,1,0,2025-11-05,2025-11-05,Soul Land (1),tang san
-Han Xiao,The Legendary Mechanic,extended search,,1,1,0,0,0,1,0,2025-12-23,2025-12-23,The Legendary Mechanic (1),han xiao
-Xu Qi'an,Nightwatchman (Great Zhou),extended search,,1,1,0,0,0,0,1,2026-09-01,2026-09-01,,"xu qi'an, xu qian"
-Ye Xiu,The King's Avatar,extended search,,1,1,0,0,0,1,0,2025-12-22,2025-12-22,,ye xiu
-Yang Kai,Martial Peak,extended search,,1,0,1,0,0,0,1,2026-09-16,2026-09-16,,yang kai
-Earth Immortal Venerable,Reverend Insanity,extended search,,1,0,1,0,0,1,0,2025-11-04,2025-11-04,,earth immortal venerable
-Sun Immortal Venerable,Reverend Insanity,extended search,,1,0,1,0,0,1,0,2025-08-04,2025-08-04,,sun immortal venerable
-Henry Fang (English name of Fang Yuan),Reverend Insanity,extended search,,0,0,0,0,0,0,0,,,,henry fang
-Lord Bao Zu,Reverend Insanity,extended search,,0,0,0,0,0,0,0,,,,bao zu
-Azik Eggers,Lord of the Mysteries,extended search,,0,0,0,0,0,0,0,,,,azik
-Fors Wall,Lord of the Mysteries,extended search,,0,0,0,0,0,0,0,,,,fors wall
-Mr. A,Lord of the Mysteries,extended search,,0,0,0,0,0,0,0,,,,!Mr. A
-Will Auceptin,Lord of the Mysteries,extended search,,0,0,0,0,0,0,0,,,,auceptin
-Leymano,Lord of the Mysteries,extended search,,0,0,0,0,0,0,0,,,,leymano
-Scion,Worm,extended search,,0,0,0,0,0,0,0,,,,!Scion
-Eidolon,Worm,extended search,,0,0,0,0,0,0,0,,,,eidolon
-Doctor Mother,Worm,extended search,,0,0,0,0,0,0,0,,,,doctor mother
-Glaistig Uaine,Worm,extended search,,0,0,0,0,0,0,0,,,,glaistig uaine
-Victoria Dallon,Ward,extended search,,0,0,0,0,0,0,0,,,,victoria dallon
-Blake Thorburn,Pact,extended search,,0,0,0,0,0,0,0,,,,blake thorburn
-Sylvester (Twig),Twig,extended search,,0,0,0,0,0,0,0,,,,sylvester lambsbridge
-Noctis,Shadow Slave,extended search,,0,0,0,0,0,0,0,,,,noctis
-Harry James Potter-Evans-Verres,Harry Potter and the Methods of Rationality,extended search,,0,0,0,0,0,0,0,,,,"hjpev, potter-evans-verres"
-Zach Noveda,Mother of Learning,extended search,,0,0,0,0,0,0,0,,,,zach noveda
-Quatach-Ichl,Mother of Learning,extended search,,0,0,0,0,0,0,0,,,,"quatach, quatach-ichl"
-Red Robe,Mother of Learning,extended search,,0,0,0,0,0,0,0,,,,red robe
-Silverlake,Mother of Learning,extended search,,0,0,0,0,0,0,0,,,,silverlake
-Yoo Sangah,Omniscient Reader's Viewpoint,extended search,,0,0,0,0,0,0,0,,,,yoo sangah
-Eugene Lionheart,Damn Reincarnation,extended search,,0,0,0,0,0,0,0,,,,eugene lionheart
-Deculein,Academy's Undercover Professor,extended search,,0,0,0,0,0,0,0,,,,deculein
-Kim Hajin,The Novel's Extra,extended search,,0,0,0,0,0,0,0,,,,kim hajin
-Cha Yeon-woo,Second Life Ranker,extended search,,0,0,0,0,0,0,0,,,,"yeon-woo, yeonwoo"
-Penelope Eckart,Death Is the Only Ending for the Villainess,extended search,,0,0,0,0,0,0,0,,,,penelope eckart
-Shirone,Infinite Mage,extended search,,0,0,0,0,0,0,0,,,,shirone
-Fan Xian,Joy of Life,extended search,,0,0,0,0,0,0,0,,,,fan xian
-Xie Lian,Heaven Official's Blessing,extended search,,0,0,0,0,0,0,0,,,,xie lian
-Shen Qingqiu,Scum Villain's Self-Saving System,extended search,,0,0,0,0,0,0,0,,,,shen qingqiu
-Luo Binghe,Scum Villain's Self-Saving System,extended search,,0,0,0,0,0,0,0,,,,luo binghe
-Xiao Yan,Battle Through the Heavens,extended search,,0,0,0,0,0,0,0,,,,xiao yan
-Yang Jian,Mysterious Revival,extended search,,0,0,0,0,0,0,0,,,,yang jian
-Shi Hao,Perfect World,extended search,,0,0,0,0,0,0,0,,,,shi hao
-Yun Che,Against the Gods,extended search,,0,0,0,0,0,0,0,,,,yun che
-Roland Wimbledon,Release That Witch,extended search,,0,0,0,0,0,0,0,,,,"release that witch, roland wimbledon"
-Zhang Xuan,Library of Heaven's Path,extended search,,0,0,0,0,0,0,0,,,,zhang xuan
-Luo Feng,Swallowed Star,extended search,,0,0,0,0,0,0,0,,,,luo feng
-Song Shuhang,Cultivation Chat Group,extended search,,0,0,0,0,0,0,0,,,,song shuhang
-Shang Jianyao,Embers Ad Infinitum,extended search,,0,0,0,0,0,0,0,,,,shang jianyao
-Chen Ping'an,Sword of Coming,extended search,,0,0,0,0,0,0,0,,,,"chen ping'an, chen pingan"
-Mo Fan,Versatile Mage,extended search,,0,0,0,0,0,0,0,,,,mo fan
-Shen Qiao,Thousand Autumns,extended search,,0,0,0,0,0,0,0,,,,shen qiao
-Ji Ning,Desolate Era,extended search,,0,0,0,0,0,0,0,,,,ji ning
-Dread Empress Malicia,A Practical Guide to Evil,extended search,,0,0,0,0,0,0,0,,,,malicia
-Erin Solstice,The Wandering Inn,extended search,,0,0,0,0,0,0,0,,,,erin solstice
-Niers Astoragon,The Wandering Inn,extended search,,0,0,0,0,0,0,0,,,,"astoragon, niers"
-Az'kerash,The Wandering Inn,extended search,,0,0,0,0,0,0,0,,,,"az'kerash, azkerash"
-Jake Thayne,The Primal Hunter,extended search,,0,0,0,0,0,0,0,,,,"jake thayne, primal hunter"
-Jason Asano,He Who Fights With Monsters,extended search,,0,0,0,0,0,0,0,,,,jason asano
-Zac Atwood,Defiance of the Fall,not a character,"work title ""Defiance of the Fall""",0,0,0,0,0,0,0,,,,defiance of the fall
-Joffrey (Purple Days),Purple Days,not a character,"work title ""Purple Days""",0,0,0,0,0,0,0,,,,purple days
-Super Supportive,Super Supportive,not a character,work title,0,0,0,0,0,0,0,,,,super supportive
-Jin Rou,Beware of Chicken,extended search,,0,0,0,0,0,0,0,,,,"beware of chicken, jin rou"
-Paranoid Mage,Paranoid Mage,not a character,work title,0,0,0,0,0,0,0,,,,paranoid mage
-Shinji Shikai,Japanese,excluded (not web novel),,0,0,0,0,0,0,0,,,,shinji shikai
+﻿character,novel
+An Sheng,18 Levels of Hell: Lying Is Forbidden Here
+Bai Xiuchi,18 Levels of Hell: Lying Is Forbidden Here
+Baili Qiangsheng,18 Levels of Hell: Lying Is Forbidden Here
+Big Gold Tooth,18 Levels of Hell: Lying Is Forbidden Here
+Cao Xiu,18 Levels of Hell: Lying Is Forbidden Here
+Chen Nuo,18 Levels of Hell: Lying Is Forbidden Here
+Chen Ran,18 Levels of Hell: Lying Is Forbidden Here
+Chen Yang,18 Levels of Hell: Lying Is Forbidden Here
+Chen Yifan,18 Levels of Hell: Lying Is Forbidden Here
+Cheng Si,18 Levels of Hell: Lying Is Forbidden Here
+Chu Yinian,18 Levels of Hell: Lying Is Forbidden Here
+Chu Yun,18 Levels of Hell: Lying Is Forbidden Here
+Cui Yu,18 Levels of Hell: Lying Is Forbidden Here
+Diwu Zeyi,18 Levels of Hell: Lying Is Forbidden Here
+Diwu Zhiyi,18 Levels of Hell: Lying Is Forbidden Here
+Duo Jie,18 Levels of Hell: Lying Is Forbidden Here
+Feng Qirui,18 Levels of Hell: Lying Is Forbidden Here
+Gao Lan,18 Levels of Hell: Lying Is Forbidden Here
+Gao Sheng,18 Levels of Hell: Lying Is Forbidden Here
+Geng Hao,18 Levels of Hell: Lying Is Forbidden Here
+Han Fei,18 Levels of Hell: Lying Is Forbidden Here
+Hua Changsheng,18 Levels of Hell: Lying Is Forbidden Here
+Jiang Beili,18 Levels of Hell: Lying Is Forbidden Here
+Lai Qinghuan,18 Levels of Hell: Lying Is Forbidden Here
+Li Annan,18 Levels of Hell: Lying Is Forbidden Here
+Li Hailong,18 Levels of Hell: Lying Is Forbidden Here
+Li Xintong,18 Levels of Hell: Lying Is Forbidden Here
+Li Zhitong,18 Levels of Hell: Lying Is Forbidden Here
+Lin Feng,18 Levels of Hell: Lying Is Forbidden Here
+Lin Jiabao,18 Levels of Hell: Lying Is Forbidden Here
+Lin Jiabei,18 Levels of Hell: Lying Is Forbidden Here
+Lin Ou,18 Levels of Hell: Lying Is Forbidden Here
+Lin Xiuyuan,18 Levels of Hell: Lying Is Forbidden Here
+Lin Xuan,18 Levels of Hell: Lying Is Forbidden Here
+Ling Chi,18 Levels of Hell: Lying Is Forbidden Here
+Liu Xing,18 Levels of Hell: Lying Is Forbidden Here
+Long Hui,18 Levels of Hell: Lying Is Forbidden Here
+Ma Wenjie,18 Levels of Hell: Lying Is Forbidden Here
+Ma Xiu,18 Levels of Hell: Lying Is Forbidden Here
+Meng Tianhong,18 Levels of Hell: Lying Is Forbidden Here
+Mo Xi,18 Levels of Hell: Lying Is Forbidden Here
+Mo Zigui,18 Levels of Hell: Lying Is Forbidden Here
+Nan Sheng,18 Levels of Hell: Lying Is Forbidden Here
+Qi Yanqing,18 Levels of Hell: Lying Is Forbidden Here
+Qiu Hua,18 Levels of Hell: Lying Is Forbidden Here
+Qiu Yinong,18 Levels of Hell: Lying Is Forbidden Here
+Shu Renjun,18 Levels of Hell: Lying Is Forbidden Here
+Si Jincheng,18 Levels of Hell: Lying Is Forbidden Here
+Tong Fei,18 Levels of Hell: Lying Is Forbidden Here
+Tong Yiyang,18 Levels of Hell: Lying Is Forbidden Here
+Tu Xian,18 Levels of Hell: Lying Is Forbidden Here
+Tutorial Youth,18 Levels of Hell: Lying Is Forbidden Here
+Xin Shuguang,18 Levels of Hell: Lying Is Forbidden Here
+Xu Chaoyang,18 Levels of Hell: Lying Is Forbidden Here
+Ying Siliang,18 Levels of Hell: Lying Is Forbidden Here
+Yu Xing,18 Levels of Hell: Lying Is Forbidden Here
+Yue Guanshan,18 Levels of Hell: Lying Is Forbidden Here
+Zhang Baixi,18 Levels of Hell: Lying Is Forbidden Here
+Zhang Fan,18 Levels of Hell: Lying Is Forbidden Here
+Zhang Jinhua,18 Levels of Hell: Lying Is Forbidden Here
+Zhang Meili,18 Levels of Hell: Lying Is Forbidden Here
+Zhu Yiting,18 Levels of Hell: Lying Is Forbidden Here
+Tang Jie,Aspiring to the Immortal Path
+Arthur Leywin,The Beginning After the End
+Ang Xiao,Being a Talent in Chusheng Demon Sect
+Dao Tianqi,Being a Talent in Chusheng Demon Sect
+Empress Xiao,Being a Talent in Chusheng Demon Sect
+Fei Xue,Being a Talent in Chusheng Demon Sect
+First Saint,Being a Talent in Chusheng Demon Sect
+Heaven Mending Peak Master,Being a Talent in Chusheng Demon Sect
+Jun Daoist,Being a Talent in Chusheng Demon Sect
+Lu Yang,Being a Talent in Chusheng Demon Sect
+Si Sui,Being a Talent in Chusheng Demon Sect
+Suo Huan,Being a Talent in Chusheng Demon Sect
+World Honoured One,Being a Talent in Chusheng Demon Sect
+Command,Blackstone Code
+Lynch,Blackstone Code
+Ning Qiushui,Blood Gates
+Ning Yu,The Cicada's Song Accompanies Yangxi
+Mu Zixuan,Court of the Sword-Treading
+Xu Qi'an,Dafeng's Night Squad
+Wang Ling,The Daily Life of the Immortal King
+Li Huowang,Dao of the Bizarre Immortal
+Wu Ji,Dedicate One's Mind
+Chen Qing,The Demon World I Designed
+Pun Yunchuan,The Demon World I Designed
+Zi Yue,The Demon World I Designed
+Smiley Face,Detective Training Manual
+Ten Ten,Detective Training Manual
+Wu Xin,Detective Training Manual
+Su Chen,Divine Throne of Primordial Blood
+Gu Chensha,Dragon Talisman
+Dantalian,Dungeon Defense
+Li Qiye,Emperor's Domination
+Ning Que,Ever Night
+Gu Hai,Everlasting Immortal Firmament
+Ed Rothtaylor,The Extra's Academy Survival Guide
+Bai Xinghe,Forty Millenniums of Cultivation
+Li Yao,Forty Millenniums of Cultivation
+Shin Woo Jin,The Genius Who Reads Through the World
+Cai Zhiyuan,God's Imitator
+Cao Haichuan,God's Imitator
+Fu Chen,God's Imitator
+Li Renshu,God's Imitator
+Lin Sizhi,God's Imitator
+Qin Cheng,God's Imitator
+Qin Yao,God's Imitator
+Wang Yongxin,God's Imitator
+Wei Xinjian,God's Imitator
+Yang Yuting,God's Imitator
+Yao Yuan,God's Imitator
+Jiang Zhe,The Grandmaster Strategist
+Hua Cheng,Heaven Official's Blessing
+Niu Youdao,Heavenly Genius
+Shao Pingbo,Heavenly Genius
+Yuan Gang,Heavenly Genius
+Lou Lan,Heavenly Saint Thief
+Yan Zhaoge,History's Strongest Senior Brother
+Gu Changge,I Am the Fated Villain
+Meng Hao,I Shall Seal the Heavens
+Ye Xiu,The King's Avatar
+Chapman Lampard,Kingdom's Bloodline
+Kessel,Kingdom's Bloodline
+Mindis the Third,Kingdom's Bloodline
+Nuven,Kingdom's Bloodline
+Thales Jadestar,Kingdom's Bloodline
+Han Xiao,The Legendary Mechanic
+Adam,Lord of the Mysteries
+Alger Wilson,Lord of the Mysteries
+Amon,Lord of the Mysteries
+Antigonus,Lord of the Mysteries
+Arrodes,Lord of the Mysteries
+Audrey Hall,Lord of the Mysteries
+Bethel Abraham,Lord of the Mysteries
+Cattleya,Lord of the Mysteries
+Cwohae,Lord of the Mysteries
+Derrick Berg,Lord of the Mysteries
+Emlyn White,Lord of the Mysteries
+Evernight Goddess,Lord of the Mysteries
+Fors Wall,Lord of the Mysteries
+George III,Lord of the Mysteries
+Hermes,Lord of the Mysteries
+Hidden Sage,Lord of the Mysteries
+Ince Zangwill,Lord of the Mysteries
+Klein Moretti,Lord of the Mysteries
+Leonard Mitchell,Lord of the Mysteries
+Lumian Lee,Lord of the Mysteries
+Medici,Lord of the Mysteries
+Ouroboros,Lord of the Mysteries
+Roselle Gustav,Lord of the Mysteries
+Zaratul,Lord of the Mysteries
+Chu Feng,Martial God Asura
+Yang Kai,Martial Peak
+Li Chejing,The Mirror Legacy
+Lan Wangji,Mo Dao Zu Shi
+Nie Huaisang,Mo Dao Zu Shi
+Wei Wuxian,Mo Dao Zu Shi
+Zorian Kazinski,Mother of Learning
+Chen Ge,My House of Horrors
+Kain,My Level Zero System
+Li Fan,My Longevity Simulation
+Li Changshou,My Senior Brother Is Too Steady
+Ning Zhuo,Mysteries of Immortal Puppet Master
+Lu Chen,Nine Bestowments
+Mei Changsu,Nirvana in Fire
+Han Sooyoung,Omniscient Reader's Viewpoint
+Kim Dokja,Omniscient Reader's Viewpoint
+Secretive Plotter,Omniscient Reader's Viewpoint
+Yoo Joonghyuk,Omniscient Reader's Viewpoint
+Wang Lu,Once Upon a Spirit Blade Mountain
+Zhou Ming,Player Lackeys All Over the World
+Su Ming,Pursuit of the Truth
+Mo Tan,Quadruple Split
+Han Li,A Record of a Mortal's Journey to Immortality
+Lee Kiyoung,Regressor Instruction Manual
+Wang Lin,Renegade Immortal
+Chung Myung,Return of the Mount Hua Sect
+Ba Gui,Reverend Insanity
+Bai Ning Bing,Reverend Insanity
+Bo Qing,Reverend Insanity
+Chang Shan Yin,Reverend Insanity
+Chou Jiu,Reverend Insanity
+Di Zang Sheng,Reverend Insanity
+Dong Fang Chang Fan,Reverend Insanity
+Duke Long,Reverend Insanity
+Fairy Zi Wei,Reverend Insanity
+Fang Di Chang,Reverend Insanity
+Fang Yuan,Reverend Insanity
+Feng Jin Huang,Reverend Insanity
+Feng Jiu Ge,Reverend Insanity
+Feng Tian Yu,Reverend Insanity
+Gao Wan,Reverend Insanity
+Ge Yao,Reverend Insanity
+Genesis Lotus Immortal Venerable,Reverend Insanity
+Giant Sun Immortal Venerable,Reverend Insanity
+Great Dream Immortal Venerable,Reverend Insanity
+Gu Yue Bo,Reverend Insanity
+Gu Yue Fang Zheng,Reverend Insanity
+Gu Yue Mo Chen,Reverend Insanity
+Gu Yue Mo Yan,Reverend Insanity
+Gu Yue Qing Shu,Reverend Insanity
+Hei Lou Lan,Reverend Insanity
+Hu Mei Er,Reverend Insanity
+Jia Fu,Reverend Insanity
+Jia Gui,Reverend Insanity
+Jia Jin Sheng,Reverend Insanity
+Lang Ya Land Spirit,Reverend Insanity
+Limitless Demon Venerable,Reverend Insanity
+Long Qing Tian,Reverend Insanity
+Lu Wei Yin,Reverend Insanity
+Ma Hong Yun,Reverend Insanity
+Mao Li Qiu,Reverend Insanity
+Mo Bei,Reverend Insanity
+Mo Wu Tian,Reverend Insanity
+Mo Yao,Reverend Insanity
+Old Man Wang,Reverend Insanity
+Paradise Earth Immortal Venerable,Reverend Insanity
+Primordial Origin Immortal Venerable,Reverend Insanity
+Qi Sea Ancestor,Reverend Insanity
+Qin Bai Sheng,Reverend Insanity
+Qin Ding Ling,Reverend Insanity
+Reckless Savage Demon Venerable,Reverend Insanity
+Red Lotus Demon Venerable,Reverend Insanity
+Ren Zu,Reverend Insanity
+Shang Xin Ci,Reverend Insanity
+Shang Yan Fei,Reverend Insanity
+Shen Cui,Reverend Insanity
+Shen Shang,Reverend Insanity
+Spectral Soul Demon Venerable,Reverend Insanity
+Star Constellation Immortal Venerable,Reverend Insanity
+Tai Bai Yun Sheng,Reverend Insanity
+Tao Zhu,Reverend Insanity
+Thieving Heaven Demon Venerable,Reverend Insanity
+Tie Ruo Nan,Reverend Insanity
+Tie Xue Leng,Reverend Insanity
+Wang Da,Reverend Insanity
+Wei Ling Yang,Reverend Insanity
+Wu Shen Tong,Reverend Insanity
+Wu Shuai,Reverend Insanity
+Wu Yi Hai,Reverend Insanity
+Wu Yong,Reverend Insanity
+Xiao Mang,Reverend Insanity
+Xie Han Mo,Reverend Insanity
+Xu Hao,Reverend Insanity
+Xu Tuo,Reverend Insanity
+Yan Jun,Reverend Insanity
+Ying Ming,Reverend Insanity
+Ying Wu Xie,Reverend Insanity
+Zhan Bu Du,Reverend Insanity
+Zhang San San,Reverend Insanity
+James Talloran,SCP Foundation
+Marion Wheeler,SCP Foundation
+Murphy Lawden,SCP Foundation
+Anvil,Shadow Slave
+Ariel,Shadow Slave
+Cassie,Shadow Slave
+Ki Song,Shadow Slave
+Mordret,Shadow Slave
+Nephis,Shadow Slave
+Sunless,Shadow Slave
+Gu Wen,Sinmonger
+Tea Immortal,Sinmonger
+Tian Yi,Sinmonger
+Sung Jinwoo,Solo Leveling
+Colonel Timo,Solo Max-Level Newbie
+Kang Jinhyuk,Solo Max-Level Newbie
+Player Unknown,Solo Max-Level Newbie
+Tang San,Soul Land
+Kim Gong-ja,SSS-Class Suicide Hunter
+Zhuo Yifan,The Steward Demonic Emperor
+Qin Mu,Tales of Herding Gods
+Lin Qin,Ten Days Ultimatum
+Qi Xia,Ten Days Ultimatum
+Qiao Jiajin,Ten Days Ultimatum
+Li Qing,The Terrible Eternal Path
+Chu Xuan,Terror Infinity
+Zheng Zha,Terror Infinity
+Ning Ye,The Thousand Mechanisms Palace
+Feng Bujue,Thriller Paradise
+Han Jue,Top Tier Providence
+Cale Henituse,Trash of the Count's Family
+Bai Zhi,Underworld Player
+Aaron Smith-Teller,Unsong
+Albion,Unsong
+Comet King,Unsong
+Thamiel,Unsong
+Uriel,Unsong
+Angel of Wisdom,Vile Dominion
+Elemental Emperor,Vile Dominion
+He Fan,Vile Dominion
+Huang Weimin,Vile Dominion
+Immortal Chen,Vile Dominion
+Ji Changchen,Vile Dominion
+Jin Bo,Vile Dominion
+Jin Huang,Vile Dominion
+Jin Long,Vile Dominion
+Kong Xuan,Vile Dominion
+Li Gang,Vile Dominion
+Lin Fan,Vile Dominion
+Meng Xian,Vile Dominion
+Ren Ying,Vile Dominion
+Timeless Demon God,Vile Dominion
+Wang Xueyao,Vile Dominion
+Zudas,Vile Dominion
+Chen Xiao,Waking Up to Find Myself Burdened with 40 Murders
+Bai Xiaochun,A Will Eternal
+Gu Qingshan,World's Apocalypse Online
+Coil,Worm
+Contessa,Worm
+Dinah Alcott,Worm
+Jack Slash,Worm
+Number Man,Worm
+Tattletale,Worm
+Taylor Hebert,Worm
+Xue Huai,"Your Excellency, the Prime Minister"
+Shen Jihan,An Ordinary Path through an Incredulous Life
+Charles Morris,The Blind Observer
+Li Guang,The Endless Food Chain
+Xue Yin,The Endless Food Chain
+Xuan Luo,Endless Wonders
+Kei,Kei and Satoshi
+Satoshi,Kei and Satoshi
+Luther Roy,The Paradoxical Miracle

@@ -1,123 +1,85 @@
-# r/IntelligenceScaling: Scraper & Character Analysis
+# r/IntelligenceScaling: Novel Characters
 
-A full archive of [r/IntelligenceScaling](https://www.reddit.com/r/IntelligenceScaling/), the home of "SCD" (Smartest Character Debate), plus a ranked analysis of every character, novel, manga, anime, show, game and arc the community talks about.
+A full archive of [r/IntelligenceScaling](https://www.reddit.com/r/IntelligenceScaling/) (the "SCD", Smartest Character Debate, community) and a checked list of **every web novel and light novel character the subreddit talks about, each with the novel it comes from**.
 
 | | |
 |---|---|
-| **Date range** | 10 Nov 2023 to 3 Nov 2026 |
-| **Posts** | 44,007 |
-| **Comments** | 704,066 |
-| **Characters ranked** | 566 (hand-checked), each with a work and a type |
-| **Works** | 220 novels, manga, anime, shows and games |
-| **Arcs / games** | 252 |
-| **Other names found** | 18,394 capitalized names and terms that could not be classified, listed with counts |
-| **Most-mentioned character** | Light Yagami (*Death Note*), 28,715 mentions |
+| **Date range** | 10 Nov 2023 (the subreddit's first post) to 13 Nov 2026 |
+| **Posts** | 44,474 |
+| **Comments** | 710,836 |
+| **Novel characters listed** | **544** |
+| Web novel characters | 315, from 81 web novels |
+| Community-written web fiction | 8, from 6 stories written by subreddit members |
+| Light novel characters | 128, from 28 light novels |
+| Other published novels | 68, from 35 novels |
+| **Undiscovered** | 25 characters whose novel could not be identified |
 
-**Start here: [results/ANALYSIS.md](results/ANALYSIS.md)**
+**Start here: [results/NOVEL_CHARACTERS.md](results/NOVEL_CHARACTERS.md)**, one table with two columns: character and novel.
 
-## What you get
+The lists are not ranked. A character is on the list if the archive mentions it at all, and each one was checked against what the posts and comments themselves say it is from. What the recheck changed is in [results/CHANGES.md](results/CHANGES.md).
+
+## Files
 
 | File | Contents |
 |---|---|
-| [results/ALL_CHARACTERS.md](results/ALL_CHARACTERS.md) · [csv](results/characters_all.csv) | **Every character, ranked high to low** with total mentions, posts vs comments, per-year counts (2023 to 2026) and first/last mentioned dates |
-| [results/ALL_WORKS.md](results/ALL_WORKS.md) · [csv](results/works_all.csv) | **Every novel, manga, anime, show and game**, with its type, title mentions, character mentions and top characters |
-| [results/ARCS.md](results/ARCS.md) · [csv](results/arcs_all.csv) | **Every arc / game discussed**, ranked, with average score and most-discussed characters |
-| [results/ANALYSIS.md](results/ANALYSIS.md) | Summary: activity by year, top 50 characters, top 10 per year, types of work, **best arcs per work** |
-| [results/WEB_NOVEL_CHARACTERS.md](results/WEB_NOVEL_CHARACTERS.md) · [csv](results/web_novel_characters.csv) | **Every web novel character**: 362 names counted straight from the raw archive, including ones with 0 mentions, grouped by work, with spelling variants and exclusions listed |
-| [results/names_unreviewed.csv](results/names_unreviewed.csv) | Every other capitalized name or term found, with counts, so nothing is dropped (includes non-names such as scoring terms) |
-| [results/mediums.csv](results/mediums.csv) · [activity_by_month.csv](results/activity_by_month.csv) | Totals per type of work; posts and comments per month |
+| [results/NOVEL_CHARACTERS.md](results/NOVEL_CHARACTERS.md) · [csv](results/novel_characters.csv) | **Every character and its novel** in one table |
+| [results/WEB_NOVEL_CHARACTERS.md](results/WEB_NOVEL_CHARACTERS.md) · [csv](results/web_novel_characters.csv) | Web novel characters, grouped by novel (Chinese, Korean and Western web novels, plus the stories written by subreddit members) |
+| [results/LIGHT_NOVEL_CHARACTERS.md](results/LIGHT_NOVEL_CHARACTERS.md) · [csv](results/light_novel_characters.csv) | Light novel characters, grouped by novel |
+| [results/OTHER_NOVEL_CHARACTERS.md](results/OTHER_NOVEL_CHARACTERS.md) · [csv](results/other_novel_characters.csv) | Characters from other published novels (Sherlock Holmes, Dune, Hannibal Lecter novels ...) |
+| [results/UNDISCOVERED_CHARACTERS.md](results/UNDISCOVERED_CHARACTERS.md) · [csv](results/undiscovered_characters.csv) | **Undiscovered:** characters whose novel could not be found |
+| [results/NOVELS.md](results/NOVELS.md) | Every novel, by type |
+| [results/CHANGES.md](results/CHANGES.md) | What the recheck changed: wrong novels corrected, outliers removed, characters and novels added |
+| [results/novel_characters_evidence.csv](results/novel_characters_evidence.csv) | The numbers behind each entry (mentions, first and last date, how often the novel is named alongside). Kept separate so the lists stay at two fields |
 
-## Highlights
+Every csv list has exactly two columns: `character`, `novel`.
 
-### Top 20 characters
+## What is in the lists
 
-Mentions = posts (title + body) and comments that name the character at least once.
+**Novels with the most characters discussed**
 
-| # | Character | Work | Type | Mentions |
-|---:|---|---|---|---:|
-| 1 | Light Yagami | Death Note | Manga/Anime | 28,715 |
-| 2 | Ayanokoji Kiyotaka | Classroom of the Elite | Light novel | 28,703 |
-| 3 | Baku Madarame | Usogui | Manga | 23,516 |
-| 4 | Akiyama Shinichi | Liar Game | Manga | 23,178 |
-| 5 | Katagiri Yuuichi | Tomodachi Game | Manga | 16,305 |
-| 6 | Johan Liebert | Monster | Manga | 11,530 |
-| 7 | Hal (Prime Minister) | Usogui | Manga | 10,329 |
-| 8 | Fang Yuan | Reverend Insanity | Web novel | 9,140 |
-| 9 | Yokoya Norihiko | Liar Game | Manga | 8,799 |
-| 10 | Hannibal Lecter | Hannibal / Thomas Harris novels | Novel/TV | 7,775 |
-| 11 | L Lawliet | Death Note | Manga/Anime | 7,569 |
-| 12 | Tokuchi Toua | One Outs | Manga | 7,508 |
-| 13 | Yumeko Jabami | Kakegurui | Manga | 6,588 |
-| 14 | Akagi Shigeru | Akagi | Manga | 6,239 |
-| 15 | Patrick Jane | The Mentalist | TV | 5,991 |
-| 16 | Chen Ran | 18 Levels of Hell | Web novel | 5,369 |
-| 17 | Kanade Otonokoji | Super Danganronpa 2 (fan game) | Game | 4,778 |
-| 18 | Vincent Lalo | Usogui | Manga | 4,537 |
-| 19 | Yagami Takuya | Classroom of the Elite | Light novel | 4,503 |
-| 20 | Near (Nate River) | Death Note | Manga/Anime | 4,439 |
+| Web novels | Characters | | Light novels | Characters |
+|---|---:|---|---|---:|
+| Reverend Insanity | 73 | | Classroom of the Elite | 52 |
+| 18 Levels of Hell: Lying Is Forbidden Here | 62 | | No Game No Life | 14 |
+| Lord of the Mysteries | 24 | | Re:Zero | 13 |
+| Vile Dominion | 17 | | Overlord | 6 |
+| Being a Talent in Chusheng Demon Sect | 11 | | Hyouka | 4 |
+| God's Imitator | 11 | | Roshidere | 4 |
+| Shadow Slave | 7 | | The Apothecary Diaries | 4 |
+| Worm | 7 | | Monogatari | 4 |
 
-"L" is undercounted because the bare letter is also internet slang for a loss, so only unambiguous forms such as "L Lawliet", "CTW L" and "vs L" are matched.
+**Undiscovered.** 25 characters are discussed as novel characters but have no novel that could be confirmed: Bai Ding Zhe, Bai Yu, Bai Zhe, Chen Changsheng, Chen Jie, Devil Advisor, Duan Lou, Gao Chuan, Gu Shiyan, Heiti Taizheng, Jiang Shen, Lin Yu, Long Chian, Ocrevius, Qi Jia, Ro Zha, Sou Loang, Tan Mo, Tarantulian Demon, The Founder, Vereiya, Wang Wei, Xie Wuming, Zha Hiangtan, Zi Chen. For most of them the subreddit itself asks "where is he from?" and gets no answer, or the novel is untranslated or deliberately kept private.
 
-### Types of work
+**Community-written web fiction.** Six stories were written by subreddit members and are debated like any other novel: *An Ordinary Path through an Incredulous Life* (Shen Jihan), *The Endless Food Chain* (Xue Yin, Li Guang), *Kei and Satoshi*, *Endless Wonders* (Xuan Luo), *The Paradoxical Miracle* (Luther Roy) and *The Blind Observer* (Charles Morris). They are listed at the end of the web novel file.
 
-| Type | Works | Characters | Character mentions |
-|---|---:|---:|---:|
-| Manga | 50 | 170 | 225,414 |
-| Light novel | 16 | 57 | 71,249 |
-| TV | 34 | 63 | 28,526 |
-| Game | 25 | 60 | 24,441 |
-| Web novel | 23 | 33 | 22,929 |
-| Novel | 35 | 49 | 19,237 |
-| Comic | 5 | 24 | 9,206 |
-| Visual novel | 6 | 14 | 7,457 |
-| Anime | 2 | 7 | 5,144 |
-| Film | 13 | 15 | 5,066 |
+## What the recheck changed
 
-### Most-discussed arcs
+Full details are in [results/CHANGES.md](results/CHANGES.md). In short:
 
-| Arc / game | Work | Mentions |
-|---|---|---:|
-| Friendless Game | Tomodachi Game | 416 |
-| Contraband Game | Liar Game | 257 |
-| Downsizing Game | Liar Game | 103 |
-| Yotsuba Arc | Death Note | 105 |
-| Labyrinth Arc | Usogui | 97 |
-| Hangman Arc | Usogui | 83 |
-| Abandoned Building Arc | Usogui | 77 |
+- **Coverage.** The archive in the repository ended on 3 Nov 2026, not 11 Nov. It now runs to 13 Nov 2026 (+467 posts, +6,770 comments). Nothing exists before 10 Nov 2023 because that is the day of the subreddit's first post.
+- **More than 20 characters were under the wrong novel**, for example Colonel Timo (listed under God's Imitator, actually Solo Max-Level Newbie), "Lin Qi" (listed under 18 Levels of Hell, actually Lynch from Blackstone Code) and Feng Bujue (actually Thriller Paradise).
+- **About 60 "unidentified" characters now have a novel**, for example Lu Yang (Being a Talent in Chusheng Demon Sect), Mo Tan (Quadruple Split), Ning Yu (The Cicada's Song Accompanies Yangxi) and Gu Chensha (Dragon Talisman).
+- **Outliers removed.** Items, places and terms that had been counted as characters (Wisdom Gu, Heavenly Court, Gui Yu ...); names that belong to manga, manhua or real people; the 54 characters that were listed with 0 mentions; and misleading matches such as Kirito (mostly Kirito Kamui from Psycho-Pass) and "Linley" (a typo of "likely").
+- **The Three Kingdoms strategists** (Zhuge Liang, Guo Jia, Sima Yi ...) are no longer listed as novel characters, because the subreddit discusses them as characters of the manhua *The Ravages of Time* about nine times out of ten.
+- **Added:** about 35 novels and 90 web novel characters that were missing, and a separate light novel list.
 
-The best arcs for every work are in [results/ANALYSIS.md](results/ANALYSIS.md#best-arcs-per-work).
+## Other media
 
-### Web novel characters
-
-A separate pass counted every web novel character directly in all 44,007 posts and 704,066 comments: **362 characters**, 306 mentioned at least once and 56 never mentioned. The list combines the 48 hand-checked web novel characters above, about 160 well-known web novel characters searched by name (Reverend Insanity, Lord of the Mysteries, Worm, Shadow Slave, ORV, Unsong, Mother of Learning, HPMOR and popular Chinese, Korean and Western web novels), and about 150 Chinese-looking names pulled from `names_unreviewed.csv`. For that last group the work is inferred from which web novel title appears in the same post or comment, so it is a best guess.
-
-| # | Character | Work | Mentions |
-|---:|---|---|---:|
-| 1 | Fang Yuan | Reverend Insanity | 9,507 |
-| 2 | Chen Ran | 18 Levels of Hell | 5,608 |
-| 3 | Klein Moretti | Lord of the Mysteries | 1,164 |
-| 4 | Ang Xiao | Struggling to Survive in the Demonic Sect | 1,052 |
-| 5 | Li Gang | Vile Dominion | 833 |
-| 6 | Niu Youdao | Heavenly Genius | 711 |
-| 7 | Spectral Soul Demon Venerable | Reverend Insanity | 377 |
-| 8 | Kang Jinhyuk | Solo Max-Level Newbie | 377 |
-| 9 | Lu Yang | (unidentified web novel) | 355 |
-| 10 | Adam | Lord of the Mysteries | 338 |
-
-Web novels with the most character mentions: Reverend Insanity (12,737), 18 Levels of Hell (7,442), Lord of the Mysteries (2,226), Vile Dominion (1,155), Struggling to Survive in the Demonic Sect (1,052). The full list is in [results/WEB_NOVEL_CHARACTERS.md](results/WEB_NOVEL_CHARACTERS.md).
-
-These counts come from a fresh scan of the raw data, so they are a little higher than the numbers in `characters_all.csv` (Fang Yuan 9,507 here vs 9,140 there). In the web novel list, "Worm" mentioned next to a Chinese name is treated as Reverend Insanity, because it is almost always "Gu worm".
+The earlier all-media analysis (manga, anime, TV, games, comics, ranked by mentions) is still in `results/` and was re-run on the updated archive with the corrected labels, but it is not the focus of this repository:
+[ANALYSIS.md](results/ANALYSIS.md), [ALL_CHARACTERS.md](results/ALL_CHARACTERS.md) (564 characters), [ALL_WORKS.md](results/ALL_WORKS.md) (225 works), [ARCS.md](results/ARCS.md) (255 arcs), `names_unreviewed.csv` (18,581 other capitalized names and terms), `mediums.csv` and `activity_by_month.csv`.
 
 ## Repository layout
 
 ```
 ├── README.md
-├── scraper/scrape_subreddit.py     # downloads every post + comment (no API key)
+├── scraper/scrape_subreddit.py     # downloads every post + comment (no API key); --update adds only what is new
 ├── analysis/
-│   ├── discover_entities.py        # finds names, counts them, writes all reports
+│   ├── novel_catalog.txt           # hand-checked: novel, type, character, spellings
+│   ├── novel_characters.py         # checks the catalog against the archive, writes the novel lists
+│   ├── discover_entities.py        # all-media analysis: finds names, counts them, writes the ranked reports
 │   ├── report.py                   # writes ANALYSIS.md
-│   ├── analyze_mentions.py         # hand-written seed dictionary of characters and works
-│   ├── reviewed_names.txt          # extra hand-checked characters, works and aliases
+│   ├── analyze_mentions.py         # seed dictionary for the all-media analysis
+│   ├── reviewed_names.txt          # extra hand-checked names for the all-media analysis
 │   └── reviewed_names.py           # loader for the file above
 ├── tools/
 │   ├── package_data.py             # gzip + split raw data into <100 MB parts for GitHub
@@ -132,32 +94,34 @@ Standard library only, Python 3.11+.
 
 ```bash
 python tools/rebuild_data.py                 # restore data/*.jsonl (about 1.7 GB)
-python analysis/discover_entities.py --data data --out results
+python analysis/novel_characters.py          # write the novel character lists (about 1.5 minutes)
 ```
 
-The analysis takes about 5 minutes. Add `--cache results/_work/pass1.pkl` to reuse the first scan on later runs.
-
-To refresh the data first:
+To bring the archive up to date first:
 
 ```bash
-python scraper/scrape_subreddit.py IntelligenceScaling   # downloads from the Arctic Shift archive
-python tools/package_data.py                             # re-split before committing
+python scraper/scrape_subreddit.py IntelligenceScaling --update data   # fetch only what is newer
+python tools/package_data.py                                           # re-split before committing
 ```
+
+The all-media reports are rebuilt with `python analysis/discover_entities.py --data data --out results` (about 4 minutes).
 
 ## How it works
 
-1. **Scan.** `discover_entities.py` reads every post title, post body and comment. It collects capitalized names, "X vs Y" title sides, "Name (Work)" tags and "&lt;Words&gt; Arc / Game" phrases, plus how often each word is used in lowercase (to tell names from ordinary words).
-2. **Label.** Names are matched to a hand-checked dictionary (`analyze_mentions.py` + `reviewed_names.txt`) that gives each character a work, a type and its aliases (for example *Ayanokoji / Ayanokouji / Kiyotaka / Koji*). I went through the frequency-ranked list of name candidates and labelled the ones that are characters.
-3. **Count.** Every alias is counted case-insensitively across all text. A post or comment counts once per character.
-4. **Everything else is kept.** Names not labelled are written to `names_unreviewed.csv` with exact counts, so a rarely mentioned character is never dropped, only unclassified.
+1. **Catalog.** `analysis/novel_catalog.txt` lists each novel with its type, and each character with the spellings the subreddit uses (for example *Diwu Zhiyi / Di Wu Zhi Yi*). Candidates came from scanning every capitalized name in the archive and measuring which novel each one is mentioned next to; each link was then confirmed by reading what the posts say ("X from Y", "X (Y)", "the MC of Y").
+2. **Check.** `novel_characters.py` reads every post title, post body and comment and looks for each spelling as whole words. Longer names win, so "Hei Lou Lan" is never counted as "Lou Lan".
+3. **Outlier guard.** Names that are also ordinary words or belong to several series (Adam, Amon, Shiro, Lynch, Kirito, Kei ...) count only when their novel, or another character of it, is named in the same post or comment, or in the post the comment belongs to.
+4. **List.** Characters with at least one confirmed mention are written to the lists. Catalog entries the archive never mentions are left out and printed at the end of the run.
+
+To add a character, add one line to the catalog and run the script again.
 
 ## Limitations
 
-- **Images are not read.** About 31,000 of the 44,000 posts are images or galleries, and any text inside them (stat sheets, screenshots) is missing. OCR could not be installed on the machine used. Titles, post bodies and all comments are fully covered.
-- **Counts are approximate.** Matching is by name. Ambiguous names (*Light*, *Kira*, *Hal*, *Arisu*, *Nao*) are matched only when capitalised, so some lowercase uses are missed and a few unrelated uses are caught. Entries marked *(ambiguous)* are shared by several characters.
-- **Labels are hand-made.** Character-to-work labels come from my own knowledge plus tags in the posts. A few web-novel characters are marked *(unidentified web novel)* because no source work could be confirmed.
-- **Arcs.** Only arcs that are named with the word "arc" or "game" at least 3 times are found. An arc's work is inferred from the characters mentioned with it, and left blank when unclear. "Best" means most discussed; the average score is shown as a rough guide to reception.
-- **The long tail.** `names_unreviewed.csv` has 18,394 entries, many of which are not names (scoring-sheet terms, places, usernames). Real characters mentioned only a handful of times are in there if they were capitalized in the text.
+- **Images are not read.** About 31,000 of the 44,000 posts are images or galleries, and text inside them (tier lists, stat sheets) is not covered. Titles, post bodies and all comments are.
+- **Rare characters can be missed.** A character has to be in the catalog to be listed. The catalog covers every name found by the scan that could be tied to a novel, but a character mentioned once or twice under an unusual spelling may not be in it.
+- **Translated names vary.** Chinese and Korean web novels often have several English titles and spellings. The lists use the form the subreddit uses most.
+- **Type is a judgement call.** A work is filed by its original form: web novels that later became manhwa or anime stay under web novels; visual novels, manga and their novelisations are left out.
+- **Undiscovered means unconfirmed, not unknowable.** Some of those novels exist but are untranslated or were never named in the subreddit.
 
 ## Notes
 
